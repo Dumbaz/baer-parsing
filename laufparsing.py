@@ -4,9 +4,10 @@ import csv
 
 soup = BeautifulSoup(open("Ergebnisliste.xls"), from_encoding="utf-8")
 
-laufname = soup.find('row').get_text().encode('utf-8')
+laufnameraw = soup.find('row').get_text().encode('utf-8')
+laufname = "".join(laufnameraw.split("\n"))
 
-localFile = open("laufname" + '.csv' , 'wb')
+localFile = open('laufname' + '.csv' , 'wb')
 
 for row_tag in soup.findAll('row'):
 	csvelement = row_tag.get_text("|").encode('utf-8'), row_tag.next_sibling
@@ -14,5 +15,6 @@ for row_tag in soup.findAll('row'):
 		s = str(csvelement[0])
 		u = unicode(s, "utf-8")
 		strippedele = "".join(u.split("\n"))
-		localFile.write(strippedele.encode('utf-8'))
-		print strippedele.encode('utf-8')
+		trailingnewline = strippedele + "\n"
+		localFile.write(trailingnewline.encode('utf-8'))
+		print trailingnewline.encode('utf-8')
