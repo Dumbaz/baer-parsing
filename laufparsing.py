@@ -41,3 +41,5 @@ localFile.close()
 		#compare ammount to all the other rows
 	#print "there are errors"
 	#print "Everything is a-OK"
+
+	
