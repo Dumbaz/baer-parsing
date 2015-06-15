@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import urllib2
 import os
 import random
+import datetime
 
 user_agents = [
     'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)',
@@ -20,6 +21,8 @@ user_agents = [
     ]
 
 connection_timeout = 90
+now = datetime.datetime.now()
+localFile = open("%d_" % now.day + "%d_" %now.month + "%d_" %now.year + "%d_" %now.hour + "%d_" %now.minute + "%d" %now.second + '.csv' , 'wb')
 
 random.seed()
 user_agent = random.choice(user_agents)
@@ -34,7 +37,7 @@ def get_url(url, referer_url=None):
     while retries > 0:
         try:
             if referer_url:
-                req = urllib2.Request(url)
+                req = urllib2.Request(url, headers={'accept': '*/*'})
                 req.add_header('Referer', referer_url)
                 page = opener.open(req)
             else:
@@ -52,17 +55,33 @@ def get_url(url, referer_url=None):
     print('Maximum number of retries reached.')
     return False
 
-testurl = "http://dumbaz.de/"
 # URL for the first page http://www.baer-service.de/ergebnisliste.php?lid=GAU&ak=&strecke=13,0%20km&sort=`geschlecht`,`platzTotal`&suche=&jahr=2015&style=&page=0
 bearurl = "http://www.baer-service.de/ergebnisliste.php?lid=GAU&sort=%60bruttozeit%60+DESC&suche=&jahr=2015&ak=&strecke=&geschlecht="
 
 
-print get_url(bearurl)
+# print get_url(bearurl)
+print len(get_url(bearurl))
 
-# Increment page attribute until 404
+soup = BeautifulSoup(get_url(bearurl))
+table = soup.find(lambda tag: tag.name=="table" and tag.has_attr('id') and tag['id']=="ergebnistabelle")
 
+rows = table.findAll(lambda tag: tag.name=="tr")
+
+for row_tag in rows:
+    csvelement = row_tag.get_text("|").encode('utf-8'), row_tag.next_sibling
+    if len(str(csvelement)) > 20:
+        s = str(csvelement[0])
+        u = unicode(s, "utf-8")
+        strippedele = "".join(u.split("\n"))
+        trailingnewline = strippedele + "\n"
+        localFile.write(trailingnewline[1:].encode('utf-8'))
+        print trailingnewline.encode('utf-8')
 # Feed table to Beautiful Soup
 
 # Write parsed table to file
+
+# Increment page attribute until 404
+
+
 
 # next page
