@@ -4,6 +4,11 @@ import os
 import random
 import datetime
 
+# URL for the first page http://www.baer-service.de/ergebnisliste.php?lid=GAU&ak=&strecke=13,0%20km&sort=`geschlecht`,`platzTotal`&suche=&jahr=2015&style=&page=0
+bearurl = "http://www.baer-service.de/ergebnisliste.php?lid=GAU&jahr=2015&sort=`strecke`,`geschlecht`,`platzTotal`,`bruttozeit`&geschlecht=&page=0"
+
+
+# Global Variables etc
 user_agents = [
     'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)',
     'Mozilla/5.0 (X11; Linux i686; rv:7.0.1) Gecko/20100101 Firefox/7.0.1',
@@ -30,6 +35,7 @@ user_agent = random.choice(user_agents)
 opener = urllib2.build_opener()
 opener.addheaders = [('User-Agent', user_agent)]
 
+# Get the HTML
 def get_url(url, referer_url=None):
     '''Downloads specified URL and returns its contents. Returns false
     on fail.'''
@@ -55,34 +61,45 @@ def get_url(url, referer_url=None):
     print('Maximum number of retries reached.')
     return False
 
-# URL for the first page http://www.baer-service.de/ergebnisliste.php?lid=GAU&ak=&strecke=13,0%20km&sort=`geschlecht`,`platzTotal`&suche=&jahr=2015&style=&page=0
-bearurl = "http://www.baer-service.de/ergebnisliste.php?lid=GAU&jahr=2015&sort=`strecke`,`geschlecht`,`platzTotal`,`bruttozeit`&geschlecht=&page=0"
 
+# Rewrites the url to hopefully change page=i to page=i+1
+def search_pages(leading_url):
+    print leading_url
+    #get last character
+    trailingchar = leading_url[-1:]
+    #turn into int
+    trailingnumber = int(trailingchar)
 
-# print get_url(bearurl)
+    #line wihtout last char
+    input_line = leading_url[:-1]
 
+    #increment trailingchar
+    trailingnumber = trailingnumber + 1
 
-soup = BeautifulSoup(get_url(bearurl))
-print len(soup.contents)
-table = soup.find(lambda tag: tag.name=="table" and tag.has_attr('id') and tag['id']=="ergebnistabelle")
+    #append to input_line
+    new_url = input_line + str(trailingnumber)
+    print new_url
+    return new_url
 
-rows = table.findAll(lambda tag: tag.name=="tr")
+def parsing(url):
+    soup = BeautifulSoup(get_url(url))
+    if len(soup.findAll('td')) == 1:
+        print 'Its over'
+        return
 
-for row_tag in rows:
-    csvelement = row_tag.get_text("|").encode('utf-8'), row_tag.next_sibling
-    if len(str(csvelement)) > 20:
-        s = str(csvelement[0])
-        u = unicode(s, "utf-8")
-        strippedele = "".join(u.split("\n"))
-        trailingnewline = strippedele + "\n"
-        localFile.write(trailingnewline[1:].encode('utf-8'))
-        print trailingnewline.encode('utf-8')
-# Feed table to Beautiful Soup
+    table = soup.find(lambda tag: tag.name=="table" and tag.has_attr('id') and tag['id']=="ergebnistabelle")
+    rows = table.findAll(lambda tag: tag.name=="tr")
 
-# Write parsed table to file
+    for row_tag in rows:
+        csvelement = row_tag.get_text("|").encode('utf-8'), row_tag.next_sibling
+        if len(str(csvelement)) > 20:
+            s = str(csvelement[0])
+            u = unicode(s, "utf-8")
+            strippedele = "".join(u.split("\n"))
+            trailingnewline = strippedele + "\n"
+            localFile.write(trailingnewline[1:].encode('utf-8'))
+            print trailingnewline.encode('utf-8')
 
-# Increment page attribute until 404
+    parsing(search_pages(url))
 
-
-
-# next page
+parsing(bearurl)
