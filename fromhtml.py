@@ -56,13 +56,14 @@ def get_url(url, referer_url=None):
     return False
 
 # URL for the first page http://www.baer-service.de/ergebnisliste.php?lid=GAU&ak=&strecke=13,0%20km&sort=`geschlecht`,`platzTotal`&suche=&jahr=2015&style=&page=0
-bearurl = "http://www.baer-service.de/ergebnisliste.php?lid=GAU&sort=%60bruttozeit%60+DESC&suche=&jahr=2015&ak=&strecke=&geschlecht="
+bearurl = "http://www.baer-service.de/ergebnisliste.php?lid=GAU&jahr=2015&sort=`strecke`,`geschlecht`,`platzTotal`,`bruttozeit`&geschlecht=&page=0"
 
 
 # print get_url(bearurl)
-print len(get_url(bearurl))
+
 
 soup = BeautifulSoup(get_url(bearurl))
+print len(soup.contents)
 table = soup.find(lambda tag: tag.name=="table" and tag.has_attr('id') and tag['id']=="ergebnistabelle")
 
 rows = table.findAll(lambda tag: tag.name=="tr")
