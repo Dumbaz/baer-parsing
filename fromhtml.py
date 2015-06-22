@@ -3,10 +3,34 @@ import urllib2
 import os
 import random
 import datetime
+import csv
 
 # URL for the first page http://www.baer-service.de/ergebnisliste.php?lid=GAU&ak=&strecke=13,0%20km&sort=`geschlecht`,`platzTotal`&suche=&jahr=2015&style=&page=0
 bearurl = "http://www.baer-service.de/ergebnisliste.php?lid=GAU&jahr=2015&sort=`strecke`,`geschlecht`,`platzTotal`,`bruttozeit`&geschlecht=&page=0"
 
+class UnicodeCSVWriter:
+    """docstring for UnicodeCSVWrite"""
+    def __init__(self, file, encoding="utf-8"):
+        self.queue = cStringIO.StringIO()
+        self.writer = csv.writer(self.queue, **kwds)
+        self.stream = file
+        self.encoder = codecs.getincrementalencoder(encoding)()
+
+    def writerow(self, row):
+        self.writer.writerow([s.encode("utf-8") for s in row])
+        # Fetch output from queue
+        data = self.queue.getValue()
+        data = data.decode("utf-8")
+        data = self.encoder.encode(data)
+        # Write to target stream
+        self.stream.write(data)
+        # Empty Queue
+        self.queue.truncate(0)
+
+    def writerows(self, rows):
+        for row in rows:
+            self.writerow(row)
+        
 
 # Global Variables etc
 user_agents = [
