@@ -119,12 +119,12 @@ def parsing(url):
     for tr in table.findAll('tr'):
         tds = tr.findAll('td')
         records.append([elem.text.encode('utf-8') for elem in tds])
-
-    with open('localFile', 'wb') as f:
-        writer = csv.writer(f)
-        writer.writerows(records)
     parsing(search_pages(url))
 
 
 
 parsing(bearurl)
+
+with open('localFile2', 'wb') as f:
+        writer = csv.writer(f)
+        writer.writerows(records)
