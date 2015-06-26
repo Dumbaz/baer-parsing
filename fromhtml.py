@@ -3,14 +3,15 @@ import urllib2
 import os
 import random
 import datetime
-import csv
+import csv, codecs, cStringIO
 
 # URL for the first page http://www.baer-service.de/ergebnisliste.php?lid=GAU&ak=&strecke=13,0%20km&sort=`geschlecht`,`platzTotal`&suche=&jahr=2015&style=&page=0
 bearurl = "http://www.baer-service.de/ergebnisliste.php?lid=GAU&jahr=2015&sort=`strecke`,`geschlecht`,`platzTotal`,`bruttozeit`&geschlecht=&page=0"
 
+records = []
+
 class UnicodeCSVWriter:
-    """docstring for UnicodeCSVWrite"""
-    def __init__(self, file, encoding="utf-8"):
+    def __init__(self, file, encoding="utf-8", **kwds):
         self.queue = cStringIO.StringIO()
         self.writer = csv.writer(self.queue, **kwds)
         self.stream = file
@@ -106,24 +107,24 @@ def search_pages(leading_url):
     return new_url
 
 def parsing(url):
+    UCSVW = UnicodeCSVWriter('testfile.csv')
     soup = BeautifulSoup(get_url(url))
+    # Cancel recursion
     if len(soup.findAll('td')) == 1:
         print 'Its over'
         return
 
     table = soup.find(lambda tag: tag.name=="table" and tag.has_attr('id') and tag['id']=="ergebnistabelle")
     rows = table.findAll(lambda tag: tag.name=="tr")
+    for tr in table.findAll('tr'):
+        tds = tr.findAll('td')
+        records.append([elem.text.encode('utf-8') for elem in tds])
 
-    for row_tag in rows:
-        csvelement = row_tag.get_text("|").encode('utf-8'), row_tag.next_sibling
-        if len(str(csvelement)) > 20:
-            s = str(csvelement[0])
-            u = unicode(s, "utf-8")
-            strippedele = "".join(u.split("\n"))
-            trailingnewline = strippedele + "\n"
-            localFile.write(trailingnewline[1:].encode('utf-8'))
-            print trailingnewline.encode('utf-8')
-
+    with open('localFile', 'wb') as f:
+        writer = csv.writer(f)
+        writer.writerows(records)
     parsing(search_pages(url))
+
+
 
 parsing(bearurl)
