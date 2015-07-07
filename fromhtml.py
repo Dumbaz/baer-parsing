@@ -6,7 +6,14 @@ import datetime
 import csv, codecs, cStringIO
 
 # URL for the first page http://www.baer-service.de/ergebnisliste.php?lid=GAU&ak=&strecke=13,0%20km&sort=`geschlecht`,`platzTotal`&suche=&jahr=2015&style=&page=0
-bearurl = "http://www.baer-service.de/ergebnisliste.php?lid=GAU&jahr=2015&sort=`strecke`,`geschlecht`,`platzTotal`,`bruttozeit`&geschlecht=&page=0"
+bearurl = "http://www.baer-service.de/ergebnisliste.php?lid=HZS&jahr=2015&sort=`strecke`,`geschlecht`,`platzTotal`,`bruttozeit`&geschlecht=" + "&page=0"
+
+future_file_name = raw_input("Enter the name of the race \n").replace(' ', '_').replace('.', '')
+print "File Name will be " + future_file_name + ".csv"
+input_url = raw_input("Enter an URL \n")
+print "Doing work...."
+
+bearurl = input_url + "&page=0"
 
 records = []
 headers = []
@@ -52,8 +59,8 @@ user_agents = [
     ]
 
 connection_timeout = 90
-now = datetime.datetime.now()
-localFile = open("%d_" % now.day + "%d_" %now.month + "%d_" %now.year + "%d_" %now.hour + "%d_" %now.minute + "%d" %now.second + '.csv' , 'wb')
+# now = datetime.datetime.now()
+# localFile = open("%d_" % now.day + "%d_" %now.month + "%d_" %now.year + "%d_" %now.hour + "%d_" %now.minute + "%d" %now.second + '.csv' , 'wb')
 
 random.seed()
 user_agent = random.choice(user_agents)
@@ -129,7 +136,7 @@ def parsing(url):
 
 parsing(bearurl)
 
-with open('localFile2', 'wb') as f:
+with open(future_file_name, 'wb') as f:
     writer = csv.writer(f, delimiter='|')
     writer.writerows(headers)
     writer.writerows(records)
