@@ -130,6 +130,6 @@ def parsing(url):
 parsing(bearurl)
 
 with open('localFile2', 'wb') as f:
-        writer = csv.writer(f, delimiter='|')
-        writer.writerows(headers)
-        writer.writerows(records)
+    writer = csv.writer(f, delimiter='|')
+    writer.writerows(headers)
+    writer.writerows(records)
