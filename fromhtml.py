@@ -9,6 +9,7 @@ import csv, codecs, cStringIO
 bearurl = "http://www.baer-service.de/ergebnisliste.php?lid=GAU&jahr=2015&sort=`strecke`,`geschlecht`,`platzTotal`,`bruttozeit`&geschlecht=&page=0"
 
 records = []
+headers = []
 
 class UnicodeCSVWriter:
     def __init__(self, file, encoding="utf-8", **kwds):
@@ -115,10 +116,13 @@ def parsing(url):
         return
 
     table = soup.find(lambda tag: tag.name=="table" and tag.has_attr('id') and tag['id']=="ergebnistabelle")
+    table_headers = soup.findAll(lambda tag: tag.name=="th")
+    if not headers:
+        headers.append([elem.text.encode('utf-8').strip() for elem in table_headers])
     rows = table.findAll(lambda tag: tag.name=="tr")
     for tr in table.findAll('tr'):
         tds = tr.findAll('td')
-        records.append([elem.text.encode('utf-8') for elem in tds])
+        records.append([elem.text.encode('utf-8').lstrip() for elem in tds])
     parsing(search_pages(url))
 
 
@@ -127,4 +131,5 @@ parsing(bearurl)
 
 with open('localFile2', 'wb') as f:
         writer = csv.writer(f)
+        writer.writerows(headers)
         writer.writerows(records)
