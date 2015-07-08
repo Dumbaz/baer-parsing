@@ -17,28 +17,6 @@ bearurl = input_url + "&page=0"
 
 records = []
 headers = []
-
-class UnicodeCSVWriter:
-    def __init__(self, file, encoding="utf-8", **kwds):
-        self.queue = cStringIO.StringIO()
-        self.writer = csv.writer(self.queue, **kwds)
-        self.stream = file
-        self.encoder = codecs.getincrementalencoder(encoding)()
-
-    def writerow(self, row):
-        self.writer.writerow([s.encode("utf-8") for s in row])
-        # Fetch output from queue
-        data = self.queue.getValue()
-        data = data.decode("utf-8")
-        data = self.encoder.encode(data)
-        # Write to target stream
-        self.stream.write(data)
-        # Empty Queue
-        self.queue.truncate(0)
-
-    def writerows(self, rows):
-        for row in rows:
-            self.writerow(row)
         
 
 # Global Variables etc
@@ -115,7 +93,6 @@ def search_pages(leading_url):
     return new_url
 
 def parsing(url):
-    UCSVW = UnicodeCSVWriter('testfile.csv')
     soup = BeautifulSoup(get_url(url))
     # Cancel recursion
     if len(soup.findAll('td')) == 1:
