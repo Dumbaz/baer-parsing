@@ -1,0 +1,101 @@
+To.|Ak.|Stnr.|Name, Vorname|Verein|Strecke|AK|Bruttozeit||Nat
+
+1|1|265|Katzer, Adrian|TV 1848 Bischofswerda|15 Minuten|Jungen|3310|2003|
+2|2|254|Nuck, Janos|OSLV Bautzen|15 Minuten|Jungen|3285|2004|
+3|3|260|Müller, Max|TV 1848 Bischofswerda|15 Minuten|Jungen|2900|2005|
+4|4|264|Thomas, Erwin|Biathlonverein Ringenhain|15 Minuten|Jungen|2850|1997|
+5|5|242|Ansorge, Niclas|Weickersdorf|15 Minuten|Jungen|2800|2004|
+6|6|283|Mosig, Paul|Doberschau|15 Minuten|Jungen|2600|2001|
+7|7|269|Bauer, Leonhard|Putzkau|15 Minuten|Jungen|2592|2000|
+8|8|255|Nuck, Juraj|OSLV Bautzen|15 Minuten|Jungen|2495|2007|
+9|9|239|Manczak, Julian|Bautzen|15 Minuten|Jungen|2410|2006|
+10|10|241|Leuthold, Jonas|Stacha|15 Minuten|Jungen|2330|2005|
+11|11|240|Manczak, Jannis|Bautzen|15 Minuten|Jungen|1840|2008|
+12|12|251|Mitschke, Luis|Sorbischer Kindergarten Radibo|15 Minuten|Jungen|1600|2010|
+13|13|236|Schäfer, Tim|Bischofswerda|15 Minuten|Jungen|1320|2007|
+14|14|270|Schäfer, Lukas|Bischofswerda|15 Minuten|Jungen|1300|2009|
+15|15|275|Hermann, Elias|Bischofswerda|15 Minuten|Jungen|1210|2010|
+16|16|267|Katzer, Cedric|TV 1848 Bischofswerda|15 Minuten|Jungen|1165|2010|
+17|17|271|Bläsche, Peter|Neustadt|15 Minuten|Jungen|1162|2010|
+18|18|249|Jurk, Ludwig|SG Crostwitz 1981|15 Minuten|Jungen|800|2011|
+1|1|234|Thomas, Luise|Biathlonverein Ringenhain|15 Minuten|Mädchen|3310|2003|
+2|2|230|Guhr, Emelie|OL-Biathlon-Verein Ringenhain|15 Minuten|Mädchen|3250|2002|
+3|3|262|Müller, Helen|TV 1848 Bischofswerda|15 Minuten|Mädchen|3100|2002|
+4|4|256|Eisold, Celine|SV 'Grün-Weiß' Elstra|15 Minuten|Mädchen|2680|2004|
+5|5|259|Steglich, Celina|SV 'Grün-Weiß' Elstra|15 Minuten|Mädchen|2658|2004|
+6|6|238|Schuster, Leni|SV 'Grün-Weiß' Elstra|15 Minuten|Mädchen|2600|2005|
+7|7|268|Ansorge, Nelli|Weickersdorf|15 Minuten|Mädchen|2480|2007|
+8|8|258|Steglich, Xenia|SV 'Grün-Weiß' Elstra|15 Minuten|Mädchen|2360|2006|
+9|9|257|Eisold, Jennifer|SV 'Grün-Weiß' Elstra|15 Minuten|Mädchen|2120|2006|
+10|10|274|Hermann, Jenny|Bischofswerda|15 Minuten|Mädchen|2010|2004|
+11|11|284|Gothe, Helene|Judoclub Rammenau|15 Minuten|Mädchen|2000|2008|
+12|12|229|Wessela, Johanna|Sorbischer Kindergarten Radibo|15 Minuten|Mädchen|1620|2009|
+13|13|272|Richter, Noemi|Bischofswerda|15 Minuten|Mädchen|1620|2008|
+14|14|246|Hermann, Nadine|TV 1848 BischofswerdaNadine|15 Minuten|Mädchen|1610|2008|
+15|15|202|Bär, Christine|TV 1848 Bischofswerda|15 Minuten|Mädchen|1300|1952|
+1|1|37|Gerhardt, Robby|Düsseldorf|30 Minuten|Männer|7630|1987|
+2|2|11|Thomas, Oliver|TV Valtenberg|30 Minuten|Männer|7310|1980|
+3|3|5|Lehmann, Heiko|Obergurig|30 Minuten|Männer|7260|1965|
+4|4|35|Rußig, Jonathan|TV Valtenberg Neukirch|30 Minuten|Männer|7180|1986|
+5|5|4|Gerbert, Michael|TV 1848 Bischofswerda|30 Minuten|Männer|6940|1968|
+6|6|13|Vogt, Jörg|TSV 90 Neukirch|30 Minuten|Männer|6880|1967|
+7|7|21|Bauer, Daniel|Budosport Traktor Schmölln|30 Minuten|Männer|6700|1996|
+8|8|26|Wemme, Steffen|Bischofswerda|30 Minuten|Männer|6630|1963|
+9|9|81|Helbig, John|Die Quarkkeulen|30 Minuten|Männer|6420|1997|
+10|10|77|Leschke, Mario|Burkau|30 Minuten|Männer|6320|1974|
+11|11|44|Bläsche, Gerold|Blau-Gold Bischofswerda|30 Minuten|Männer|6150|1957|
+12|12|91|Rußig, Thaddäus|Rammenau|30 Minuten|Männer|6100|1993|
+13|13|6|Müller, Sirko|Little John Neukirch|30 Minuten|Männer|6000|1972|
+14|14|52|Mitschke, Adrian|Sorbisches Gymnasium Bautzen|30 Minuten|Männer|5970|2002|
+15|15|47|Leuthold, Denis|Stacha|30 Minuten|Männer|5900|1977|
+16|16|73|Richter, Sebastian|Bischofswerda|30 Minuten|Männer|5740|1983|
+17|17|89|Ander, Gerd|Schirgiswalde|30 Minuten|Männer|5670|1954|
+18|18|14|Wacker, Lutz|Bischofswerda|30 Minuten|Männer|5600|1973|
+19|19|1|Bär, Armin|TV 1848 Bischofswerda|30 Minuten|Männer|5500|1948|
+20|20|82|Lindner, Steffen|Weickersdorf|30 Minuten|Männer|5480|1967|
+21|21|7|Pakoßnick, Gernot|FSG Bautzen|30 Minuten|Männer|5470|1942|
+22|22|78|Schramm, Erhard|WTK Elektronik|30 Minuten|Männer|5430|1953|
+23|23|99|Niems, Steffen|Judo Rammenau|30 Minuten|Männer|5400|1978|
+24|24|3|Bär, Andreas|TV 1848 Bischofswerda|30 Minuten|Männer|5250|1987|
+25|25|66|Katzer, Adrian|TV 1848 Bischofswerda|30 Minuten|Männer|5250|2003|
+26|26|20|Grulke, Peter|KSV|30 Minuten|Männer|5140|1943|
+27|27|17|Schubert, Sylvio|Winter Automobilpartner|30 Minuten|Männer|4890|1967|
+28|28|9|Stark, Freddy|SV Gesundbrunnen Bautzen|30 Minuten|Männer|4860|1964|
+29|29|28|Heiduschka, Fabian|GS Crostwitz|30 Minuten|Männer|4850|2000|
+30|30|93|Schmidt, Christoph|Die Quarkkeulen|30 Minuten|Männer|4850|1989|
+31|31|97|Simke, Gerold|TV 1848 Bischofswerda|30 Minuten|Männer|4800|2006|
+32|32|79|Puder, Frank|WTK Elektronik|30 Minuten|Männer|4700|1953|
+33|33|15|Schindler, Hartmut|OSC Löbau|30 Minuten|Männer|4630|1945|
+34|34|61|Müller, Max|TV 1848 Bischofswerda|30 Minuten|Männer|4590|2005|
+35|35|10|Svarovsky, Gerald|BFV 08|30 Minuten|Männer|4550|1963|
+36|36|95|Wiese, Stefan|Die Quarkkeulen|30 Minuten|Männer|4410|1985|
+37|37|88|Pohlmann, Thomas|WTK Elektronik|30 Minuten|Männer|4400|1961|
+38|38|33|Guhr, Eberhard|DAV Dresden|30 Minuten|Männer|4300|1939|
+39|39|8|Schäfer, Werner|TV 1848 Bischofswerda|30 Minuten|Männer|4110|1938|
+40|40|43|Stark, Richard|Budissa Bautzen|30 Minuten|Männer|3800|2007|
+41|41|18|Wolf, Siegfried|MSV Blau-Weiß Kreckwitz|30 Minuten|Männer|3730|1939|
+42|42|85|Gothe, Hubertus|Fußballclub Rammenau|30 Minuten|Männer|3600|2006|
+1|1|48|Blankertz-Teichert, Antje|Neustadt|30 Minuten|Frauen|10200|1967|
+2|2|22|Heiduschka, Claudia|SG Crostwitz 1981|30 Minuten|Frauen|6800|1974|
+3|3|87|Opitz, Jacquline|Rammenau|30 Minuten|Frauen|6200|1980|
+4|4|50|Jurk, Manuela|SG Crostwitz 1981|30 Minuten|Frauen|6050|1984|
+5|5|27|Heiduschka, Helena|GS Crostwitz|30 Minuten|Frauen|5795|2001|
+6|6|31|Müller, Annett|TV 1848 Bischofswerda|30 Minuten|Frauen|5780|1972|
+7|7|90|Rußig, Jessica|Rammenau|30 Minuten|Frauen|5700|1997|
+8|8|25|Wacker, Janet|Bischofswerda|30 Minuten|Frauen|5600|1973|
+9|9|16|Tralles, Carmen|TV1848 Bischofswerda|30 Minuten|Frauen|5520|1964|
+10|10|23|Vogt, Anja|OL-Biathlon-Verein Ringenhain|30 Minuten|Frauen|5450|1969|
+11|11|92|Zschiedrich, Manja|SG Frankenthal|30 Minuten|Frauen|5200|1974|
+12|12|53|Guhr, Bianca|Neukirch|30 Minuten|Frauen|5160|1977|
+13|13|12|Ullrich, Diana|SV Grün-Weiß Elstra|30 Minuten|Frauen|5030|1966|
+14|14|32|Diab, Sabine|Bautzen|30 Minuten|Frauen|4900|1962|
+15|15|45|Bläsche, Petra|Blau-Gold Bischofswerda|30 Minuten|Frauen|4800|1958|
+16|16|96|Simke, Paula|TV 1848 Bischofswerda|30 Minuten|Frauen|4800|2006|
+17|17|86|Gothe, Juliane|Rammenau|30 Minuten|Frauen|4700|1978|
+18|18|19|Steglich, Ina|Bischofswerda|30 Minuten|Frauen|4660|1979|
+19|19|63|Müller, Helen|TV 1848 Bischofswerda|30 Minuten|Frauen|4575|2002|
+20|20|24|Wessela, Sylvia|Radebor|30 Minuten|Frauen|4520|1981|
+21|21|98|Diab, Madeleine|Bautzen|30 Minuten|Frauen|4500|1985|
+22|22|80|Schramm, Siegrid|WTK Elektronik|30 Minuten|Frauen|4400|1958|
+23|23|76|Hermann, Manuela|Bischofswerda|30 Minuten|Frauen|3970|1973|
+24|24|94|Svarovsky, Riccarda|VfB 1999|30 Minuten|Frauen|3700|1999|

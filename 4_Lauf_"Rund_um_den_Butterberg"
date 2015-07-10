@@ -1,0 +1,318 @@
+To.|Ak.|Stnr.|Name, Vorname|Verein|Strecke|AK|Bruttozeit||Nat
+
+1|1|2033|Paul, Alexander|Ski-Club Kottmar Neugersdorf|1,8 km |Schüler A (14/15)|6:40|1989|DEU
+2|1|2008|Klix, Fabian|Ski-Club Kottmar Neugersdorf|1,8 km |Schüler B (12/13)|6:51|1991|DEU
+3|2|2015|Hofmann, Willi|TSV Rotation Dresden|1,8 km |Schüler A (14/15)|7:02|1990|DEU
+4|2|2026|Kümming, Anton|SG Motor Freital|1,8 km |Schüler B (12/13)|7:03|1991|DEU
+5|3|2052|Schneider, Pierre|Skizunft Dresden|1,8 km |Schüler B (12/13)|7:20|1991|DEU
+6|4|2014|Morgenstern, Stephan|Laufgruppe Jonsbergwiesel Jonsdorf|1,8 km |Schüler B (12/13)|7:20|1991|DEU
+7|5|2049|Lehmann, Hans|Schiller-Gymnasium Bautzen|1,8 km |Schüler B (12/13)|7:26|1992|DEU
+8|6|2004|Just, Felix|SG Motor Freital|1,8 km |Schüler B (12/13)|7:37|1992|DEU
+9|3|2022|Petzold, Wenzel|SG Motor Freital|1,8 km |Schüler A (14/15)|7:39|1990|DEU
+10|4|2038|Jeske, Philipp|SV 'Grün-Weiß' Elstra|1,8 km |Schüler A (14/15)|7:57|1990|DEU
+11|1|2001|Büchner, Franziskus|SV Einheit Kamenz|1,8 km |Schüler C (10/11)|8:01|1993|DEU
+12|7|2054|Thomas, Aleksandar|Land-SG Ehrenberg|1,8 km |Schüler B (12/13)|8:05|1991|DEU
+13|8|2051|Schneider, Oliver|Skizunft Dresden|1,8 km |Schüler B (12/13)|8:05|1991|DEU
+14|9|2034|Frommberger, Tom|Handball-Sport-Verein 1923 Pulsnitz|1,8 km |Schüler B (12/13)|8:06|1991|DEU
+15|10|2063|Brengel, Tobias|Gymnasium Bischofswerda|1,8 km |Schüler B (12/13)|8:31|1992|DEU
+17|11|2040|Ullrich, Marcus|SV 'Grün-Weiß' Elstra|1,8 km |Schüler B (12/13)|9:06|1991|DEU
+18|2|2018|Kowalsky, Til|Skiverein Großdubrau|1,8 km |Jungen bis 9 Jahre|9:34|1997|DEU
+19|3|2035|Scheibler, Simon|SV 'Grün-Weiß' Elstra|1,8 km |Jungen bis 9 Jahre|9:40|1995|DEU
+20|4|2056|Dreier, Paul|GS Burkau|1,8 km |Jungen bis 9 Jahre|9:45|1996|DEU
+21|2|2057|Kuchinke, Franz|Bischofswerda|1,8 km |Schüler C (10/11)|9:47|1994|DEU
+22|12|2061|Schneider, Karsten|TV 1848 Bischofswerda|1,8 km |Schüler B (12/13)|9:52|1992|DEU
+23|5|2012|Müller, Markus|ESV Lokomotive Bad Schandau|1,8 km |Jungen bis 9 Jahre|9:57|1997|DEU
+24|6|2011|Müller, Lukas|ESV Lokomotive Bad Schandau|1,8 km |Jungen bis 9 Jahre|10:03|1995|DEU
+25|7|2064|Brengel, Florian|Bischofswerda|1,8 km |Jungen bis 9 Jahre|10:06|1997|DEU
+26|8|2036|Pluder, Alex|SV 'Grün-Weiß' Elstra|1,8 km |Jungen bis 9 Jahre|10:34|1997|DEU
+27|9|2006|Müller, Henry|ESV Lok Döbeln|1,8 km |Jungen bis 9 Jahre|10:35|1997|DEU
+28|10|2050|Schöne, Lucas|SG Frankenthal|1,8 km |Jungen bis 9 Jahre|11:50|1999|DEU
+29|11|2059|Müller, Fabian|Radeberg|1,8 km |Jungen bis 9 Jahre|12:02|1999|DEU
+1|1|2028|Zimmermann, Kristin|Ostritzer Sportverein|1,8 km |Schülerin A (14/15)|7:03|1989|DEU
+2|2|2013|Matthes, Anne|Ski-Club Kottmar Neugersdorf|1,8 km |Schülerin A (14/15)|7:41|1989|DEU
+3|1|2023|Grötz, Sophia|SG Motor Freital|1,8 km |Schülerin C (10/11)|7:52|1994|DEU
+4|3|2021|Grunewald, Laura|SG Motor Freital|1,8 km |Schülerin A (14/15)|8:03|1990|DEU
+5|2|2019|Pink, Patricia|SG Motor Freital|1,8 km |Schülerin C (10/11)|8:04|1994|DEU
+6|1|2039|Anders, Maxi|SV 'Grün-Weiß' Elstra|1,8 km |Schülerin B (12/13)|8:21|1991|DEU
+7|2|2002|Büchner, Marie-Louise|SV Einheit Kamenz|1,8 km |Schülerin B (12/13)|8:31|1991|DEU
+8|3|2025|Hartmann, Anne|SG Motor Freital|1,8 km |Schülerin B (12/13)|8:32|1991|DEU
+9|3|2005|Just, Maxi|SG Motor Freital|1,8 km |Schülerin C (10/11)|8:33|1994|DEU
+10|5|2042|Methner, Jennifer|SV 'Grün-Weiß' Elstra|1,8 km |Schülerin C (10/11)|8:34|1993|DEU
+11|4|2030|Nebel, Franziska|TSV Leppersdorf|1,8 km |Schülerin A (14/15)|9:01|1990|DEU
+12|4|2043|Barth, Lina|SV 'Grün-Weiß' Elstra|1,8 km |Schülerin B (12/13)|9:13|1991|DEU
+13|1|2031|Lamm, Anna|Sport- u. Spielverein Heidenau|1,8 km |Mädchen bis 9 Jahre|9:16|1995|DEU
+14|1|2032|Lamm, Eva|Sport- u. Spielverein Heidenau|1,8 km |Mädchen bis 9 Jahre|9:16|1997|DEU
+15|6|2041|Sluka, Maria|SV 'Grün-Weiß' Elstra|1,8 km |Schülerin C (10/11)|9:23|1994|DEU
+16|3|2045|Barth, Paula|SV 'Grün-Weiß' Elstra|1,8 km |Mädchen bis 9 Jahre|9:29|1996|DEU
+17|4|2007|Klix, Annelie|Ski-Club Kottmar Neugersdorf|1,8 km |Mädchen bis 9 Jahre|9:34|1996|DEU
+18|5|2046|Jeske, Sophie|SV 'Grün-Weiß' Elstra|1,8 km |Mädchen bis 9 Jahre|9:38|1995|DEU
+19|6|2024|Hartmann, Marie|SG Motor Freital|1,8 km |Mädchen bis 9 Jahre|9:39|1995|DEU
+20|7|2053|Thomas, Lisa|Land-SG Ehrenberg|1,8 km |Mädchen bis 9 Jahre|9:44|1995|DEU
+21|7|2055|Dreier, Anne|GS Burkau|1,8 km |Schülerin C (10/11)|9:51|1994|DEU
+22|8|2058|Kuchinke, Marie Theres|TV 1848 Bischofswerda|1,8 km |Mädchen bis 9 Jahre|10:06|1997|DEU
+23|8|2016|Witschel, Jennifer|Sohland|1,8 km |Schülerin C (10/11)|10:30|1994|DEU
+24|9|2003|Büchner, Magdalena|SV Einheit Kamenz|1,8 km |Mädchen bis 9 Jahre|10:38|1998|DEU
+25|10|2044|Barth, Hanna|SV 'Grün-Weiß' Elstra|1,8 km |Mädchen bis 9 Jahre|11:02|1995|DEU
+26|11|2027|Hanke, Adrienne|Lauchhammer|1,8 km |Mädchen bis 9 Jahre|11:04|1995|DEU
+27|12|2017|Witschel, Vanessa|Sohland|1,8 km |Mädchen bis 9 Jahre|11:31|1995|DEU
+28|1|2062|Finger, Ilona|Oßling|1,8 km |weiblich|11:37|1956|DEU
+29|13|2060|Müller, Anne|ESV Lok Döbeln|1,8 km |Mädchen bis 9 Jahre|12:04|1999|DEU
+30|4|2020|Rockmann, Jasmin|SG Motor Freital|1,8 km |Schülerin C (10/11)|8:34|1993|DEU
+1|1|1106|König, Thomas|Ski-und Laufverein 1990 Lößnitz|10,0 km|Senioren 35-39|32:51|1965|DEU
+2|1|1072|Müller, Dietmar|LG Asics Pirna|10,0 km|Senioren 45-49|33:47|1956|DEU
+3|1|1164|Wunderlich, Steve|Pulsnitz|10,0 km|Männer 20-29|34:25|1977|DEU
+4|2|1160|Schlenkrich, Konrad|BSZ Bautzen|10,0 km|Männer 20-29|34:51|1980|DEU
+5|1|1105|Hennig, Mirko|Ski-und Laufverein 1990 Lößnitz|10,0 km|Senioren 30-34|34:54|1973|DEU
+6|2|1170|Taube, DetlevRenaldo|Leichtathletikzentrum Leipzig|10,0 km|Senioren 45-49|35:06|1957|DEU
+7|2|1054|Herrmann, Matthias|BLV 'Rot-Weiß 90'|10,0 km|Senioren 30-34|35:09|1973|DEU
+8|3|1076|Schönfeld, Danny|LWV Geringswalde|10,0 km|Männer 20-29|35:40|1981|DEU
+9|3|1139|Wagner, Henrik|Dresden|10,0 km|Senioren 30-34|35:44|1974|DEU
+10|1|1041|Lasch, Wolfram|Chemnitzer Laufverein MEGware|10,0 km|Senioren 40-44|35:47|1961|DEU
+11|2|1217|Patolla, Hartmut|Skiklub Dresden-Niedersedlitz|10,0 km|Senioren 35-39|35:52|1969|DEU
+12|3|1135|Dander, Bernd|Dresdner Trolle|10,0 km|Senioren 35-39|35:53|1965|DEU
+13|2|1071|Radke, Jens|LG Asics Pirna|10,0 km|Senioren 40-44|36:07|1964|DEU
+14|4|1159|Lehmann, Heiko|Bautzen|10,0 km|Senioren 35-39|36:20|1965|DEU
+15|1|1215|Petzold, Reinhard|BLV 'Rot-Weiß 90'|10,0 km|Senioren 50-54|36:24|1952|DEU
+16|5|1144|Kowalsky, Andre|Skiverein Großdubrau|10,0 km|Senioren 35-39|36:41|1967|DEU
+17|3|1222|Lorke-Philipp, Steffen|Radclub 1898 Radeberg|10,0 km|Senioren 45-49|36:46|1956|DEU
+18|1|1044|Otto, Henning|SV Klitzschen 1920|10,0 km|Senioren 55-59|36:52|1946|DEU
+19|4|1143|Dobritz, Andreas|Laufverein Limbach 2000|10,0 km|Senioren 45-49|37:19|1959|DEU
+20|5|1063|Quaißer, Gunter|Sport- u. Spielverein Heidenau|10,0 km|Senioren 45-49|37:20|1957|DEU
+21|4|1121|Günther, Marcus|LG Aue|10,0 km|Männer 20-29|37:21|1979|DEU
+22|3|1125|Morgenstern, Udo|Laufgruppe Jonsbergwiesel Jonsdorf|10,0 km|Senioren 40-44|37:21|1962|DEU
+23|1|1176|Dorbisch, Marcel|Ponikau|10,0 km|männliche Jugend A|38:00|1985|DEU
+24|5|1114|Kunze, Ronny|Königswarthaer SV|10,0 km|Männer 20-29|38:01|1975|DEU
+25|6|1074|Weber, Ronald|Leichtathletik-Sportverein 99 Hartha|10,0 km|Senioren 35-39|38:30|1965|DEU
+26|4|1092|Melzer, Lutz|VfL Dresden-Bühlau|10,0 km|Senioren 30-34|38:51|1970|DEU
+27|1|1117|Matthes, Stefan|Ski-Club Kottmar Neugersdorf|10,0 km|männliche Jugend B|38:54|1987|DEU
+28|2|1182|Biedermann, Nils|SV Fortschritt/Oschatz Sachsen|10,0 km|männliche Jugend B|38:58|1988|DEU
+29|6|1179|Pospisil, Joachim|Sportverein Elbland Coswig - Meißen|10,0 km|Senioren 45-49|38:59|1958|DEU
+30|7|1166|Schaarschmidt, Michael|VfL Dresden-Bühlau|10,0 km|Senioren 45-49|38:59|1958|DEU
+31|5|1061|Stöber, Rolf|Alpineskiclub Valtenberg|10,0 km|Senioren 30-34|39:04|1971|DEU
+32|8|1100|Külper, Helmut|TSV Dresden|10,0 km|Senioren 45-49|39:07|1958|DEU
+33|2|1224|Weigold, Dieter|Radclub 1898 Radeberg|10,0 km|Senioren 50-54|39:11|1953|DEU
+34|3|1203|Littig, Josua|SG Großröhrsdorf|10,0 km|männliche Jugend B|39:20|1987|DEU
+35|6|1178|Hoffmann, Ron|SV TuR Dresden|10,0 km|Männer 20-29|39:49|1984|DEU
+36|7|1149|Peschel, Thomas|Radclub 1898 Radeberg|10,0 km|Senioren 35-39|40:02|1968|DEU
+37|4|1175|Dorbisch, Matthias|Ponikau|10,0 km|männliche Jugend B|40:05|1988|DEU
+38|9|1018|Gräfe, Klaus|LG Deutschbaselitz|10,0 km|Senioren 45-49|40:11|1956|DEU
+39|8|1205|Schulze, Steffen|Eibau|10,0 km|Senioren 35-39|40:18|1966|DEU
+40|4|1086|Münzberg, Mario|Biketeam-Oberlausitz Taubenheim|10,0 km|Senioren 40-44|40:22|1964|DEU
+41|3|1077|Scheller, Frank|Hohburger Sportverein 1990|10,0 km|Senioren 50-54|40:31|1953|DEU
+42|5|1226|Bochdam, Torsten|Grün Weiß Team Sachsen|10,0 km|Senioren 40-44|41:13|1962|DEU
+
+43|6|1152|Nebel, Bernd|Doko- Team|10,0 km|Senioren 40-44|41:24|1962|DEU
+44|2|1162|Hentschel, Benjamin|Tennisclub Oppach|10,0 km|männliche Jugend A|41:27|1985|DEU
+45|7|1006|Papritz, Sven|Spielvereinigung Ebersbach|10,0 km|Männer 20-29|41:30|1979|DEU
+46|9|1145|Heymer, Swen|Turn-u.Sportgemeinschaft Glauchau|10,0 km|Senioren 35-39|41:34|1968|DEU
+47|7|1161|Dix, Helmut|Oppach|10,0 km|Senioren 40-44|41:45|1961|DEU
+48|4|1183|Niemann, Werner|VfL Dresden-Bühlau|10,0 km|Senioren 50-54|41:54|1950|DEU
+49|10|1142|Schneider, Jörg|Laufverein Limbach 2000|10,0 km|Senioren 45-49|41:59|1958|DEU
+50|2|1181|Heinicke, Wallfried|SV Naundorf|10,0 km|Senioren 55-59|42:01|1949|DEU
+51|8|1032|Ulbrich, Mario|Aufbau-Mitte- Dresden|10,0 km|Senioren 40-44|42:12|1964|DEU
+52|11|1202|Krause, Frank|Lomnitzer Sportverein|10,0 km|Senioren 45-49|42:13|1955|DEU
+53|3|1002|Munkelt, Friedemann|SC DHfK Leipzig|10,0 km|Senioren 55-59|42:17|1945|DEU
+54|8|1194|Müller, Daniel|Land-SG Ehrenberg|10,0 km|Männer 20-29|42:20|1982|DEU
+55|1|1112|Gawor, Hans-Joachim|Königswarthaer SV|10,0 km|Senioren 60-64|42:25|1941|DEU
+56|9|1004|Giebler, André|Turn- u. Sportgemeinschaft Weinböhla|10,0 km|Senioren 40-44|42:51|1960|DEU
+57|5|1185|Kirst, Frank|BSV Chemie Radebeul|10,0 km|Senioren 50-54|42:58|1953|DEU
+58|12|1207|Kopatschek, Andreas|Ullersdorf|10,0 km|Senioren 45-49|43:12|1958|DEU
+59|10|1189|Lenz, Michael|Berlin|10,0 km|Senioren 35-39|43:15|1967|DEU
+60|1|1073|Werrmann, Günter|LG Asics Pirna|10,0 km|Senioren 65-69|43:26|1938|DEU
+61|2|1046|Mittrach, Hans-Günther|LG Kamenz|10,0 km|Senioren 60-64|43:32|1942|DEU
+62|3|1048|Dohms, Lutz|SC DHfK Leipzig|10,0 km|Senioren 60-64|43:34|1942|DEU
+63|13|1038|Wohlgemuth, Dietmar|BSG KSK Löbau-Zittau|10,0 km|Senioren 45-49|43:44|1955|DEU
+64|10|1109|Bartsch, Ronald|Pließkowitz|10,0 km|Senioren 40-44|43:47|1963|DEU
+65|6|1227|Dieterle, Sandro|Grün Weiß Team Sachsen|10,0 km|Senioren 30-34|43:54|1973|DEU
+66|11|1214|Dorsch, Jörg|Schönbach|10,0 km|Senioren 40-44|43:58|1961|DEU
+67|7|1099|Grunwald, Daniel|Sportverein Bautzen|10,0 km|Senioren 30-34|43:58|1974|DEU
+68|4|1026|Hartwig, Wolf-Henning|SG der Dresdner Bank AG in Dresden|10,0 km|Senioren 60-64|43:59|1943|DEU
+69|12|1016|Knobloch, Veit|Bautzen|10,0 km|Senioren 40-44|44:00|1962|DEU
+70|6|1035|Strosny, Wolfgang|BLV 'Rot-Weiß 90'|10,0 km|Senioren 50-54|44:03|1951|DEU
+71|14|1219|Kunath, Wolfram|Radebeul|10,0 km|Senioren 45-49|44:10|1955|DEU
+72|4|1154|Schneider, Steffen|Eisenbahner-SV Dresden|10,0 km|Senioren 55-59|44:23|1948|DEU
+73|2|1141|Albrecht, Egon|Pulsnitz|10,0 km|Senioren 65-69|44:29|1939|DEU
+74|7|1031|Reinhold, Herbert|LG Wartturm Niesky|10,0 km|Senioren 50-54|44:34|1954|DEU
+75|5|1184|Gaube, Horst|LG Asics Pirna|10,0 km|Senioren 60-64|44:37|1941|DEU
+76|5|1193|Röhr, Egbert|LG Asics Pirna|10,0 km|Senioren 55-59|44:52|1949|DEU
+77|13|1089|Köhler, Lutz|Lauf- und Freizeitverein Oberholz|10,0 km|Senioren 40-44|44:56|1961|DEU
+78|3|1148|Zimmermann, Felix|Hirschfelde|10,0 km|männliche Jugend A|44:59|1986|DEU
+79|15|1138|Sandrock, Gunter|TSV Dresden|10,0 km|Senioren 45-49|45:00|1955|DEU
+80|9|1213|Schönfeld, Thomas|Göda|10,0 km|Männer 20-29|45:01|1978|DEU
+81|14|1174|Schwegmann, Guido|Hochkirch|10,0 km|Senioren 40-44|45:03|1964|DEU
+82|8|1115|Müller, Thomas|ESV Lokomotive Bad Schandau|10,0 km|Senioren 30-34|45:16|1970|DEU
+83|10|1211|Loschke, Rico|Biketeam-Oberlausitz Taubenheim|10,0 km|Männer 20-29|45:25|1976|DEU
+84|4|1163|Lein, Frank|BSZ Bautzen|10,0 km|männliche Jugend A|45:33|1986|DEU
+85|6|1045|Kanitz, Willi|SV Klitzschen 1920|10,0 km|Senioren 60-64|45:38|1943|DEU
+86|11|1196|Hentzschel, Uwe|Hohnstein|10,0 km|Männer 20-29|45:45|1977|DEU
+87|3|1066|Höfgen, Hans|SG Oberlichtenau|10,0 km|Senioren 65-69|45:56|1937|DEU
+88|11|1101|Jurke, Torsten|See|10,0 km|Senioren 35-39|46:05|1967|DEU
+89|12|1113|Vesper, Frank|Neugersdorf|10,0 km|Senioren 35-39|46:06|1968|DEU
+90|4|1197|Reiter, Wolfgang|TSV Dresden|10,0 km|Senioren 65-69|46:17|1938|DEU
+91|5|1206|Schmidt, Reinhardt|Tornaer Ring 11|10,0 km|männliche Jugend A|46:21|1985|DEU
+92|9|1094|Freudenberg, Pedro|Großröhrsdorf|10,0 km|Senioren 30-34|46:22|1974|DEU
+93|7|1173|Pakoßnick, Gernot|FSG Bautzen|10,0 km|Senioren 60-64|46:32|1942|DEU
+94|8|1020|Eberdt, Klaus|SC DHfK Leipzig|10,0 km|Senioren 60-64|46:40|1943|DEU
+95|10|1225|Pohling, Marco|VfL Dresden-Bühlau|10,0 km|Senioren 30-34|46:48|1974|DEU
+96|6|1085|Nönnig, Jürgen|Laufgruppe Mohorn-Grund|10,0 km|Senioren 55-59|47:00|1947|DEU
+97|8|1209|Rohloff, Bernd|VfL Dresden-Bühlau|10,0 km|Senioren 50-54|47:02|1951|DEU
+98|16|1051|Meier, Gerd|ESV Lok Döbeln|10,0 km|Senioren 45-49|47:05|1959|DEU
+99|9|1169|Wedlich, Rudolf|OL-Team- Wehrsdorf (TSV 1859)|10,0 km|Senioren 60-64|47:11|1944|DEU
+100|7|1017|Kindt, Wolfgang|TSV Dresden|10,0 km|Senioren 55-59|47:20|1948|DEU
+101|8|1136|Horn, Werner|Laufsportverein 1979 Görlitz|10,0 km|Senioren 55-59|47:27|1946|DEU
+102|15|1128|Klatt, Anselm|Dresden|10,0 km|Senioren 40-44|47:37|1963|DEU
+103|5|1188|Müller, Siegfried|Turnv. Dresden-Blasewitz 1879|10,0 km|Senioren 65-69|47:41|1938|DEU
+104|9|1192|Rentsch, Johannes|SV Panschwitz|10,0 km|Senioren 50-54|47:50|1950|DEU
+105|13|1025|Schüller, Michael|Kubschütz|10,0 km|Senioren 35-39|47:57|1965|DEU
+106|11|1168|Trexler, Milan|Bergwacht Pirna|10,0 km|Senioren 30-34|48:02|1973|DEU
+107|17|1013|Gerlach, Frank|Oppach|10,0 km|Senioren 45-49|48:09|1958|DEU
+108|16|1078|Hänsel, Uwe|Dresden|10,0 km|Senioren 40-44|48:25|1964|DEU
+109|10|1034|Kunath, Christian|Oberlichtenau|10,0 km|Senioren 50-54|48:27|1953|DEU
+110|10|1177|Weichelt, Manfred|Wiesa|10,0 km|Senioren 60-64|49:06|1943|DEU
+111|1|1057|Zosel, Armin|TSV 1862 Radeburg|10,0 km|Senioren 70-74|49:08|1934|DEU
+112|9|1014|List, Hans-Joachim|LRV Hohenbocka|10,0 km|Senioren 55-59|49:23|1949|DEU
+113|17|1228|Mark, Michael|Grün Weiß Team Sachsen|10,0 km|Senioren 40-44|49:26|1963|DEU
+114|6|1140|Mielke, Günther|Bretnig-Hauswalde|10,0 km|Senioren 65-69|49:33|1937|DEU
+115|6|1053|Meier, Norbert|ESV Lok Döbeln|10,0 km|männliche Jugend A|49:52|1986|DEU
+116|14|1005|Schmidt, Thomas|Putzkau|10,0 km|Senioren 35-39|49:53|1969|DEU
+117|12|1055|Mai, Olaf|Dresden|10,0 km|Senioren 30-34|49:54|1971|DEU
+118|18|1102|Alter, Christian|TSV 'Einheit' Kamenz|10,0 km|Senioren 45-49|49:55|1957|DEU
+119|11|1029|Herzog, Gerd|Oppach|10,0 km|Senioren 50-54|50:03|1954|DEU
+120|19|1131|Wadenbach, Lutz|Oberlausitzer SC Löbau|10,0 km|Senioren 45-49|50:07|1957|DEU
+121|2|1171|Beyer, Gunther|Turn- u. SV Einheit Grimma|10,0 km|Senioren 70-74|50:12|1934|DEU
+122|18|1146|Hanke, Christian|Lauchhammer|10,0 km|Senioren 40-44|50:18|1963|DEU
+123|19|1199|Schöne, Thomas|SG Frankenthal|10,0 km|Senioren 40-44|50:23|1964|DEU
+124|3|1220|Paul, Wilhelm|SSV Neustadt|10,0 km|Senioren 70-74|50:31|1934|DEU
+125|7|1068|Willweber, Siegfried|Oberlausitzer SC Löbau|10,0 km|Senioren 65-69|51:12|1936|DEU
+126|4|1082|Michel, Hilmar|Dresden|10,0 km|Senioren 70-74|51:30|1930|DEU
+127|12|1132|Kießling, Helmut|Oberlausitzer SC Löbau|10,0 km|Senioren 50-54|51:35|1954|DEU
+128|10|1116|Schindler, Hartmut|Oberlausitzer SC Löbau|10,0 km|Senioren 55-59|51:47|1945|DEU
+129|8|1091|Melzer, Bernd|VfL Dresden-Bühlau|10,0 km|Senioren 65-69|51:51|1939|DEU
+130|9|1167|Langnickel, Horst|Dresden|10,0 km|Senioren 65-69|52:36|1939|DEU
+131|10|1009|Müller, Heinz|SV Großkmehlen|10,0 km|Senioren 65-69|52:56|1939|DEU
+132|13|1050|Müller, Thomas|ESV Lok Döbeln|10,0 km|Senioren 30-34|53:01|1970|DEU
+133|5|1221|Schieke, Hans-Joachim|SV Zittau Süd|10,0 km|Senioren 70-74|53:08|1933|DEU
+134|11|1030|Brussig, Siegfried|LG Wartturm Niesky|10,0 km|Senioren 65-69|53:25|1939|DEU
+135|20|1208|Stolle, Jörg|SV Kirschau|10,0 km|Senioren 40-44|54:06|1964|DEU
+136|20|1212|Weidner, Hans-Joachim|SV 'Grün-Weiß' Elstra|10,0 km|Senioren 45-49|54:33|1958|DEU
+137|21|1104|Döring, Michael|Bautzen|10,0 km|Senioren 40-44|57:16|1964|DEU
+138|11|1060|Redetzky, Robert|FHL Lausitz|10,0 km|Senioren 60-64|57:51|1940|DEU
+139|12|1090|Wolf, Siegfried|MSV Blau-Weiß Kreckwitz|10,0 km|Senioren 65-69|58:02|1939|DEU
+140|13|1052|Engemann, Klaus|ESV Lok Döbeln|10,0 km|Senioren 65-69|59:57|1938|DEU
+141|12|1065|Klösel, Helmut|NLLB Cottbus|10,0 km|Senioren 60-64|1:08:10|1942|DEU
+142|1|1187|Glöckner, Hermann|VfL Dresden-Bühlau|10,0 km|Senioren 75-79|1:11:32|1928|DEU
+
+143|6|1059|Ratayczak, Lothar|Laufsportverein 1979 Görlitz|10,0 km|Senioren 70-74|1:12:59|1933|DEU
+144|14|1095|Otto, Klaus|NLLB Cottbus|10,0 km|Senioren 65-69|1:13:38|1938|DEU
+145|7|1223|Lachmann, Werner|Triathlonverein Dresden|10,0 km|Senioren 70-74|1:33:44|1930|DEU
+1|1|1172|Tanzmann, Kathrin|Königswarthaer SV|10,0 km|Seniorinnen 35-39|39:23|1969|DEU
+2|1|1108|Marx, Christin|TSV Dresden|10,0 km|Seniorinnen 40-44|39:51|1964|DEU
+3|2|1079|Hänsel, Heike|Dresden|10,0 km|Seniorinnen 40-44|41:37|1963|DEU
+4|1|1156|Töpfer, Regine|Turn- u. SV Großschönau|10,0 km|Seniorinnen 45-49|42:14|1958|DEU
+5|1|1198|Haase, Diana|TSV Dresden|10,0 km|Seniorinnen 30-34|43:33|1973|DEU
+6|1|1097|Kranich, Franziska|SV Koweg Görlitz|10,0 km|Frauen 20-29|43:39|1984|DEU
+7|2|1137|Dreier, Grit|Burkau|10,0 km|Seniorinnen 30-34|44:06|1971|DEU
+8|3|1130|Wadenbach, Ilona|Oberlausitzer SC Löbau|10,0 km|Seniorinnen 40-44|45:17|1961|DEU
+9|1|1210|Boden, Christine|VfL Dresden-Bühlau|10,0 km|Seniorinnen 50-54|46:00|1953|DEU
+10|2|1049|Müller, Uta|ESV Lok Döbeln|10,0 km|Seniorinnen 35-39|46:06|1966|DEU
+11|1|1001|Schubert, Christine|Laufclub Auensee  Leipzig|10,0 km|Seniorinnen 55-59|46:19|1948|DEU
+12|2|1033|Kunath, Marion|SG Oberlichtenau|10,0 km|Seniorinnen 45-49|46:51|1958|DEU
+13|3|1040|Just, Katrin|SG Motor Freital|10,0 km|Seniorinnen 35-39|46:56|1966|DEU
+14|4|1124|Hilgner, Katrin|Laufsportverein 1979 Görlitz|10,0 km|Seniorinnen 35-39|47:08|1969|DEU
+15|3|1037|Jochmann, Kerstin|BSG KSK Löbau-Zittau|10,0 km|Seniorinnen 45-49|47:25|1956|DEU
+16|2|1216|Petzold, Tina|WSV Neptun Bautzen|10,0 km|Frauen 20-29|48:06|1976|DEU
+17|3|1083|Häußler, Anita|Lauf- und Radsport-Club  Mittelsachsen|10,0 km|Seniorinnen 30-34|48:23|1971|DEU
+18|4|1087|Kotzur, Andrea|Biketeam-Oberlausitz Taubenheim|10,0 km|Seniorinnen 40-44|48:30|1962|DEU
+19|5|1075|Weber, Kathrin|Leichtathletik-Sportverein 99 Hartha|10,0 km|Seniorinnen 35-39|48:39|1968|DEU
+20|4|1103|Flaschin, Elvira|ESV Lok Döbeln|10,0 km|Seniorinnen 45-49|48:51|1958|DEU
+21|3|1190|Vogel, Insa|Leichtathletikverein Pirna|10,0 km|Frauen 20-29|49:12|1984|DEU
+22|5|1165|Dubsky, Ute|VfL Dresden-Bühlau|10,0 km|Seniorinnen 45-49|49:19|1958|DEU
+23|6|1204|Krömer, Ines|Turn-und Sportverein Waltersdorf|10,0 km|Seniorinnen 35-39|50:01|1966|DEU
+24|5|1093|Conrad, Petra|SV Koweg Görlitz|10,0 km|Seniorinnen 40-44|50:10|1963|DEU
+25|4|1043|Anhalt, Kirsten|Görlitz|10,0 km|Seniorinnen 30-34|50:20|1974|DEU
+26|6|1042|Lasch, Simone|Chemnitzer Laufverein MEGware|10,0 km|Seniorinnen 40-44|50:25|1963|DEU
+27|2|1191|Vogel, Sigrid|Rennsteiglaufverein|10,0 km|Seniorinnen 50-54|50:46|1954|DEU
+28|5|1155|Lamm, Jana|Sport- u. Spielverein Heidenau|10,0 km|Seniorinnen 30-34|50:49|1971|DEU
+29|6|1157|Frommberger, Anke|SG Oberlichtenau|10,0 km|Seniorinnen 30-34|50:59|1970|DEU
+30|7|1015|Horota, Katja|TSV Fortschritt Mittweida 1949|10,0 km|Seniorinnen 35-39|51:02|1969|DEU
+31|4|1088|Harnisch, Katja|Biketeam-Oberlausitz Taubenheim|10,0 km|Frauen 20-29|51:04|1980|DEU
+32|7|1119|Hoffmann, Carola|TopFitNews Görlitz|10,0 km|Seniorinnen 40-44|51:05|1961|DEU
+33|1|1047|Mittrach, Irene|LG Kamenz|10,0 km|Seniorinnen 60-64|51:26|1943|DEU
+34|8|1039|Jesche, Tatjana|SV Wacker Mohorn|10,0 km|Seniorinnen 40-44|51:27|1964|DEU
+35|9|1153|Nebel, Sabine|TSV Leppersdorf|10,0 km|Seniorinnen 40-44|51:46|1962|DEU
+36|7|1180|Gaber, Annette|Universitäts SV TU Dresden|10,0 km|Seniorinnen 30-34|51:52|1971|DEU
+37|8|1200|Otto, Annett|TSV Dresden|10,0 km|Seniorinnen 35-39|52:00|1969|DEU
+38|1|1036|Strosny, Dominique-Francoise|BLV 'Rot-Weiß 90'|10,0 km|weibliche Jugend B|53:10|1987|DEU
+39|2|1081|Dubrau, Renate|VfL Dresden-Bühlau|10,0 km|Seniorinnen 60-64|53:19|1941|DEU
+40|6|1058|Dießner, Cornelia|Laufsportverein 1979 Görlitz|10,0 km|Seniorinnen 45-49|53:27|1959|DEU
+41|2|1218|Graf, Kathleen|Oberlausitzer SC Löbau|10,0 km|weibliche Jugend B|54:06|1987|DEU
+42|7|1062|Quaißer, Petra|Sport- u. Spielverein Heidenau|10,0 km|Seniorinnen 45-49|54:49|1958|DEU
+43|2|1127|Herbst, Gabriele|Laufgruppe Jonsbergwiesel Jonsdorf|10,0 km|Seniorinnen 55-59|54:53|1949|DEU
+44|10|1126|Morgenstern, Heidemarie|Laufgruppe Jonsbergwiesel Jonsdorf|10,0 km|Seniorinnen 40-44|55:05|1963|DEU
+45|5|1008|Solbrig, Heike|TUS- Hornau|10,0 km|Frauen 20-29|55:39|1976|DEU
+46|8|1118|Brilke, Angelika|BLV 'Rot-Weiß 90'|10,0 km|Seniorinnen 45-49|56:04|1957|DEU
+47|3|1186|Lüdicke, Annemarie|BSV Chemie Radebeul|10,0 km|Seniorinnen 60-64|56:25|1943|DEU
+48|6|1098|Strosny, Nicolle|Postsportverein Bautzen|10,0 km|Frauen 20-29|57:12|1975|DEU
+49|9|1195|Müller, Marlies|Land-SG Ehrenberg|10,0 km|Seniorinnen 45-49|57:20|1957|DEU
+50|4|1070|Kullmann, Bärbel|LG Asics Pirna|10,0 km|Seniorinnen 60-64|57:48|1942|DEU
+51|9|1158|Ullrich, Diana|SV 'Grün-Weiß' Elstra|10,0 km|Seniorinnen 35-39|57:59|1966|DEU
+52|3|1003|Munkelt, Renate|SC DHfK Leipzig|10,0 km|Seniorinnen 55-59|58:34|1948|DEU
+53|8|1024|Schüller, Bettina|SV Kubschütz|10,0 km|Seniorinnen 30-34|1:00:25|1970|DEU
+54|3|1151|Heukrodt, Inge|TSV Dresden|10,0 km|Seniorinnen 50-54|1:01:04|1952|DEU
+55|9|1229|Riehmer, Kati|Berggießhübel|10,0 km|Seniorinnen 30-34|1:01:04|1973|DEU
+56|7|1007|Schmidt, Marlene|Neueibau|10,0 km|Frauen 20-29|1:01:11|1977|DEU
+57|11|1201|Bartel, Annekatrin|Zentendorf|10,0 km|Seniorinnen 40-44|1:01:14|1963|DEU
+58|3|1110|Biewusch, Katja|Königswarthaer SV|10,0 km|weibliche Jugend B|1:04:01|1987|DEU
+59|4|1027|Hartwig, Karin|SG der Dresdner Bank AG in Dresden|10,0 km|Seniorinnen 55-59|1:04:40|1945|DEU
+60|1|1056|Spitzner, Gudrun|Sportverein Motor Leipzig-Nord|10,0 km|Seniorinnen 70-74|1:08:45|1934|DEU
+61|1|1096|Otto, Anita|NLLB Cottbus|10,0 km|Seniorinnen 65-69|1:13:38|1939|DEU
+1|1|5025|Kasper, Felix|LAC Erdgas Chemnitz|5,0 km|nnliche Jugend B|16:46|1988|DEU
+2|1|5022|Knobloch, Jörg|Seifhennersdorf|5,0 km|Senioren 40-44|19:17|1962|DEU
+3|2|5045|Kiesslich, Mario|SV Aufbau Kodersdorf 1951|5,0 km|Senioren 40-44|19:41|1960|DEU
+4|3|5007|Büchner, Markus|SV Einheit Kamenz|5,0 km|Senioren 40-44|20:00|1964|DEU
+5|1|5048|Wilde, Andreas|Triathlon - Little John Neukirch|5,0 km|Senioren 45-49|20:30|1958|DEU
+6|1|5041|Handrick, Vinzenz|Milkwitz|5,0 km|nnliche Jugend A|20:52|1985|DEU
+7|1|5046|Köhler, Torsten|Team Intersport Timm|5,0 km|Senioren 30-34|20:53|1970|DEU
+8|4|5029|Hentschel, Torsten|HSG Turbine Zittau|5,0 km|Senioren 40-44|21:05|1964|DEU
+9|1|5044|Paul, Gerold|Ski-Club Kottmar Neugersdorf|5,0 km|Senioren 35-39|21:22|1965|DEU
+10|1|5028|Meißner, Frank|SG Motor Freital|5,0 km|Senioren 50-54|21:35|1950|DEU
+11|1|5052|Lambrecht, Björn|Team Intersport Timm|5,0 km |Männer 20-29|21:37|1982|DEU
+12|2|5016|Wache, Heiko|Senftenberg|5,0 km|Senioren 30-34|21:55|1971|DEU
+13|1|5042|Fritz, Klaus|Oberlausitzer SC Löbau|5,0 km|Senioren 65-69|23:47|1939|DEU
+14|2|5030|Lehmann, Martin|Handballverein Großenhain|5,0 km|nnliche Jugend A|23:55|1985|DEU
+15|5|5051|Mauer, Thomas|Kamenz|5,0 km|Senioren 40-44|24:24|1961|DEU
+16|1|5023|Tralles, Robert|TV 1848 Bischofswerda|5,0 km |männlich|24:40|1990|DEU
+17|3|5004|Wendland, Thomas|Radeberg|5,0 km|Senioren 30-34|25:10|1971|DEU
+18|6|5014|Tietze, Peter|Lichtensee|5,0 km|Senioren 40-44|26:25|1962|DEU
+19|2|5038|Brahn, Lothar|Kegelsportverein Heidenau|5,0 km|Senioren 65-69|26:26|1936|DEU
+20|2|5032|Paulsen, Dirk|Steina|5,0 km|Senioren 35-39|26:52|1967|DEU
+21|3|5024|Witschel, Jens|Sohland|5,0 km|Senioren 35-39|27:06|1969|DEU
+22|2|5010|Spitzner, Max|SV Automation 61 Leipzig|5,0 km |männlich|27:40|1991|DEU
+23|4|5043|Thomas, Jan|Land-SG Ehrenberg|5,0 km|Senioren 30-34|28:32|1972|DEU
+24|1|5012|Röntzsch, Manfred|TSG Bretnig-Hauswalde|5,0 km|Senioren 60-64|29:20|1943|DEU
+25|3|5013|Ullrich, Reiner|SV Dreiländereck Zittau|5,0 km|Senioren 65-69|30:19|1937|DEU
+26|4|5001|Zschiedrich, Ehrenfried|Dresden|5,0 km|Senioren 65-69|31:27|1936|DEU
+27|1|5027|Nuck, Georg|SV Sokol Bautzen|5,0 km|Senioren 70-74|31:43|1934|DEU
+28|2|5018|Schopinska, Roland|Laufgruppe Jonsbergwiesel Jonsdorf|5,0 km|Senioren 50-54|34:52|1954|DEU
+29|1|5017|Herbst, Ingo|Laufgruppe Jonsbergwiesel Jonsdorf|5,0 km|Senioren 55-59|34:55|1947|DEU
+30|2|5040|Brache, Werner|Gröditz|5,0 km|Senioren 60-64|35:44|1941|DEU
+31|3|5049|Robel, Veit|Bautzen|5,0 km|Senioren 50-54|42:05|1953|DEU
+0|0|3|Albrecht, Gisela|Dresden|5,0 km|weiblich - Walking|48:36|1936|DEU
+0|0|4|John, Brigitte|TV 1848 Bischofswerda|5,0 km|weiblich - Walking|48:37|1951|DEU
+1|1|5047|Müller, Ina|Liegau-Augustusbad|5,0 km|Seniorinnen 35-39|24:10|1968|DEU
+2|2|5011|Klix, Claudia|Ski-Club Kottmar Neugersdorf|5,0 km|Seniorinnen 35-39|25:41|1967|DEU
+3|1|5015|Klinger, Anja|Ski-und Laufverein 1990 Lößnitz|5,0 km |Frauen 20-29|25:49|1977|DEU
+
+4|3|5021|Hofmann, Katrin|TSV Dresden|5,0 km|Seniorinnen 35-39|25:52|1967|DEU
+5|1|5005|Wünsche, Sabine|BLV 'Rot-Weiß 90'|5,0 km|Seniorinnen 40-44|26:33|1964|DEU
+6|4|5003|Hähner, Veronika|Großerkmannsdorf|5,0 km|Seniorinnen 35-39|26:38|1968|DEU
+7|1|5031|Paulsen, Ute|Steina|5,0 km|Seniorinnen 30-34|27:35|1970|DEU
+8|5|5006|Büchner, Carola|SV Einheit Kamenz|5,0 km|Seniorinnen 35-39|27:55|1966|DEU
+9|2|5034|Tralles, Carmen|TV 1848 Bischofswerda|5,0 km|Seniorinnen 40-44|28:28|1964|DEU
+10|2|5008|Pötschke, Gabriele|Burkau|5,0 km |Frauen 20-29|29:22|1976|DEU
+11|6|5050|Großmann, Gabriele|Gersdorf|5,0 km|Seniorinnen 35-39|29:41|1967|DEU
+12|3|5019|Flammiger, Steffi|Laufgruppe Jonsbergwiesel Jonsdorf|5,0 km|Seniorinnen 40-44|30:23|1962|DEU
+13|7|5037|Luft, Simone|Königswarthaer SV|5,0 km|Seniorinnen 35-39|30:33|1966|DEU
+14|4|5026|Mielke, Berrit|Bretnig-Hauswalde|5,0 km|Seniorinnen 40-44|33:26|1960|DEU
+15|3|5002|Katzer, Friederike|Leutersdorf|5,0 km |Frauen 20-29|37:13|1981|DEU
+16|1|5039|Helm, Hella|Königswarthaer SV|5,0 km|Seniorinnen 55-59|37:18|1946|DEU

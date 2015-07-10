@@ -1,0 +1,433 @@
+To.|Ak.|Stnr.|Name, Vorname|Verein|Strecke|AK|Bruttozeit||Nat
+
+1|1|1211|Riediger, Toni|LV 90 Erzgebirge|10,0 km|männliche Jugend U20|34:04|1993|DEU
+2|2|1210|Jähnigen, Arne|LV 90 Erzgebirge|10,0 km|männliche Jugend U20|34:13|1994|DEU
+3|1|1217|Pietsch, Nico|OSSV Kamenz/Team 'balance'|10,0 km|Männer M20|34:24|1983|DEU
+4|1|1406|Jäkel, Robert|SG Stern Düsseldorf|10,0 km|Männer M45|34:30|1964|DEU
+5|1|1391|Sauer, Martin|Baruther SV 90|10,0 km|Männer M30|35:35|1981|DEU
+6|2|1051|Hentschel, Torsten|HSG Turbine Zittau|10,0 km|Männer M45|35:37|1964|DEU
+7|2|1403|Langer, Patrick|Skiklub Dresden-Niedersedlitz|10,0 km|Männer M20|35:43|1991|DEU
+8|1|1239|Müller, Dietmar|LSV Pirna|10,0 km|Männer M55|37:02|1956|DEU
+9|3|1209|Grundmann, Oliver|LV 90 Erzgebirge|10,0 km|männliche Jugend U20|37:10|1995|DEU
+10|1|1046|Cwirko, Slawomir|BBL Slupsk|10,0 km|Männer M40|37:13|1972|POL
+11|1|1172|Vlcek, Jiri|ASK Decin|10,0 km|Männer M35|37:24|1973|CZE
+12|3|1474|Schmidt, Florian|Pirna|10,0 km|Männer M20|37:24|1985|DEU
+13|2|1413|Gruner, Rene|TSV Cottbus|10,0 km|Männer M30|37:33|1980|DEU
+14|2|1289|Eisold, Jens|HSV 1923 Pulsnitz|10,0 km|Männer M40|38:23|1971|DEU
+15|3|1260|Ludwig, Marcel|PSV Zittau|10,0 km|Männer M30|38:34|1980|DEU
+16|3|1344|Schade, Silvio|BLV 'Rot-Weiß 90'|10,0 km|Männer M40|38:39|1969|DEU
+17|4|1162|Haeger, Sven|Dresden|10,0 km|Männer M30|38:58|1982|DEU
+18|3|1381|Hohlfeld, Uwe|Königswartha|10,0 km|Männer M45|39:29|1967|DEU
+19|2|1352|Wohlgemuth, Dietmar|OSC Löbau|10,0 km|Männer M55|39:38|1955|DEU
+20|2|1314|Weickert, Jens|LSV Niesky|10,0 km|Männer M35|39:49|1976|DEU
+21|4|1383|Henning, Udo|TSV Eisenberg/Triathlon|10,0 km|Männer M40|40:14|1968|DEU
+22|5|1236|Schmidt, Steffen|Europamarathon Görlitz|10,0 km|Männer M40|40:25|1972|DEU
+23|5|1468|Kogler, Peter|RAG Sport & Wettkampf|10,0 km|Männer M30|40:26|1982|DEU
+24|4|1101|Lehmann, Heiko|Singwitz|10,0 km|Männer M45|40:34|1965|DEU
+25|4|1319|Rußig, Jonathan|Triathlonverein Valtenberg|10,0 km|Männer M20|40:39|1986|DEU
+26|3|1175|Pietsch, Lars|Gesundheitsstudio balance|10,0 km|Männer M35|41:02|1977|DEU
+27|4|1147|Meyer, Philipp|FSV Budissa Bautzen|10,0 km|männliche Jugend U20|41:15|1993|DEU
+28|3|1057|Kubitz, Friedbert|OSC Löbau/Eibau|10,0 km|Männer M55|41:35|1955|DEU
+29|1|1270|Päsler, Jörk|Die Zittauer flotten Karotten|10,0 km|Männer M50|41:39|1962|DEU
+30|2|1360|Waldmann, Steffen|BLV 'Rot-Weiß 90'|10,0 km|Männer M50|42:09|1962|DEU
+31|5|1447|Magath, Kay|FC Rot-Weiss Sallgast|10,0 km|Männer M45|42:12|1966|DEU
+32|6|1079|Walther, Jörg|Bautzen|10,0 km|Männer M45|42:15|1965|DEU
+33|6|1231|Hammer, Bernd|Rammenau|10,0 km|Männer M30|42:48|1980|DEU
+34|6|1284|Dolecek, Mario|EBM-Team Seiffen|10,0 km|Männer M40|43:06|1969|DEU
+35|5|1283|Dolecek, Rico|EBM-Team Seiffen|10,0 km|Männer M20|43:15|1989|DEU
+36|7|1049|Sachse, Lutz|Pulsnitz|10,0 km|Männer M45|43:19|1965|DEU
+37|7|1425|Thomas, Oliver|Triathlon Verein Valtenberg|10,0 km|Männer M30|43:32|1980|DEU
+38|7|1445|Wend, Thomas|RSV Finsterwalde|10,0 km|Männer M40|43:38|1968|DEU
+39|5|1237|Schulze, Sebastian|Hoyerswerdaer SV 1919|10,0 km|männliche Jugend U20|43:42|1993|DEU
+40|8|1400|Marek, Jiri|SPONA TEPLICE|10,0 km|Männer M30|43:42|1981|DEU
+41|9|1229|Schütte, Tino|Familie Schütte Dresden|10,0 km|Männer M30|44:10|1978|DEU
+42|8|1230|Sauer, Sten|SSV Heidenau|10,0 km|Männer M40|44:27|1970|DEU
+43|6|1297|Helaß, Tom|Kleinröhrsdorf|10,0 km|Männer M20|44:32|1983|DEU
+44|9|1251|Hille, Mike|Demitz-Thumitz|10,0 km|Männer M40|44:43|1972|DEU
+45|1|1315|Bergmann, Dietmar|RC 1898 Radeberg|10,0 km|Männer M65 (BRL-DD)|44:50|1944|DEU
+46|2|1127|Hebestreit, Werner|Guts-Muths Rennsteiglaufverein|10,0 km|Männer M65 (BRL-DD)|44:56|1947|DEU
+47|8|1100|Wemme, Steffen|TV 1848 Bischofswerda|10,0 km|Männer M45|45:15|1963|DEU
+48|4|1228|Schütte, Marco|Familie Schütte Dresden|10,0 km|Männer M35|45:25|1975|DEU
+49|7|1226|Fischer, Rocco - Roy|SG Großröhrsdorf / Leichtathletik|10,0 km|Männer M20|45:32|1984|DEU
+50|1|1438|Strosny, Wolfgang|BLV 'Rot-Weiß 90'|10,0 km|Männer M60|45:37|1951|DEU
+51|3|1279|Hädicke, Rüdiger|Oberlausitzer Biathlonverein Ringenhain|10,0 km|Männer M50|45:47|1961|DEU
+52|4|1214|Paul, Frank|Kopfjaeger-Sports|10,0 km|Männer M55|46:02|1957|DEU
+53|10|1221|Drabant, Mario|HSV 1923 Pulsnitz|10,0 km|Männer M40|46:10|1969|DEU
+54|1|1114|Melzer, Rüdiger|RC 1898 Radeberg|10,0 km|Männer M70 (BRL-DD)|46:21|1940|DEU
+55|11|1222|Buskies, Sören|Bautzen|10,0 km|Männer M40|46:24|1969|DEU
+56|9|1355|Adelhöfer, Rigo|Butter- 'Bergschnecken' Bischofswerda|10,0 km|Männer M45|46:29|1966|DEU
+57|12|1220|Schuster, Kai|Butter- 'Bergschnecken' Bischofswerda|10,0 km|Männer M40|46:38|1971|DEU
+58|10|1158|Böhmak, Andreas|SV Bautzen|10,0 km|Männer M45|46:45|1964|DEU
+59|5|1318|Obst, Mathias|BLV 'Rot-Weiß 90'|10,0 km|Männer M35|46:56|1974|DEU
+60|4|1133|Hoffmann, Karsten|Uhyst a.T.|10,0 km|Männer M50|46:58|1961|DEU
+61|6|1193|Petzold, Oliver|SV 'Grün-Weiß' Elstra|10,0 km|männliche Jugend U20|47:02|1993|DEU
+62|5|1032|Langer, Ulf|SSV 91 Brand-Erbisdorf|10,0 km|Männer M50|47:07|1962|DEU
+63|6|1394|Mey, Manfred|Dresden|10,0 km|Männer M50|47:37|1960|DEU
+64|11|1294|Grüner, Bodo|Wehrsdorf|10,0 km|Männer M45|47:41|1966|DEU
+65|10|1450|Tammer, Frank|SV Goldbach|10,0 km|Männer M30|47:47|1979|DEU
+66|6|1105|Kahl, Dirk|Görlitz|10,0 km|Männer M35|47:50|1974|DEU
+67|8|1424|Tralles, Robert|TV 1848 Bischofswerda|10,0 km|Männer M20|47:54|1990|DEU
+68|7|1446|Matcki, Oliver|SC Schliersee|10,0 km|Männer M35|47:57|1975|DEU
+69|2|1113|Füssel, Lothar|SG Dresdner Verkehrsbetriebe|10,0 km|Männer M60|48:28|1948|DEU
+70|5|1029|Gräfe, Klaus|LG Deutschbaselitz|10,0 km|Männer M55|48:35|1956|DEU
+71|6|1387|Thomschke, Jürgen|Höckendorf 1007|10,0 km|Männer M55|48:45|1954|DEU
+72|13|1467|Thomas, Ralf|Triathlon Verein Valtenberg|10,0 km|Männer M40|48:52|1968|DEU
+73|14|1090|Schäfer, André|TV 1848 Bischofswerda|10,0 km|Männer M40|48:58|1968|DEU
+74|7|1407|Hock, Andreas|TSG Kraftwerk Boxberg - Weißwasser|10,0 km|Männer M55|49:02|1957|DEU
+75|9|1248|Schwedusch, Kilian|Lieske|10,0 km|Männer M20|49:16|1989|DEU
+76|7|1031|Koch, Raiko|Bautzen City Boys|10,0 km|Männer M50|49:20|1962|DEU
+77|11|1423|Klinger, Christian|Baruther SV 90|10,0 km|Männer M30|49:30|1982|DEU
+78|3|1014|Gerle, Frank|LG Baar Donaueschingen|10,0 km|Männer M60|49:48|1948|DEU
+79|8|1353|Schölzel, Karsten|Schmölln-Putzkau|10,0 km|Männer M50|50:14|1961|DEU
+80|9|1465|Thomas, Michael|Triathlon Verein Valtenberg|10,0 km|Männer M50|50:23|1959|DEU
+81|8|1021|Arnold, Dieter|TV 1848 Bischofswerda|10,0 km|Männer M55|50:51|1955|DEU
+82|12|1408|Steinert, Marco|Großröhrsdorf|10,0 km|Männer M30|50:57|1981|DEU
+83|3|1207|Nönnig, Jürgen|SV Wacker Mohorn|10,0 km|Männer M65 (BRL-DD)|51:02|1947|DEU
+84|12|1143|Hensel, Alexander|SSV Kirschau|10,0 km|Männer M45|51:11|1967|DEU
+85|13|1140|Rölke, Matthias|Bautzen|10,0 km|Männer M30|51:17|1980|DEU
+86|14|1422|Hiller, Michael|Bautzen|10,0 km|Männer M30|51:18|1978|DEU
+87|15|1455|Granich, Thomas|BLV 'Rot-Weiß 90'|10,0 km|Männer M40|51:29|1968|DEU
+88|10|1371|Hauswald, Bernd|Bischofswerda|10,0 km|Männer M50|52:28|1959|DEU
+89|2|1203|Pakoßnick, Gernot|SV Kubschütz|10,0 km|Männer M70 (BRL-DD)|52:28|1942|DEU
+90|13|1252|Lindner, Steffen|Weickersdorf|10,0 km|Männer M45|52:34|1967|DEU
+91|11|1464|Grützner, Gunnar|Dresden|10,0 km|Männer M50|52:37|1958|DEU
+92|4|1075|Gahut, Dieter|TSV 1888 Falkenau|10,0 km|Männer M60|53:23|1952|DEU
+93|5|1437|Förster, Roland|LG Fillinger Dresden|10,0 km|Männer M60|53:40|1950|DEU
+94|9|1053|Haar, Michael|Radebeul|10,0 km|Männer M55|54:03|1953|DEU
+95|4|1300|Walter, Karl-Heinz|LG Wartturm Niesky|10,0 km|Männer M65 (BRL-DD)|54:31|1943|DEU
+96|14|1109|Metzner, Ralf|Hainsberg|10,0 km|Männer M45|54:58|1965|DEU
+97|12|1388|Putzger, Jörg|TSV Dresden|10,0 km|Männer M50|55:32|1961|DEU
+98|16|1370|Thomas, Jan|Guben|10,0 km|Männer M40|55:53|1970|DEU
+99|3|1476|Schütze, Dieter|Pirna|10,0 km|Männer M70 (BRL-DD)|55:58|1940|DEU
+100|10|1157|Beer, Thomas|SV Goldbach|10,0 km|Männer M55|56:02|1956|DEU
+
+101|10|1080|Walther, Andreas|Kaufbeuren|10,0 km|Männer M20|56:13|1986|DEU
+102|11|1405|Casper, Wolfgang|Semmichau|10,0 km|Männer M55|56:39|1953|DEU
+103|4|1365|Ewers, Dietrich|Dresden Marathon|10,0 km|Männer M70 (BRL-DD)|57:09|1939|DEU
+104|12|1453|Thierbach, Jürgen|Görlitz|10,0 km|Männer M55|57:16|1957|DEU
+105|17|1093|Heinzel, Andreas|WSG Schwarzenberg-Wildenau|10,0 km|Männer M40|57:25|1971|DEU
+106|15|1064|Schmidt, Frank|Ebersbach|10,0 km|Männer M45|59:34|1963|DEU
+107|13|1275|Buchs, Eberhard|Dresden|10,0 km|Männer M50|1:00:11|1958|DEU
+108|14|1078|Paul, Jürgen|Butterbergschnecken|10,0 km|Männer M50|1:00:29|1961|DEU
+109|5|1096|Lehmann, Manfred|Dresden|10,0 km|Männer M70 (BRL-DD)|1:01:14|1938|DEU
+110|8|1015|Richter, Axel|SSV Südwinsen|10,0 km|Männer M35|1:02:03|1973|DEU
+111|1|1205|Paul, Wilhelm|LG Asics Pirna|10,0 km|Männer M75|1:02:35|1934|DEU
+112|15|1035|Förster, Robert|Dresden|10,0 km|Männer M30|1:10:16|1979|DEU
+1|1|1126|Marx, Christin|TSV Dresden|10,0 km|Frauen W45|40:44|1964|DEU
+2|1|1433|Neururer, Anne|SSV Altenberg|10,0 km|Frauen W20|43:08|1992|DEU
+3|1|1288|Eisold, Andrea|HSV 1923 Pulsnitz|10,0 km|Frauen W40|48:16|1972|DEU
+4|1|1189|Anders, Andrea|SV 'Grün-Weiß' Elstra|10,0 km|Frauen W50|48:41|1962|DEU
+5|2|1179|Schulze, Susan|Gesundheitsstudio balance|10,0 km|Frauen W20|49:07|1987|DEU
+6|1|1240|Müller, Marlies|LSV Pirna|10,0 km|Frauen W55|49:34|1957|DEU
+7|2|1200|Ueberfuhr, Silvia|SV 'Grün-Weiß' Elstra|10,0 km|Frauen W40|49:56|1970|DEU
+8|2|1466|Thomas, Marina|Triathlon Verein Valtenberg|10,0 km|Frauen W50|50:23|1959|DEU
+9|3|1254|Vogt, Anja|Oberlausitzer Biathlonverein Ringenhain|10,0 km|Frauen W40|50:45|1969|DEU
+10|1|1169|Zimmer, Mandy|Neukirch|10,0 km|Frauen W30|50:47|1978|DEU
+11|3|1065|Wadenbach, Ilona|OSC Löbau|10,0 km|Frauen W50|51:28|1961|DEU
+12|1|1219|Schuster, Kathleen|Butter- 'Bergschnecken' Bischofswerda|10,0 km|Frauen W35|51:44|1975|DEU
+13|2|1163|Rüger, Konstanze|Dresden|10,0 km|Frauen W30|51:57|1982|DEU
+14|4|1142|Rauch, Jana|TV Valtenberg|10,0 km|Frauen W40|52:01|1971|DEU
+15|1|1097|Palfi, Edelgard|Citylaufverein Dresden|10,0 km|Frauen W60 (BRL-DD)|52:03|1952|DEU
+16|3|1132|Hoffmann, Katharina|Uhyst a.T.|10,0 km|Frauen W30|52:07|1982|DEU
+17|2|1099|Leschinski, Jana|Dresden|10,0 km|Frauen W35|52:27|1974|DEU
+18|3|1376|Marx, Sandra|HSG Turbine Zittau|10,0 km|Frauen W20|52:31|1988|DEU
+19|2|1188|Pötschke, Kristina|TV 1848 Bischofswerda|10,0 km|Frauen W60 (BRL-DD)|52:53|1951|DEU
+20|2|1285|Kretschmer, Sabine|LG Wartturm Niesky|10,0 km|Frauen W45|52:58|1964|DEU
+21|5|1384|Frommberger, Anke|SG Oberlichtenau|10,0 km|Frauen W40|53:28|1970|DEU
+22|4|1036|Förster-Kuschel, Jana|Dresden|10,0 km|Frauen W20|54:47|1983|DEU
+23|3|1477|Büchner Reuter, Carola|SV Einheit Kamenz|10,0 km|Frauen W45|55:07|1966|DEU
+24|3|1089|Schäfer, Yvonne|TV 1848 Bischofswerda|10,0 km|Frauen W35|55:35|1973|DEU
+25|4|1076|Hentschel, Franziska|Franz Run Team|10,0 km|Frauen W30|55:57|1979|DEU
+26|6|1327|Hofmann, Anke|Biathlonverein Ringenhain|10,0 km|Frauen W40|56:36|1969|DEU
+27|4|1458|Winkler, Jacqueline|Bischofswerda|10,0 km|Frauen W35|56:45|1976|DEU
+28|4|1016|Langanki, Annett|TSG Bretnig-Hauswalde|10,0 km|Frauen W45|56:45|1966|DEU
+29|5|1448|Tammer, Ellen|SV Goldbach|10,0 km|Frauen W20|57:29|1983|DEU
+30|7|1180|Schulze, Kerstin|Gesundheitsstudio balance|10,0 km|Frauen W40|57:33|1968|DEU
+31|4|1411|Flammiger, Steffi|Running Team Süßmann|10,0 km|Frauen W50|58:32|1962|DEU
+32|8|1364|Junghanß, Diana|Skiklub Dresden-Niedersedlitz|10,0 km|Frauen W40|58:59|1970|DEU
+33|5|1054|Limpricht, Susanne|Dresden|10,0 km|Frauen W50|59:16|1961|DEU
+34|5|1368|Dander, Lydia|Dresden Weixdorf|10,0 km|Frauen W45|59:21|1965|DEU
+35|5|1441|Strosny, Nicolle|Postsportverein Germanya Bautz|10,0 km|Frauen W35|59:41|1975|DEU
+36|6|1077|Paul, Elke|Butterbergschnecken|10,0 km|Frauen W45|59:47|1964|DEU
+37|6|1261|Persicke, Birgit|Großschönau|10,0 km|Frauen W50|59:50|1962|DEU
+38|7|1181|Ziesch, Monika|Gesundheitsstudio balance|10,0 km|Frauen W45|59:52|1965|DEU
+39|6|1369|Dander, Elisabeth|Dresden Weixdorf|10,0 km|Frauen W20|1:00:05|1989|DEU
+40|7|1274|Buchs, Christine|Dresden|10,0 km|Frauen W50|1:00:43|1959|DEU
+41|8|1201|Ullrich, Diana|SV 'Grün-Weiß' Elstra|10,0 km|Frauen W45|1:00:59|1966|DEU
+42|2|1282|Schmidt, Herma|TV 1848 Bischofswerda|10,0 km|Frauen W55|1:01:16|1953|DEU
+43|5|1366|Weickert, Diana|Reichenbach|10,0 km|Frauen W30|1:01:44|1978|DEU
+44|6|1459|Mottet, Andrea|Schmölln|10,0 km|Frauen W35|1:02:29|1975|DEU
+45|9|1278|Hädicke, Bärbel|Oberlausitzer Biathlonverein Ringenhain|10,0 km|Frauen W45|1:02:32|1964|DEU
+46|9|1043|Richter, Grit|Bautzen|10,0 km|Frauen W40|1:02:36|1970|DEU
+47|3|1392|Rohloff, Petra|VfL Dresden-Bühlau|10,0 km|Frauen W60 (BRL-DD)|1:02:57|1950|DEU
+48|7|1439|Strosny, Dominique-Francoise|SV Ostgermania Bautzen|10,0 km|Frauen W20|1:03:04|1987|DEU
+49|8|1149|Haak, Alexandra|Bautzen|10,0 km|Frauen W20|1:04:25|1991|DEU
+1|1|4206|Guhr, Eberhard|DAV Dresden|10,0 km Walken|Männer|1:11:48|1939|DEU
+2|2|4002|Hoke, Jens|Team Erdinger Alkoholfrei|10,0 km Walken|Männer|1:13:40|1963|DEU
+3|3|4033|Pätzold, Frank|SPIRIT/21|10,0 km Walken|Männer|1:16:49|1959|DEU
+1|1|4244|Barthel, Christine|Dresden|10,0 km Walken|Frauen|1:31:03|1963|DEU
+1|1|8330|Nitschke, Pascal|Biathlonverein Ringenhain|2,5 km|männliche Kinder U12 (BRL-DD)|09:36|2001|DEU
+2|2|8343|Schade, Fridtjof|BLV 'Rot-Weiß 90'|2,5 km|männliche Kinder U12 (BRL-DD)|09:37|2001|DEU
+3|3|8316|Petr, Max|SG Stahl Schmiedeberg|2,5 km|männliche Kinder U12 (BRL-DD)|10:10|2001|DEU
+4|1|8304|Katzer, Adrian|TV 1848 Bischofswerda|2,5 km|männliche Kinder U10 (BRL-DD)|10:34|2003|DEU
+5|2|8257|Kretschmar, Jakob|Ski-Club-Sohland 1928|2,5 km|männliche Kinder U10 (BRL-DD)|10:36|2003|DEU
+6|3|8305|Vetter, Albrecht|TV 1848 Bischofswerda|2,5 km|männliche Kinder U10 (BRL-DD)|10:41|2003|DEU
+7|4|8040|Lebelt, Justus- Franz|Skiclub Kottmar/ Biathlonverein Ringenhain|2,5 km|männliche Kinder U12 (BRL-DD)|10:59|2001|DEU
+8|4|8266|Lamm, Simon|SSV Heidenau|2,5 km|männliche Kinder U10 (BRL-DD)|11:09|2003|DEU
+9|5|8091|Heinzel, Bruno|WSG Schwarzenberg-Wildenau|2,5 km|männliche Kinder U10 (BRL-DD)|11:12|2004|DEU
+10|6|8153|Walter, Moritz|TV Valtenberg|2,5 km|männliche Kinder U10 (BRL-DD)|11:22|2003|DEU
+11|5|8071|Uhlemann, Frederik|Gymnasium Dresden Cotta|2,5 km|männliche Kinder U12 (BRL-DD)|11:38|2001|DEU
+12|6|8115|Mehnert, Raphael|BLV 'Rot-Weiß 90'|2,5 km|männliche Kinder U12 (BRL-DD)|11:45|2002|DEU
+13|7|8216|Ullrich, Florian|BLV 'Rot-Weiß 90'|2,5 km|männliche Kinder U10 (BRL-DD)|12:05|2004|DEU
+14|8|8092|Heinzel, Nico|WSG Schwarzenberg-Wildenau|2,5 km|männliche Kinder U10 (BRL-DD)|12:14|2003|DEU
+15|9|8106|Tutte, Niclas|Skiclub Kottmar|2,5 km|männliche Kinder U10 (BRL-DD)|12:17|2004|DEU
+16|10|8322|Poike, Cedric|Biathlonverein Ringenhain|2,5 km|männliche Kinder U10 (BRL-DD)|12:19|2004|DEU
+17|11|8255|Vogt, Wilhelm|Oberlausitzer Biathlonverein Ringenhain|2,5 km|männliche Kinder U10 (BRL-DD)|12:36|2004|DEU
+18|7|8320|Köhler, Lucas|Biathlonverein Ringenhain|2,5 km|männliche Kinder U12 (BRL-DD)|12:48|2001|DEU
+19|12|8023|Weißling, Yannik|Skiklub Dresden-Niedersedlitz|2,5 km|männliche Kinder U10 (BRL-DD)|13:21|2004|DEU
+20|8|8325|Hofmann, Luca|Biathlonverein Ringenhain|2,5 km|männliche Kinder U12 (BRL-DD)|13:39|2002|DEU
+21|13|8452|Winkler, Heinz|Cunnewalde|2,5 km|männliche Kinder U10 (BRL-DD)|13:39|2004|DEU
+22|1|8449|Kuss, Hannes|Frankenthal|2,5 km|Volkssport männlich|13:53|2005|DEU
+1|1|8120|Kleiner, Johanna|BLV 'Rot-Weiß 90'|2,5 km|weibliche Kinder U12 (BRL-DD)|09:40|2001|DEU
+2|2|8107|Metzner, Anika|Lok Hainsberg|2,5 km|weibliche Kinder U12 (BRL-DD)|10:26|2001|DEU
+3|3|8166|Peroche, Juliette|DSC 1898|2,5 km|weibliche Kinder U12 (BRL-DD)|10:35|2001|DEU
+4|4|8061|Nowak, Jenny|Ski-Club-Sohland 1928|2,5 km|weibliche Kinder U12 (BRL-DD)|10:47|2002|DEU
+5|5|8332|Glatz, Julia|Biathlonverein Ringenhain|2,5 km|weibliche Kinder U12 (BRL-DD)|11:21|2001|DEU
+6|6|8309|Jenak, Deborah|TV 1848 Bischofswerda|2,5 km|weibliche Kinder U12 (BRL-DD)|11:27|2001|DEU
+7|7|8337|Hedusch, Alina|Biathlonverein Ringenhain|2,5 km|weibliche Kinder U12 (BRL-DD)|11:33|2001|DEU
+8|8|8310|Gerbert, Anne|TV 1848 Bischofswerda|2,5 km|weibliche Kinder U12 (BRL-DD)|11:55|2001|DEU
+9|9|8136|Kürten, Louisa|Dresden|2,5 km|weibliche Kinder U12 (BRL-DD)|11:57|2001|DEU
+10|10|8444|Strosny, Elisa|Knirpsenland Kindergarten Baut|2,5 km|weibliche Kinder U12 (BRL-DD)|12:05|2002|DEU
+11|11|8116|Mehnert, Anabelle|BLV 'Rot-Weiß 90'|2,5 km|weibliche Kinder U12 (BRL-DD)|12:07|2001|DEU
+12|12|8377|Neises, Marleen|Skiklub Dresden-Niedersedlitz|2,5 km|weibliche Kinder U12 (BRL-DD)|12:19|2002|DEU
+13|13|8346|Fiedler, Pauline|Europamarathonverein Görlitz-Zgorzelec|2,5 km|weibliche Kinder U12 (BRL-DD)|12:25|2002|DEU
+
+14|1|8328|Mickan, Luise|Biathlonverein Ringenhain|2,5 km|weibliche Kinder U10 (BRL-DD)|12:41|2003|DEU
+15|14|8341|Wobst, Elisabeth|Biathlonverein Ringenhain|2,5 km|weibliche Kinder U12 (BRL-DD)|12:54|2002|DEU
+16|15|8339|Guhr, Emelie|Biathlonverein Ringenhain|2,5 km|weibliche Kinder U12 (BRL-DD)|12:56|2002|DEU
+17|2|8348|Kruppas, Emma|Europamarathonverein Görlitz-Zgorzelec|2,5 km|weibliche Kinder U10 (BRL-DD)|12:57|2003|DEU
+18|16|8340|Guhr, Vivien|Biathlonverein Ringenhain|2,5 km|weibliche Kinder U12 (BRL-DD)|13:08|2001|DEU
+19|3|8431|Thomas, Luise|Biathlonverein Ringenhain|2,5 km|weibliche Kinder U10 (BRL-DD)|13:23|2003|DEU
+20|4|8299|Schurz, Vivien|TV 1848 Bischofswerda|2,5 km|weibliche Kinder U10 (BRL-DD)|13:33|2003|DEU
+21|5|8063|Richter, Hannah|Göda|2,5 km|weibliche Kinder U10 (BRL-DD)|13:58|2004|DEU
+22|6|8197|Steglich, Celina|SV 'Grün-Weiß' Elstra|2,5 km|weibliche Kinder U10 (BRL-DD)|14:00|2004|DEU
+23|1|8247|Bieneck, Natalie|TV 1848 Bischofswerda|2,5 km|Volkssport weiblich|14:08|1999|DEU
+24|17|8302|Müller, Helen|TV 1848 Bischofswerda|2,5 km|weibliche Kinder U12 (BRL-DD)|14:21|2002|DEU
+25|7|8202|Ullrich, Katharina|SV 'Grün-Weiß' Elstra|2,5 km|weibliche Kinder U10 (BRL-DD)|14:27|2003|DEU
+1|1|2098|Sickert, Tino|DSC 1898|21,1 km|Männer M30 (BRL-DD)|1:19:19|1978|DEU
+2|1|2074|Fries, Eckhard|TSV Dresden|21,1 km|Männer M45 (BRL-DD)|1:22:10|1964|DEU
+3|1|2475|Hilbert, Jörg|SG Neukirchen/Erzgeb.|21,1 km|Männer M35 (BRL-DD)|1:22:17|1976|DEU
+4|2|2367|Dander, Bernd|RC 1898 Radeberg|21,1 km|Männer M45 (BRL-DD)|1:22:40|1965|DEU
+5|1|2280|Seele, Hartmut|lg rüsselsheim|21,1 km|Männer M50 (BRL-DD)|1:23:42|1962|DEU
+6|1|2264|Lamm, Stefan|SSV Heidenau|21,1 km|Männer M40 (BRL-DD)|1:24:03|1968|DEU
+7|2|2019|Lauckner, René|Läuferbund Schwarzenberg 90|21,1 km|Männer M30 (BRL-DD)|1:25:00|1979|DEU
+8|2|2354|Vogel, Steffen|Dresden|21,1 km|Männer M35 (BRL-DD)|1:25:21|1975|DEU
+9|2|2124|Knobloch, Jörg|HSG Turbine Zittau|21,1 km|Männer M50 (BRL-DD)|1:25:34|1962|DEU
+10|3|2410|Sarfert, René|TV Dresden|21,1 km|Männer M30 (BRL-DD)|1:25:50|1981|DEU
+11|3|2317|Zentsch, Uwe|zentsch-lauf-coaching|21,1 km|Männer M50 (BRL-DD)|1:25:55|1962|DEU
+12|2|2102|Wittwer, Frank|Dresden|21,1 km|Männer M40 (BRL-DD)|1:26:09|1968|DEU
+13|3|2154|Walter, Mike|TV Valtenberg|21,1 km|Männer M35 (BRL-DD)|1:26:37|1973|DEU
+14|1|2440|Kost, Henry|MTV Wohnste|21,1 km|Männer M20 (BRL-DD)|1:26:39|1988|DEU
+15|4|2125|Papritz, Sven|Running Team Süßmann|21,1 km|Männer M30 (BRL-DD)|1:27:09|1979|DEU
+16|3|2118|Mehnert, Christoph|BLV 'Rot-Weiß 90'|21,1 km|Männer M40 (BRL-DD)|1:27:13|1969|DEU
+17|3|2001|Hendrischk, Carsten|FLG Spremberg|21,1 km|Männer M45 (BRL-DD)|1:27:24|1964|DEU
+18|4|2242|Wilde, Andreas|TV Valtenberg|21,1 km|Männer M50 (BRL-DD)|1:28:08|1958|DEU
+19|4|2164|Boden-Peroche, Martin|Dresden|21,1 km|Männer M40 (BRL-DD)|1:28:22|1968|DEU
+20|2|2130|Besold, Sandro|Running Team Süßmann|21,1 km|Männer M20 (BRL-DD)|1:28:26|1988|DEU
+21|1|2013|Schwiebs, Bernd|VL Hoyerswerda|21,1 km|Männer M55 (BRL-DD)|1:28:26|1957|DEU
+22|5|2272|Fiebag, Marco|Running Team Süßmann|21,1 km|Männer M40 (BRL-DD)|1:29:11|1970|DEU
+23|1|2232|Petzold, Reinhard|BLV 'Rot-Weiß 90'|21,1 km|Männer M60 (BRL-DD)|1:29:16|1952|DEU
+24|3|2045|Möhler, Marco|Haida|21,1 km|Männer M20 (BRL-DD)|1:29:47|1987|DEU
+25|5|2351|Opitz, Jochen|Schachverein Görlitz 1990|21,1 km|Männer M50 (BRL-DD)|1:30:07|1960|DEU
+26|4|2137|Kürten, Christian|Dresdner Trolle|21,1 km|Männer M45 (BRL-DD)|1:30:28|1967|DEU
+27|4|2073|Hamann, Christian|SV Sachsen Müglitztal|21,1 km|Männer M20 (BRL-DD)|1:30:39|1986|DEU
+28|5|2259|Wensch, Stefan|Dresden|21,1 km|Männer M30 (BRL-DD)|1:31:17|1979|DEU
+29|5|2427|Melcher, Jens|Dresden|21,1 km|Männer M45 (BRL-DD)|1:31:34|1967|DEU
+30|6|2291|Külper, Helmut|TSV Dresden|21,1 km|Männer M50 (BRL-DD)|1:31:47|1958|DEU
+31|6|2281|Ulrich, Kai-Uwe|Dresden|21,1 km|Männer M45 (BRL-DD)|1:32:53|1966|DEU
+32|7|2070|Furmankiewicz, Roland|LG Dredner Heide|21,1 km|Männer M45 (BRL-DD)|1:33:02|1965|DEU
+33|4|2457|Grützner, Alexander|massa haus|21,1 km|Männer M35 (BRL-DD)|1:33:50|1975|DEU
+34|6|2436|Halla, René|Lauftreff Lausitz|21,1 km|Männer M40 (BRL-DD)|1:35:10|1970|DEU
+35|7|2146|Hörichs, Gunther|LSV Pirna|21,1 km|Männer M50 (BRL-DD)|1:35:14|1961|DEU
+36|8|2415|Merdon, Uwe|Team Erdinger Alkoholfrei|21,1 km|Männer M50 (BRL-DD)|1:36:03|1962|DEU
+37|9|2020|Wenzel, Steffen|Hoyerswerdaer SV 1919|21,1 km|Männer M50 (BRL-DD)|1:36:08|1962|DEU
+38|2|2326|Meißner, Frank|Freital|21,1 km|Männer M60 (BRL-DD)|1:36:20|1950|DEU
+39|5|2430|Stegmann, Frank|KC Friensteiner 1908 Sebnitz|21,1 km|Männer M35 (BRL-DD)|1:36:24|1977|DEU
+40|8|2151|Biesold, Ralf|Dresdner Durchläufer|21,1 km|Männer M45 (BRL-DD)|1:36:26|1965|DEU
+41|6|2246|Sieber, Ronny|MSV Meusegast|21,1 km|Männer M35 (BRL-DD)|1:36:52|1976|DEU
+42|5|2212|Moschke, Thomas|Dresden|21,1 km|Männer M20 (BRL-DD)|1:37:06|1985|DEU
+43|6|2442|Kahle, Markus|Biketeam Oberlausitz|21,1 km|Männer M20 (BRL-DD)|1:37:28|1986|DEU
+44|10|2086|Uhlmann, Holger|SG Oberlichtenau|21,1 km|Männer M50 (BRL-DD)|1:37:39|1958|DEU
+45|7|2155|Krankowsky, Sven|Schlammläufer|21,1 km|Männer M40 (BRL-DD)|1:38:11|1969|DEU
+46|9|2171|Placek, Tomas|ASK Decin|21,1 km|Männer M45 (BRL-DD)|1:38:16|1963|CZE
+47|10|2308|Radke, Jens|LSV Pirna|21,1 km|Männer M45 (BRL-DD)|1:38:41|1964|DEU
+48|11|2150|Haak, Uwe|Bautzen|21,1 km|Männer M50 (BRL-DD)|1:39:18|1959|DEU
+49|7|2359|Katzer, Ronny|SG Motor Cubewalde|21,1 km|Männer M20 (BRL-DD)|1:39:31|1985|DEU
+50|12|2025|Lorek, Alfred|Levitikus Zentrum Großröhrsdorf|21,1 km|Männer M50 (BRL-DD)|1:40:09|1962|DEU
+51|8|2397|Seifert, Dietrich|KC Friensteiner 1908 Sebnitz|21,1 km|Männer M40 (BRL-DD)|1:40:31|1970|DEU
+52|9|2131|Horter, Andre|Triathlon Team Niederschlesien|21,1 km|Männer M40 (BRL-DD)|1:40:48|1971|DEU
+53|10|2429|Meltzer, Michael|Sportfreunde Bärwalder See|21,1 km|Männer M40 (BRL-DD)|1:41:02|1972|DEU
+54|11|2409|Carl, Thomas|LSV Pirna|21,1 km|Männer M45 (BRL-DD)|1:41:29|1963|DEU
+55|3|2059|Fernbach, Jörg|RC 1898 Radeberg|21,1 km|Männer M60 (BRL-DD)|1:41:54|1950|DEU
+56|13|2268|Berg, Uwe|BLV 'Rot-Weiß 90'|21,1 km|Männer M50 (BRL-DD)|1:42:38|1961|DEU
+57|11|2399|Höhne, Danilo|KC Friensteiner 1908 Sebnitz|21,1 km|Männer M40 (BRL-DD)|1:42:59|1970|DEU
+58|12|2396|Bardoux, Rene|Stolpen|21,1 km|Männer M45 (BRL-DD)|1:43:33|1963|DEU
+59|12|2432|Römhild, Dirk|Skiklub Dresden-Niedersedlitz|21,1 km|Männer M40 (BRL-DD)|1:43:53|1970|DEU
+60|4|2357|Böhme, Knut|Sebnitz|21,1 km|Männer M60 (BRL-DD)|1:44:14|1952|DEU
+61|13|2139|Angermann, Jens|RC 1898 Radeberg|21,1 km|Männer M45 (BRL-DD)|1:44:22|1963|DEU
+62|7|2311|Sporkenbach, Dirk|Laufteam FOTO-Sporkenbach|21,1 km|Männer M35 (BRL-DD)|1:44:30|1975|DEU
+63|5|2420|Fischel, Harald|Dresden|21,1 km|Männer M60 (BRL-DD)|1:45:17|1949|DEU
+64|8|2303|Durdel, Uwe|Dresdner Ski Verein|21,1 km|Männer M35 (BRL-DD)|1:45:50|1973|DEU
+65|9|2342|Kellermann, René|Team Magno Cursu|21,1 km|Männer M35 (BRL-DD)|1:46:14|1974|DEU
+66|14|2382|Taugnitz, Thomas|Dresden|21,1 km|Männer M45 (BRL-DD)|1:47:24|1964|DEU
+67|2|2478|Böhm, Jochen|Moritzburger TV|21,1 km|Männer M55 (BRL-DD)|1:48:35|1953|DEU
+68|13|2470|Müller, Sirko|TV Valtenberg|21,1 km|Männer M40 (BRL-DD)|1:49:19|1971|DEU
+69|6|2030|Breidenstein, Volker|Friedersdorf|21,1 km|Männer M60 (BRL-DD)|1:50:14|1948|DEU
+70|15|2208|Meyer, Jörg|Berlin|21,1 km|Männer M45 (BRL-DD)|1:50:16|1963|DEU
+71|14|2462|Müller, Peter|Stadt Wehlen|21,1 km|Männer M50 (BRL-DD)|1:50:46|1962|DEU
+72|7|2245|Röhr, Egbert|LSV Pirna|21,1 km|Männer M60 (BRL-DD)|1:51:08|1949|DEU
+73|16|2008|Lange, Heiko|SUHL|21,1 km|Männer M45 (BRL-DD)|1:52:14|1963|DEU
+74|10|2047|Link, Stefan|AWO Bautzen|21,1 km|Männer M35 (BRL-DD)|1:52:43|1977|DEU
+75|8|2393|Rohloff, Bernd|VfL Dresden-Bühlau|21,1 km|Männer M60 (BRL-DD)|1:52:54|1951|DEU
+76|8|2361|Kloß, Robert|Skiklub Dresden-Niedersedlitz|21,1 km|Männer M20 (BRL-DD)|1:54:27|1990|DEU
+77|11|2042|Drescher, Markus|Borna|21,1 km|Männer M35 (BRL-DD)|1:54:54|1976|DEU
+78|3|2103|Weichelt, Dieter|LT Linde 79|21,1 km|Männer M55 (BRL-DD)|1:56:05|1953|DEU
+79|4|2190|Anders, Roland|SV 'Grün-Weiß' Elstra|21,1 km|Männer M55 (BRL-DD)|1:56:40|1956|DEU
+80|14|2225|Grune, Volker|SV Gaußig|21,1 km|Männer M40 (BRL-DD)|1:56:45|1968|DEU
+81|9|2112|Hartwig, Wolf-Henning|SG Dresdner Bank Dresden|21,1 km|Männer M60 (BRL-DD)|1:57:36|1943|DEU
+82|10|2018|List, Hans-Joachim|Ruhland|21,1 km|Männer M60 (BRL-DD)|1:58:05|1949|DEU
+83|15|2434|Neururer, Alois|Tirol|21,1 km|Männer M50 (BRL-DD)|1:58:42|1959|AUT
+84|11|2414|Lau, Christian|Pulsnitz|21,1 km|Männer M60 (BRL-DD)|2:06:40|1952|DEU
+85|17|2276|Heymer, Uwe|Großnaundorf|21,1 km|Männer M45 (BRL-DD)|2:11:34|1964|DEU
+1|1|2048|Kranich, Franziska|OL Görlitz|21,1 km|Frauen W20 (BRL-DD)|1:32:10|1984|DEU
+2|1|2067|Hänsel, Heike|Vfl Dresden Bühlau|21,1 km|Frauen W45 (BRL-DD)|1:32:23|1963|DEU
+3|1|2265|Lamm, Jana|SSV Heidenau|21,1 km|Frauen W40 (BRL-DD)|1:37:22|1971|DEU
+
+4|1|2345|Auerbach, Sonja|LSV Pirna|21,1 km|Frauen W50 (BRL-DD)|1:41:03|1960|DEU
+5|2|2145|Helas, Marina|USV TU Dresden|21,1 km|Frauen W20 (BRL-DD)|1:41:32|1985|DEU
+6|2|2068|Kroß, Kathrin|Skizunft Dresden|21,1 km|Frauen W50 (BRL-DD)|1:47:51|1961|DEU
+7|3|2241|Altmann, Martina|Dippoldiswalde|21,1 km|Frauen W50 (BRL-DD)|1:47:54|1961|DEU
+8|1|2117|Mehnert, Katrin|BLV 'Rot-Weiß 90'|21,1 km|Frauen W35 (BRL-DD)|1:51:25|1973|DEU
+9|4|2389|Putzger, Simone|TSV Dresden|21,1 km|Frauen W50 (BRL-DD)|1:52:18|1961|DEU
+10|5|2435|Neururer, Andrea|Ski-Club-Sohland 1928|21,1 km|Frauen W50 (BRL-DD)|1:53:17|1962|DEU
+11|6|2148|Haak, Ramona|Bautzen|21,1 km|Frauen W50 (BRL-DD)|1:55:16|1960|DEU
+12|2|2160|Jesche, Tatjana|SV Wacker Mohorn|21,1 km|Frauen W45 (BRL-DD)|1:55:31|1964|DEU
+13|1|2249|Liehr, Henriette|Radsportverein Bautzen eV|21,1 km|Frauen W30 (BRL-DD)|1:56:30|1979|DEU
+14|2|2295|Fiedler, Rebecca|Dresden|21,1 km|Frauen W30 (BRL-DD)|2:04:25|1982|DEU
+15|3|2461|Müller, Cornelia|Stadt Wehlen|21,1 km|Frauen W45 (BRL-DD)|2:05:33|1963|DEU
+16|7|2296|Fiedler, Kerstin|Dresden|21,1 km|Frauen W50 (BRL-DD)|2:07:49|1958|DEU
+17|8|2269|Berg, Barbara|BLV 'Rot-Weiß 90'|21,1 km|Frauen W50 (BRL-DD)|2:12:35|1960|DEU
+18|3|2238|Krutzsch, Cindy|Berlin|21,1 km|Frauen W30 (BRL-DD)|2:13:51|1979|DEU
+1|1|5419|Bebendorf, Karl|DSC 1898|5,3 km|männliche Jugend U18 (BRL-DD)|18:23|1996|DEU
+2|2|5199|Ueberfuhr, Marc|SV 'Grün-Weiß' Elstra|5,3 km|männliche Jugend U18 (BRL-DD)|19:07|1995|DEU
+3|3|5085|Locke, Leonard|BLV 'Rot-Weiß 90'|5,3 km|männliche Jugend U18 (BRL-DD)|19:26|1996|DEU
+4|4|5402|Schulze, Francis|Skiklub Dresden-Niedersedlitz|5,3 km|männliche Jugend U18 (BRL-DD)|20:25|1995|DEU
+5|5|5167|Kamolz, Anton|HSV 1923 Pulsnitz|5,3 km|männliche Jugend U18 (BRL-DD)|20:48|1996|DEU
+6|1|5306|Vetter, Tillmann|TV 1848 Bischofswerda|5,3 km|männliche Jugend U14 (BRL-DD)|21:08|2000|DEU
+7|1|5401|Mey, Oliver|Skiklub Dresden-Niedersedlitz|5,3 km|männliche Jugend U20 (BRL-DD)|21:22|1994|DEU
+8|2|5050|Pötschke, Florian|Baruther SV|5,3 km|männliche Jugend U14 (BRL-DD)|21:59|1999|DEU
+9|1|5349|Kruppas, Paul|Europamarathonverein Görlitz-Zgorzelec|5,3 km|männliche Jugend U16 (BRL-DD)|22:22|1997|DEU
+10|2|5347|Fiedler, Florian|Europamarathonverein Görlitz-Zgorzelec|5,3 km|männliche Jugend U16 (BRL-DD)|22:25|1998|DEU
+11|3|5135|Kürten, Jonas|USV TU Dresden|5,3 km|männliche Jugend U16 (BRL-DD)|22:38|1997|DEU
+12|3|5331|Mann, Viko|Biathlonverein Ringenhain|5,3 km|männliche Jugend U14 (BRL-DD)|22:46|1999|DEU
+13|4|5108|Metzner, Jonas|Lok Hainsberg|5,3 km|männliche Jugend U14 (BRL-DD)|23:01|1999|DEU
+14|4|5194|Pluder, Alex|SV 'Grün-Weiß' Elstra|5,3 km|männliche Jugend U16 (BRL-DD)|23:05|1997|DEU
+15|1|5173|Stolze, Peter|Bautzen|5,3 km|Männer M65|24:16|1943|DEU
+16|5|5398|Rößler, Heiner|KC Friensteiner 1908 Sebnitz|5,3 km|männliche Jugend U16 (BRL-DD)|24:46|1998|DEU
+17|6|5191|Elst, Vincent|SV 'Grün-Weiß' Elstra|5,3 km|männliche Jugend U16 (BRL-DD)|24:59|1998|DEU
+18|2|5293|Ueberfuhr, Eric|Kamenz|5,3 km|männliche Jugend U20 (BRL-DD)|25:00|1993|DEU
+19|5|5273|Krätschel, Brian|BLV 'Rot-Weiß 90'|5,3 km|männliche Jugend U14 (BRL-DD)|25:15|2000|DEU
+20|6|5277|Hädicke, Robby|Oberlausitzer Biathlonverein Ringenhain|5,3 km|männliche Jugend U14 (BRL-DD)|25:16|1999|DEU
+21|7|5313|Weickert, Simon|LSV Niesky|5,3 km|männliche Jugend U14 (BRL-DD)|25:19|2000|DEU
+22|6|5196|Pluder, Ronny|SV 'Grün-Weiß' Elstra|5,3 km|männliche Jugend U18 (BRL-DD)|26:13|1995|DEU
+23|8|5052|Hentschel, Paul|HSG Turbine Zittau|5,3 km|männliche Jugend U14 (BRL-DD)|26:14|2000|DEU
+24|1|5174|Hommel, Steffen|Gesundheitsstudio balance|5,3 km|Volkssport  männlich|26:44|1986|DEU
+25|1|5072|Klawon Kendray, W. George|Sachsen-Marathon e.V. (Gründer 'Oberelbe-Marathon')|5,3 km|Männer M70|27:06|1942|DEU
+26|9|5292|Ueberfuhr, Paul|Kamenz|5,3 km|männliche Jugend U14 (BRL-DD)|27:40|2000|DEU
+27|2|5134|Peschke, Björn|Uhyst a.T.|5,3 km|Volkssport  männlich|28:00|1980|DEU
+28|1|5004|Willweber, Siegfried|OSC Löbau|5,3 km|Männer M75 (BRL-DD)|28:26|1936|DEU
+29|3|5380|Estler, Rainer|TuS Dippoldiswalde 1992|5,3 km|Volkssport  männlich|29:00|1950|DEU
+30|4|5472|Feindor, Bernd|Großharthau|5,3 km|Volkssport  männlich|29:05|1969|DEU
+31|2|5224|Rasch, Dieter|Bautzen|5,3 km|Männer M70|29:25|1942|DEU
+32|2|5007|Hilger, Rainer|OSC Löbau|5,3 km|Männer M65|29:52|1945|DEU
+33|3|5463|Franke, Ullrich|SG 1953 Rothnaußlitz|5,3 km|Männer M70|31:01|1942|DEU
+34|5|5456|Winkler, Ronny|Bischofswerda|5,3 km|Volkssport  männlich|31:35|1973|DEU
+35|6|5374|Alter, Jürgen|Bischofswerda|5,3 km|Volkssport  männlich|31:41|1982|DEU
+36|3|5066|Schindler, Hartmut|OSC Löbau|5,3 km|Männer M65|34:21|1945|DEU
+37|10|5095|Ludwig, Arno|Goethe-Gymnasium Bischofswerda|5,3 km|männliche Jugend U14 (BRL-DD)|35:11|1999|DEU
+38|2|5204|Nuck, Georg|BLV 'Rot-Weiß 90'|5,3 km|Männer M75 (BRL-DD)|36:24|1934|DEU
+1|1|5267|Lamm, Anna|SSV Heidenau|5,3 km|weibliche Jugend U 18 (BRL-DD)|19:57|1995|DEU
+2|1|5165|Peroche, Lucile|Dresden|5,3 km|weibliche Jugend U 16 (BRL-DD)|21:09|1998|DEU
+3|2|5119|Noack, Celine|BLV 'Rot-Weiß 90'|5,3 km|weibliche Jugend U 16 (BRL-DD)|22:25|1998|DEU
+4|1|5385|Berthold, Katja|JTVG Coblenz|5,3 km|Volkssport weiblich|22:28|1973|DEU
+5|1|5168|Kamolz, Clara|HSV 1923 Pulsnitz|5,3 km|weibliche Jugend U 14 (BRL-DD)|23:22|1999|DEU
+6|3|5290|Lamm, Eva|SSV Heidenau|5,3 km|weibliche Jugend U 16 (BRL-DD)|23:23|1997|DEU
+7|2|5321|Poike, Tamina|Biathlonverein Ringenhain|5,3 km|weibliche Jugend U 14 (BRL-DD)|23:38|1999|DEU
+8|3|5312|Weickert, Nina|LSV Niesky|5,3 km|weibliche Jugend U 14 (BRL-DD)|23:42|1999|DEU
+9|2|5362|Kloß, Linda|Skiklub Dresden-Niedersedlitz|5,3 km|weibliche Jugend U 18 (BRL-DD)|23:59|1995|DEU
+10|4|5333|Gocht, Maria|Biathlonverein Ringenhain|5,3 km|weibliche Jugend U 16 (BRL-DD)|24:34|1998|DEU
+11|2|5218|Borisyuk, Agnieszka|Lublin|5,3 km|Volkssport weiblich|24:49|1987|POL
+12|4|5378|Neises, Sarah|Skiklub Dresden-Niedersedlitz|5,3 km|weibliche Jugend U 14 (BRL-DD)|24:53|1999|DEU
+13|5|5379|Ziegengeist, Pauline|Skiklub Dresden-Niedersedlitz|5,3 km|weibliche Jugend U 16 (BRL-DD)|24:59|1997|DEU
+14|6|5421|Kellmer, Patricia|Luisenstift Radebeul|5,3 km|weibliche Jugend U 16 (BRL-DD)|25:00|1998|DEU
+15|5|5363|Junghanß, Celine|Skiklub Dresden-Niedersedlitz|5,3 km|weibliche Jugend U 14 (BRL-DD)|25:27|1999|DEU
+16|1|5104|Melzer, Elke|Dresdner Sportclub|5,3 km|Frauen W60|26:30|1948|DEU
+17|3|5056|Kochan, Anne Sophie|Goethe-Gymnasium Bischofswerda|5,3 km|weibliche Jugend U 18 (BRL-DD)|26:47|1996|DEU
+18|4|5234|Löpelt, Sarah|TV 1848 Bischofswerda|5,3 km|weibliche Jugend U 18 (BRL-DD)|26:48|1996|DEU
+19|5|5081|Volkmann, Lisa|TV 1848 Bischofswerda|5,3 km|weibliche Jugend U 18 (BRL-DD)|26:50|1995|DEU
+20|1|5129|Reck, Melinda|Cunewalde|5,3 km|weibliche Jugend U 20 (BRL-DD)|26:58|1994|DEU
+21|6|5233|Löpelt, Laura|TV 1848 Bischofswerda|5,3 km|weibliche Jugend U 18 (BRL-DD)|27:17|1995|DEU
+22|7|5227|Nadolny, Emma|TV 1848 Bischofswerda|5,3 km|weibliche Jugend U 16 (BRL-DD)|27:20|1998|DEU
+23|8|5006|Hofmann, Elena|Biathlonverein Ringenhain|5,3 km|weibliche Jugend U 16 (BRL-DD)|27:29|1998|DEU
+24|6|5141|Rauch, Emma|Oberlausitzer Biathlonverein Ringenhain|5,3 km|weibliche Jugend U 14 (BRL-DD)|28:24|2000|DEU
+25|7|5182|Schulze, Franziska|Gesundheitsstudio balance|5,3 km|weibliche Jugend U 18 (BRL-DD)|28:40|1996|DEU
+26|3|5187|Wuthe, Piroska|Gesundheitsstudio balance|5,3 km|Volkssport weiblich|28:41|1976|DEU
+27|4|5178|Hübner, Jana|Gesundheitsstudio balance|5,3 km|Volkssport weiblich|28:43|1969|DEU
+28|5|5183|Beck, Martina|Gesundheitsstudio balance|5,3 km|Volkssport weiblich|28:43|1965|DEU
+29|7|5152|Walter, Marie|TV Valtenberg|5,3 km|weibliche Jugend U 14 (BRL-DD)|28:52|2000|DEU
+30|6|5235|Löpelt, Ines|Frankenthal|5,3 km|Volkssport weiblich|28:57|1971|DEU
+31|1|5298|Walter, Gisela|LG Wartturm Niesky|5,3 km|Frauen W65 (BRL-DD)|29:16|1946|DEU
+32|8|5324|Israel, Berta|Biathlonverein Ringenhain|5,3 km|weibliche Jugend U 14 (BRL-DD)|29:17|2000|DEU
+33|9|5307|Linss, Anna-Lucia|TV 1848 Bischofswerda|5,3 km|weibliche Jugend U 14 (BRL-DD)|29:18|2000|DEU
+34|7|5323|Poike, Katrin|Biathlonverein Ringenhain|5,3 km|Volkssport weiblich|29:30|1971|DEU
+35|8|5159|Böhmak, Theresa|Bautzen|5,3 km|Volkssport weiblich|29:57|1965|DEU
+36|9|5186|Hommel, Nicole|Gesundheitsstudio balance|5,3 km|Volkssport weiblich|30:06|1985|DEU
+37|2|5144|Harz, Birgit|RC 1898 Radeberg|5,3 km|Frauen W65 (BRL-DD)|30:07|1944|DEU
+38|9|5329|Mickan, Jasmin|Biathlonverein Ringenhain|5,3 km|weibliche Jugend U 16 (BRL-DD)|30:13|1998|DEU
+39|10|5375|Alter, Sylvia|Bautzen|5,3 km|Volkssport weiblich|31:46|1959|DEU
+40|11|5471|Feindor, Carina|Großharthau|5,3 km|Volkssport weiblich|32:07|1969|DEU
+41|3|5271|Fiebag, Irene|Biketeam Oberlausitz|5,3 km|Frauen W65 (BRL-DD)|32:21|1946|DEU
+42|12|5122|Diab, Sabine|Bautzen|5,3 km|Volkssport weiblich|33:48|1962|DEU
+43|4|5111|Hartwig, Karin|SG Dresdner Bank Dresden|5,3 km|Frauen W65 (BRL-DD)|34:03|1945|DEU
+44|5|5223|Rasch, Gerlinde|Bautzen|5,3 km|Frauen W65 (BRL-DD)|35:48|1944|DEU
+45|13|5094|Ludwig, Anke|Bischofswerda|5,3 km|Volkssport weiblich|41:38|1972|DEU
+46|6|5428|Helm, Hella|Königswarthaer SV 1990|5,3 km|Frauen W65 (BRL-DD)|42:48|1946|DEU
+1|1|3386|Handrich, Uwe|Bretnig-Hauswalde|5,3 km Walken|Männer|53:39|1963|DEU
+
+2|2|3372|Marsch, Werner|TV 1848 Bischofswerda|5,3 km Walken|Männer|1:05:06|1940|DEU
+1|1|3083|Pötschke, Ute|Cannewitz|5,3 km Walken|Frauen|48:25|1960|DEU
+2|2|3084|Steglich, Martina|SG Rothnaußlitz|5,3 km Walken|Frauen|48:25|1966|DEU
+3|3|3082|Volkmann, Uta|SG Rothnaußlitz|5,3 km Walken|Frauen|48:25|1964|DEU
+4|4|3373|Marsch, Renate|TV 1848 Bischofswerda|5,3 km Walken|Frauen|1:05:06|1942|DEU
+1|1|9395|Fenzl, Lukas|1. FC Indling|800 m|Volkssport männlich|03:46|2002|DEU
+2|2|9460|Winkler, Ricardo|Bischofswerda|800 m|Volkssport männlich|03:51|2004|DEU
+3|3|9454|Augst, Felix|Bischofswerda|800 m|Volkssport männlich|03:57|2004|DEU
+4|1|9469|Müller, Max|Bischofswerda|800 m|männliche Kinder U8 (BRL-DD)|04:01|2005|DEU
+5|4|9473|Schmidt, Timon|Grundschule Graupa|800 m|Volkssport männlich|04:02|2004|DEU
+6|5|9088|Schäfer, Max|TV 1848 Bischofswerda|800 m|Volkssport männlich|04:07|2002|DEU
+7|2|9034|Arnhold, Heiko|PSC Bautzen|800 m|männliche Kinder U8 (BRL-DD)|04:21|2005|DEU
+8|3|9338|Richter, Tom|Biathlonverein Ringenhain|800 m|männliche Kinder U8 (BRL-DD)|04:56|2006|DEU
+9|4|9443|Strosny, Jonas|Sorbischer Kindergarten Bautzen|800 m|männliche Kinder U8 (BRL-DD)|05:03|2006|DEU
+10|5|9412|Kellermann, Marcel|Team Magno Cursu|800 m|männliche Kinder U8 (BRL-DD)|05:19|2005|DEU
+11|6|9426|Thomas, Erwin|Triathlon Verein Valtenberg|800 m|männliche Kinder U8 (BRL-DD)|05:45|2007|DEU
+12|7|9024|Weißling, Béla|Dresden|800 m|männliche Kinder U8 (BRL-DD)|09:38|2009|DEU
+1|1|9041|Lebelt, Klara- Huldine|Skiclub Kottmar|800 m|weibliche Kinder U8 (BRL-DD)|03:59|2005|DEU
+2|2|9198|Steglich, Xenia|SV 'Grün-Weiß' Elstra|800 m|weibliche Kinder U8 (BRL-DD)|04:00|2006|DEU
+3|1|9087|Schäfer, Anna|TV 1848 Bischofswerda|800 m|Volkssport weiblich|04:07|2002|DEU
+4|3|9170|Zimmer, Maxine|Neukirch|800 m|weibliche Kinder U8 (BRL-DD)|04:22|2006|DEU
+5|4|9215|Ullrich, Franziska|BLV 'Rot-Weiß 90'|800 m|weibliche Kinder U8 (BRL-DD)|04:46|2007|DEU
+6|5|9058|Fernbach, Joelina|Bühler Quetscheteufel|800 m|weibliche Kinder U8 (BRL-DD)|04:49|2005|DEU
+7|6|9335|Rauch, Nina|Biathlonverein Ringenhain|800 m|weibliche Kinder U8 (BRL-DD)|05:00|2005|DEU
+8|7|9258|Kretschmar, Hanna|Ski-Club-Sohland 1928|800 m|weibliche Kinder U8 (BRL-DD)|05:13|2007|DEU
+9|8|9451|Kuss, Jule|Frankenthal|800 m|weibliche Kinder U8 (BRL-DD)|05:45|2007|DEU
+10|9|9404|Schade, Jitka|Sorbischer Kindergarten Bautzen|800 m|weibliche Kinder U8 (BRL-DD)|08:41|2009|DEU

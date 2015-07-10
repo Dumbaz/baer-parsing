@@ -1,0 +1,80 @@
+To.|Ak.|Stnr.|Name, Vorname|Verein|Strecke|AK|Bruttozeit||Nat
+
+1|1|229|Pietsch, Lucas|SV Grün-Weiß Elstra|15 Minuten|Jungen|3415|2004|
+2|2|270|Richter, Antonius|Gesundheitsstudio Balance|15 Minuten|Jungen|3200|2004|
+3|3|224|Vogt, Wilhelm|OL-Biathlon-Verein Ringenhain|15 Minuten|Jungen|2950|2004|
+4|4|231|Vetter, Tillmann|TV 1848 Bischofswerda|15 Minuten|Jungen|2800|2000|
+5|5|228|Pietsch, Jonas|SV Grün-Weiß Elstra|15 Minuten|Jungen|2500|2001|
+6|6|253|Ansorge, Niclas|Weickersdorf|15 Minuten|Jungen|2400|2004|
+7|7|250|Manczak, Julian|Bautzen|15 Minuten|Jungen|2140|2006|
+8|8|252|Leuthold, Jonas|Stacha|15 Minuten|Jungen|2000|2005|
+9|9|251|Manczak, Jannis|Bautzen|15 Minuten|Jungen|1815|2008|
+10|10|254|Stark, Richard|Budissa Bautzen|15 Minuten|Jungen|1600|2007|
+11|11|262|Hermann, Elias|TV 1848 Bischofswerda|15 Minuten|Jungen|1200|2010|
+1|1|227|Guhr, Emelie|OL-Biathlon-Verein Ringenhain|15 Minuten|Mädchen|3350|2002|
+2|2|265|Gutsche, Anna|Demitz-Thumitz|15 Minuten|Mädchen|3200|2000|
+3|3|240|Steglich, Xenia|SV Grün-Weiß Elstra|15 Minuten|Mädchen|2800|2006|
+4|4|241|Steglich, Celina|SV Grün-Weiß Elstra|15 Minuten|Mädchen|2700|2004|
+5|5|248|Seid, Antonia|SV Grün-Weiß Elstra|15 Minuten|Mädchen|2600|2003|
+6|6|230|Ullrich, Katharina|SV Grün-Weiß Elstra|15 Minuten|Mädchen|2500|2003|
+7|7|271|Richter, Hannah|Gesundheitsstudio Balance|15 Minuten|Mädchen|2400|2005|
+8|8|249|Schuster, Leni|SV 'Grün-Weiß' Elstra|15 Minuten|Mädchen|2300|2005|
+9|9|259|Hermann, Jenny|TV 1848 Bischofswerda|15 Minuten|Mädchen|1600|2004|
+10|10|260|Hermann, Lydia|TV 1848 Bischofswerda|15 Minuten|Mädchen|1600|2006|
+11|11|255|Mahn, Annalena|TV 1848 Bischofswerda|15 Minuten|Mädchen|1000|2009|
+12|12|256|Mahn, Emilia|TV 1848 Bischofswerda|15 Minuten|Mädchen|1000|2010|
+13|13|261|Hermann, Nadine|TV 1848 BischofswerdaNadine|15 Minuten|Mädchen|800|2008|
+1|1|46|Gerhardt, Robby|Düsseldorf|30 Minuten|Männer|7630|1987|
+2|2|6|Lehmann, Heiko|Obergurig|30 Minuten|Männer|7340|1965|
+3|3|44|Rußig, Jonathan|TV Valtenberg Neukirch|30 Minuten|Männer|7230|1986|
+4|4|23|Wemme, Steffen|Bischofswerda|30 Minuten|Männer|6800|1963|
+5|5|32|Vetter, Tillmann|TV 1848 Bischofswerda|30 Minuten|Männer|6640|2000|
+6|6|66|Schade, Fridtjof|BLV 'Rot-Weiß' 90|30 Minuten|Männer|6640|2001|
+7|7|75|Wagner, Udo|Bischofswerda|30 Minuten|Männer|6560|1961|
+8|8|67|Schade, Silvio|BLV 'Rot-Weiß' 90|30 Minuten|Männer|6550|1969|
+9|9|12|Wacker, Lutz|Bischofswerda|30 Minuten|Männer|6430|1973|
+10|10|42|Israel, Lukas|OL-Biathlon-Verein Ringenhain|30 Minuten|Männer|6320|1999|
+11|11|22|Luft, Michael|Königswartha|30 Minuten|Männer|6300|1966|
+12|12|47|Diab, Rami|Bautzen|30 Minuten|Männer|6250|1989|
+13|13|36|Richter, Ralf|ESV Lok Döbeln|30 Minuten|Männer|6220|1957|
+14|14|5|Herrmann, Daniel|St. Petri Bautzen|30 Minuten|Männer|6180|1995|
+15|15|63|Leuthold, Denis|Stacha|30 Minuten|Männer|6180|1977|
+16|16|13|Zumpe, Thomas|TV 1848 Bischofswerda|30 Minuten|Männer|6100|1962|
+17|17|57|Bläsche, Gerold|Blau-Gold Bischofswerda|30 Minuten|Männer|6030|1957|
+18|18|76|Mosig, Thomas|Doberschau|30 Minuten|Männer|6030|1970|
+19|19|43|Lösche, Marco|Demitz-Thumitz|30 Minuten|Männer|5880|1972|
+20|20|9|Stark, Freddy|SV Gesundbrunnen Bautzen|30 Minuten|Männer|5810|1964|
+21|21|1|Bär, Armin|TV 1848 Bischofswerda|30 Minuten|Männer|5650|1948|
+22|22|7|Pakoßnick, Gernot|FSG Bautzen|30 Minuten|Männer|5630|1942|
+23|23|10|Svarovsky, Gerald|BFV 08|30 Minuten|Männer|5430|1963|
+24|24|4|Herrmann, Christian|St. Petri Bautzen|30 Minuten|Männer|5220|1967|
+25|25|69|Richter, Marcus|Gesundheitsstudio Balance|30 Minuten|Männer|5180|1973|
+26|26|8|Schäfer, Werner|TV 1848 Bischofswerda|30 Minuten|Männer|5100|1938|
+27|27|37|Richter, Randolf|Blau-Gold Bischofswerda|30 Minuten|Männer|4850|1960|
+28|28|14|Schindler, Hartmut|OSC Löbau|30 Minuten|Männer|4840|1945|
+29|29|35|Engemann, Klaus|ESV Lok Döbeln|30 Minuten|Männer|4680|1938|
+30|30|34|Wacker, Collin|Grundschule Süd|30 Minuten|Männer|4400|2004|
+31|31|39|Guhr, Eberhard|DAV Dresden|30 Minuten|Männer|4320|1939|
+32|32|68|Walter, Valentin|SV Bautzen|30 Minuten|Männer|4020|1998|
+1|1|45|Breier, Katka|Düsseldorf|30 Minuten|Frauen|6300|1991|
+2|2|15|Luft, Simone|Königswarthaer SV|30 Minuten|Frauen|6030|1966|
+3|3|21|Wacker, Janet|Bischofswerda|30 Minuten|Frauen|6000|1973|
+4|4|78|Büchner, Marie-Louise|SV Einheit Kamenz|30 Minuten|Frauen|6000|1993|
+5|5|33|Jenak, Deborah|TV 1848 Bischofswerda|30 Minuten|Frauen|5850|2001|
+6|6|18|Vogt, Anja|OL-Biathlon-Verein Ringenhain|30 Minuten|Frauen|5820|1969|
+7|7|74|Schulze, Franziska|Gesundheitsstudio Balance|30 Minuten|Frauen|5800|1996|
+8|8|17|Pötschke, Kristina|TV 1848 Bischofswerda|30 Minuten|Frauen|5530|1951|
+9|9|19|Langanki, Annett|TSG Bretnig-Hauswalde|30 Minuten|Frauen|5510|1966|
+10|10|2|Büchner-Reuter, Carola|SV Einheit Kamenz|30 Minuten|Frauen|5490|1966|
+11|11|64|Blankertz-Teichert, Antje|Neustadt|30 Minuten|Frauen|5450|1967|
+12|12|26|Israel, Berta|OL-Biathlon-Verein Ringenhain|30 Minuten|Frauen|5420|2000|
+13|13|11|Ullrich, Diana|SV Grün-Weiß Elstra|30 Minuten|Frauen|5380|1966|
+14|14|16|Schuster, Kathleen|Butter- Bergschnecken|30 Minuten|Frauen|5200|1975|
+15|15|20|Paul, Elke|Butterberg- Bergschnecken|30 Minuten|Frauen|5190|1964|
+16|16|72|Hieke, Bärbel|Gesundheitsstudio Balance|30 Minuten|Frauen|5180|1966|
+17|17|38|Diab, Sabine|Bautzen|30 Minuten|Frauen|5100|1962|
+18|18|25|Büchner, Magdalena|SV Einheit Kamenz|30 Minuten|Frauen|5020|1998|
+19|19|58|Bläsche, Petra|Blau-Gold Bischofswerda|30 Minuten|Frauen|4830|1958|
+20|20|73|Furchtbar, Linda|Gesundheitsstudio Balance|30 Minuten|Frauen|4730|1990|
+21|21|77|Jenak, Heike|Putzkau|30 Minuten|Frauen|4660|1970|
+22|22|3|Helm, Hella|KSV Königswartha|30 Minuten|Frauen|3690|1946|

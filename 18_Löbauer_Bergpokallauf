@@ -1,0 +1,422 @@
+To.|Ak.|Stnr.|Name, Vorname|Verein|Strecke|AK|Bruttozeit|Nettozeit||Nat
+
+1|1|6009|Musch, Christian|HSV 1923 Pulsnitz|1,1  km|Schüler B (13 Jahre)|00:06|0|1997|GER
+2|2|6026|Kruppas, Paul|SV Koweg Görlitz|1,1  km|Schüler B (13 Jahre)|00:06|0|1997|GER
+3|1|6006|Winkler, Lorenz|HSG Turbine Zittau|1,1  km|Schüler B (12 Jahre)|00:06|0|1998|GER
+4|3|6023|Bethmann, Felix|Geschwister-Scholl-Gymnasium Löbau|1,1  km|Schüler B (13 Jahre)|00:06|0|1997|GER
+5|4|6022|Hohenstein, Nick|Geschwister-Scholl-Gymnasium Löbau|1,1  km|Schüler B (13 Jahre)|00:06|0|1997|GER
+6|2|6017|Noack, Fritz|Freie Schule Rietschen|1,1  km|Schüler B (12 Jahre)|00:06|0|1998|GER
+7|3|6027|Vater, Till|Dresden|1,1  km|Schüler B (12 Jahre)|00:06|0|1998|GER
+8|4|6005|Nitsche, Felix|OL-Biathlon-Verein Ringenhain|1,1  km|Schüler B (12 Jahre)|00:06|0|1998|GER
+9|5|6001|Jurk, Florian|MS Wilhelm-von-Polenz Cunewalde|1,1  km|Schüler B (12 Jahre)|00:06|0|1998|GER
+10|6|6025|Fiedler, Florian|SV Koweg Görlitz|1,1  km|Schüler B (12 Jahre)|00:06|0|1998|GER
+11|7|6029|Lorenz, Patrick|Heinrich-Pestalozzi MS Löbau|1,1  km|Schüler B (12 Jahre)|00:06|0|1998|GER
+12|8|6012|Stahn, Robert|Heinrich-Pestalozzi MS Löbau|1,1  km|Schüler B (12 Jahre)|00:06|0|1998|GER
+13|9|6028|Knöbel, Erwin|Geschwister-Scholl-Gymnasium Löbau|1,1  km|Schüler B (12 Jahre)|00:06|0|1998|GER
+14|10|6002|Schönfelder, Richard|MS Wilhelm-von-Polenz Cunewalde|1,1  km|Schüler B (12 Jahre)|00:06|0|1998|GER
+15|5|6003|Pietschmann, Jan|MS Wilhelm-von-Polenz Cunewalde|1,1  km|Schüler B (13 Jahre)|00:06|0|1997|GER
+16|11|6018|Hänsch, Timo|Geschwister-Scholl-Gymnasium Löbau|1,1  km|Schüler B (12 Jahre)|00:06|0|1998|GER
+17|12|6021|Gerber, Vincent|Geschwister-Scholl-Gymnasium Löbau|1,1  km|Schüler B (12 Jahre)|00:06|0|1998|GER
+18|13|6014|Weinbach, Ian|Heinrich-Pestalozzi MS Löbau|1,1  km|Schüler B (12 Jahre)|00:06|0|1998|GER
+1|1|4029|Vetter, Tillmann|TV 1848 Bischofswerda|1,1 km|Schüler C (10 Jahre)|00:04|0|2000|GER
+2|1|4019|Fechner, Nils|Freie Schule Rietschen|1,1 km|Schüler C (11 Jahre)|00:04|0|1999|GER
+3|2|4004|Haufe, Max|HSV 1923 Pulsnitz|1,1 km|Schüler C (11 Jahre)|00:04|0|1999|GER
+4|2|4030|Gehser, Tobias|SG Steinigtwolmsdorf|1,1 km|Schüler C (10 Jahre)|00:04|0|2000|GER
+5|3|4021|Kubig, Kevin|Oberlausitzer SC Löbau|1,1 km|Schüler C (10 Jahre)|00:04|0|2000|GER
+6|4|4023|Große, Max|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schüler C (10 Jahre)|00:04|0|2000|GER
+7|3|4028|Hädicke, Robby|OL-Biathlon-Verein Ringenhain|1,1 km|Schüler C (11 Jahre)|00:04|0|1999|GER
+8|4|4027|Weber, Christian|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schüler C (11 Jahre)|00:04|0|1999|GER
+9|5|4025|Vietze, Markus|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schüler C (11 Jahre)|00:04|0|1999|GER
+10|6|4010|Baum, Cedric|Heinrich-Pestalozzi MS Löbau|1,1 km|Schüler C (11 Jahre)|00:04|0|1999|GER
+11|5|4031|Ueberfuhr, Paul|Kamenz|1,1 km|Schüler C (10 Jahre)|00:04|0|2000|GER
+12|7|4015|Dittrich, Dominik|Heinrich-Pestalozzi MS Löbau|1,1 km|Schüler C (11 Jahre)|00:04|0|1999|GER
+13|8|4001|Köhler, Tim|HSG Turbine Zittau|1,1 km|Schüler C (11 Jahre)|00:04|0|1999|GER
+14|9|4035|Richter, Maik|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schüler C (11 Jahre)|00:04|0|1999|GER
+15|6|4011|Hanske, Lukas|Heinrich-Pestalozzi MS Löbau|1,1 km|Schüler C (10 Jahre)|00:04|0|2000|GER
+16|10|4016|Fink, Moritz|Heinrich-Pestalozzi MS Löbau|1,1 km|Schüler C (11 Jahre)|00:04|0|1999|GER
+17|7|4034|Fischer, Felix|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schüler C (10 Jahre)|00:04|0|2000|GER
+18|8|4022|Seibt, Christopher|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schüler C (10 Jahre)|00:04|0|2000|GER
+19|11|4033|Turgut, Demhat|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schüler C (11 Jahre)|00:04|0|1999|GER
+20|12|4013|Schmoll, Marcus|Heinrich-Pestalozzi MS Löbau|1,1 km|Schüler C (11 Jahre)|00:04|0|1999|GER
+21|13|4026|Titze, Tommy-Lee|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schüler C (11 Jahre)|00:04|0|1999|GER
+22|9|4006|Huhndorf, Sebastian|Heinrich-Pestalozzi MS Löbau|1,1 km|Schüler C (10 Jahre)|00:04|0|2000|GER
+23|14|4008|Knaak, Martin|Heinrich-Pestalozzi MS Löbau|1,1 km|Schüler C (11 Jahre)|00:04|0|1999|GER
+24|15|4017|Weiser, Brain|Freie Schule Rietschen|1,1 km|Schüler C (11 Jahre)|00:04|0|1999|GER
+1|1|3001|Poike, Tamina|OL-Biathlon-Verein Ringenhain|1,1 km|Schülerin C (11 Jahre)|00:03|0|1999|GER
+1|1|5024|Preußger, Marie|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin B (13 Jahre)|00:05|0|1997|GER
+2|2|3008|Wecke, Jasmin|HSV 1923 Pulsnitz|1,1 km|Schülerin C (11 Jahre)|00:03|0|1999|GER
+2|1|5016|Clemens, Viktoria|Oberlausitzer SC Löbau|1,1 km|Schülerin B (12 Jahre)|00:05|0|1998|GER
+3|1|3020|Bernhard, Isabell|Freie Schule Rietschen|1,1 km|Schülerin C (10 Jahre)|00:03|0|2000|GER
+3|2|5005|Nitsche, Lea|HSV 1923 Pulsnitz|1,1 km|Schülerin B (12 Jahre)|00:05|0|1998|GER
+4|3|3030|Weickert, Nina|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin C (11 Jahre)|00:03|0|1999|GER
+4|3|5004|Gocht, Maria|OL-Biathlon-Verein Ringenhain|1,1 km|Schülerin B (12 Jahre)|00:05|0|1998|GER
+5|2|3021|Geib, Josephine|Oberlausitzer SC Löbau|1,1 km|Schülerin C (10 Jahre)|00:03|0|2000|GER
+5|2|5026|Eisold, Sarah|HSV 1923 Pulsnitz|1,1 km|Schülerin B (13 Jahre)|00:05|0|1997|GER
+6|4|3044|Kamolz, Clara|BSP Liegau|1,1 km|Schülerin C (11 Jahre)|00:03|0|1999|GER
+6|4|5028|Nadolny, Emma|TV 1848 Bischofswerda|1,1 km|Schülerin B (12 Jahre)|00:05|0|1998|GER
+7|5|3036|Junghanß, Celine|Skiklub Dresden-Niedersedlitz|1,1 km|Schülerin C (11 Jahre)|00:03|0|1999|GER
+7|3|5027|Liebscher, Luisa|HSG Turbine Zittau|1,1 km|Schülerin B (13 Jahre)|00:05|0|1997|GER
+8|3|3002|Mutscher, Lena|MS Wilhelm-von-Polenz Cunewalde|1,1 km|Schülerin C (10 Jahre)|00:03|0|2000|GER
+8|5|5013|Bernhard, Janina|Freie Schule Rietschen|1,1 km|Schülerin B (12 Jahre)|00:05|0|1998|GER
+9|4|3045|Eisold, Jasmin|HSV 1923 Pulsnitz|1,1 km|Schülerin C (10 Jahre)|00:03|0|2000|GER
+9|4|5025|Ulbrich, Sophie|Oberlausitzer SC Löbau|1,1 km|Schülerin B (13 Jahre)|00:05|0|1997|GER
+10|5|3039|Engler, Lisa|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin C (10 Jahre)|00:03|0|2000|GER
+10|6|5017|Reck, Claudia|Oberlausitzer SC Löbau|1,1 km|Schülerin B (12 Jahre)|00:05|0|1998|GER
+11|6|3009|Böthig, Yasmin|Heinrich-Pestalozzi MS Löbau|1,1 km|Schülerin C (11 Jahre)|00:03|0|1999|GER
+11|7|5023|Pfalz, Luise|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin B (12 Jahre)|00:05|0|1998|GER
+12|6|3026|Wauer, Josefine|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin C (10 Jahre)|00:03|0|2000|GER
+12|8|5020|Backofen, Pauline|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin B (12 Jahre)|00:05|0|1998|GER
+13|7|3004|Matthes, Belinda|MS Wilhelm-von-Polenz Cunewalde|1,1 km|Schülerin C (11 Jahre)|00:03|0|1999|GER
+13|9|5007|Palmer, Sindy|Heinrich-Pestalozzi MS Löbau|1,1 km|Schülerin B (12 Jahre)|00:05|0|1998|GER
+14|8|3042|Lindner, Elisa|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin C (11 Jahre)|00:03|0|1999|GER
+14|10|5022|Starke, Sally|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin B (12 Jahre)|00:05|0|1998|GER
+15|7|3046|Donath, Johanna|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin C (10 Jahre)|00:03|0|2000|GER
+15|11|5021|Berndt, Annegret|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin B (12 Jahre)|00:05|0|1998|GER
+16|9|3041|Gladasch, Elisa|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin C (11 Jahre)|00:03|0|1999|GER
+16|12|5009|Heinrich, Ilka|Heinrich-Pestalozzi MS Löbau|1,1 km|Schülerin B (12 Jahre)|00:05|0|1998|GER
+17|8|3025|Lieber, Marit|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin C (10 Jahre)|00:03|0|2000|GER
+17|13|5014|Strelow, Charlotte|Freie Schule Rietschen|1,1 km|Schülerin B (12 Jahre)|00:05|0|1998|GER
+18|10|3029|Bachmann, Mara|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin C (11 Jahre)|00:03|0|1999|GER
+18|14|5008|Ulrich, Maria-Luisa|Heinrich-Pestalozzi MS Löbau|1,1 km|Schülerin B (12 Jahre)|00:05|0|1998|GER
+19|11|3018|Häntsch, Celine|Heinrich-Pestalozzi MS Löbau|1,1 km|Schülerin C (11 Jahre)|00:03|0|1999|GER
+19|15|5012|Engelmann, Annett|Freie Schule Rietschen|1,1 km|Schülerin B (12 Jahre)|00:05|0|1998|GER
+20|12|3038|Lumpe, Viviane|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin C (11 Jahre)|00:03|0|1999|GER
+20|5|5029|Hafner, Jessica|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin B (13 Jahre)|00:05|0|1997|GER
+21|9|3019|Potz, Melanie|Grundschule Friedersdorf|1,1 km|Schülerin C (10 Jahre)|00:03|0|2000|GER
+21|6|5002|Thiel, Luisa|MS Wilhelm-von-Polenz Cunewalde|1,1 km|Schülerin B (13 Jahre)|00:05|0|1997|GER
+22|13|3016|Jühnichen, Michelle|Heinrich-Pestalozzi MS Löbau|1,1 km|Schülerin C (11 Jahre)|00:03|0|1999|GER
+22|16|5011|Sellger, Lisa|Heinrich-Pestalozzi MS Löbau|1,1 km|Schülerin B (12 Jahre)|00:05|0|1998|GER
+23|14|3032|State, Marianne|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin C (11 Jahre)|00:03|0|1999|GER
+23|17|5019|Nickel, Tina|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin B (12 Jahre)|00:05|0|1998|GER
+24|15|3031|Labitzke, Nadine|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin C (11 Jahre)|00:03|0|1999|GER
+25|16|3028|Kunert, Franka|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin C (11 Jahre)|00:03|0|1999|GER
+26|10|3037|Geisler, Tina|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin C (10 Jahre)|00:03|0|2000|GER
+27|17|3013|Mann, Cora|Heinrich-Pestalozzi MS Löbau|1,1 km|Schülerin C (11 Jahre)|00:03|0|1999|GER
+28|11|3023|Zahn, Klara|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin C (10 Jahre)|00:03|0|2000|GER
+29|12|3040|Weiß, Anna|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin C (10 Jahre)|00:03|0|2000|GER
+30|13|3024|Hatscher, Alice|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin C (10 Jahre)|00:03|0|2000|GER
+31|18|3034|Liebner, Jenny|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin C (11 Jahre)|00:03|0|1999|GER
+32|19|3033|Dinger, Luise|Geschwister-Scholl-Gymnasium Löbau|1,1 km|Schülerin C (11 Jahre)|00:03|0|1999|GER
+33|20|3011|Lange, Sophie|Heinrich-Pestalozzi MS Löbau|1,1 km|Schülerin C (11 Jahre)|00:03|0|1999|GER
+34|21|3010|Schmidt, Lisa-Marie|Heinrich-Pestalozzi MS Löbau|1,1 km|Schülerin C (11 Jahre)|00:03|0|1999|GER
+1|1|9019|Preußger, Felix|Geschwister-Scholl-Gymnasium Löbau|1,6 km|männliche Jugend B|00:09|0|1993|GER
+
+2|1|8019|Schmidt, Asbjörn|Oberlausitzer SC Löbau|1,6 km|Schüler A (15 Jahre)|00:08|0|1995|GER
+2|2|9021|Gerlach, Johannes|Geschwister-Scholl-Gymnasium Löbau|1,6 km|männliche Jugend B|00:09|0|1993|GER
+3|1|8014|Gnieser, Benjamin|Geschwister-Scholl-Gymnasium Löbau|1,6 km|Schüler A (14 Jahre)|00:08|0|1996|GER
+3|3|9012|Guder, Tobias|Geschwister-Scholl-Gymnasium Löbau|1,6 km|männliche Jugend B|00:09|0|1994|GER
+4|2|8018|Ueberfuhr, Marc|SV 'Grün-Weiß' Elstra|1,6 km|Schüler A (15 Jahre)|00:08|0|1995|GER
+4|4|9018|Rudolph, Chris|Geschwister-Scholl-Gymnasium Löbau|1,6 km|männliche Jugend B|00:09|0|1993|GER
+5|3|8006|Nitsch, Lukas|Heinrich-Pestalozzi MS Löbau|1,6 km|Schüler A (15 Jahre)|00:08|0|1995|GER
+5|5|9008|Nasser, Julian|Geschwister-Scholl-Gymnasium Löbau|1,6 km|männliche Jugend B|00:09|0|1994|GER
+6|2|8009|Junker, Alexander|Freie Schule Rietschen|1,6 km|Schüler A (14 Jahre)|00:08|0|1996|GER
+6|6|9011|Lange, Maximilian|Geschwister-Scholl-Gymnasium Löbau|1,6 km|männliche Jugend B|00:09|0|1994|GER
+7|3|8017|Kamolz, Anton|HSV 1923 Pulsnitz|1,6 km|Schüler A (14 Jahre)|00:08|0|1996|GER
+7|7|9027|Gladasch, Tobias|Oberlausitzer SC Löbau|1,6 km|männliche Jugend B|00:09|0|1993|GER
+8|4|8011|Dornig, Markus|Geschwister-Scholl-Gymnasium Löbau|1,6 km|Schüler A (14 Jahre)|00:08|0|1996|GER
+8|8|9026|Neumeyer, Domenik|Heinrich-Pestalozzi MS Löbau|1,6 km|männliche Jugend B|00:09|0|1994|GER
+9|4|8003|Wähner, Martin|HSV 1923 Pulsnitz|1,6 km|Schüler A (15 Jahre)|00:08|0|1995|GER
+9|9|9006|Wagner, Samuel|Geschwister-Scholl-Gymnasium Löbau|1,6 km|männliche Jugend B|00:09|0|1994|GER
+10|5|8012|Starke, Richard|Geschwister-Scholl-Gymnasium Löbau|1,6 km|Schüler A (14 Jahre)|00:08|0|1996|GER
+10|10|9020|Zersch, Michael|Geschwister-Scholl-Gymnasium Löbau|1,6 km|männliche Jugend B|00:09|0|1993|GER
+11|6|8001|Gladasch, Philip|MS Wilhelm-von-Polenz Cunewalde|1,6 km|Schüler A (14 Jahre)|00:08|0|1996|GER
+11|11|9007|Kallenowsky, Konrad|Geschwister-Scholl-Gymnasium Löbau|1,6 km|männliche Jugend B|00:09|0|1994|GER
+12|7|8010|Kanig, Paul|Geschwister-Scholl-Gymnasium Löbau|1,6 km|Schüler A (14 Jahre)|00:08|0|1996|GER
+12|12|9010|Hempel, Max|Geschwister-Scholl-Gymnasium Löbau|1,6 km|männliche Jugend B|00:09|0|1994|GER
+13|8|8002|Rosanski, Paul|Geschwister-Scholl-Gymnasium Löbau|1,6 km|Schüler A (14 Jahre)|00:08|0|1996|GER
+1|1|7018|Belger, Tabea|Oberlausitzer SC Löbau|1,6 km|Schülerin A (14 Jahre)|00:07|0|1996|GER
+1|1|9016|Menzel, Annemarie|Geschwister-Scholl-Gymnasium Löbau|1,6 km|weibliche Jugend B|00:09|0|1993|GER
+2|2|7019|Tannert, Anna|HSG Turbine Zittau|1,6 km|Schülerin A (14 Jahre)|00:07|0|1996|GER
+2|2|9004|Hennig, Heidi|Geschwister-Scholl-Gymnasium Löbau|1,6 km|weibliche Jugend B|00:09|0|1994|GER
+3|1|7017|Barby, Melanie|Oberlausitzer SC Löbau|1,6 km|Schülerin A (15 Jahre)|00:07|0|1995|GER
+3|3|9005|Gleißenberger, Nora|Geschwister-Scholl-Gymnasium Löbau|1,6 km|weibliche Jugend B|00:09|0|1994|GER
+4|3|7011|Kittan, Kristin|Geschwister-Scholl-Gymnasium Löbau|1,6 km|Schülerin A (14 Jahre)|00:07|0|1996|GER
+4|4|9014|Freude, Lisa|Geschwister-Scholl-Gymnasium Löbau|1,6 km|weibliche Jugend B|00:09|0|1993|GER
+5|2|7010|Posern, Nicole|Freie Schule Rietschen|1,6 km|Schülerin A (15 Jahre)|00:07|0|1995|GER
+5|5|9013|Phan, Hoa Quynh|Geschwister-Scholl-Gymnasium Löbau|1,6 km|weibliche Jugend B|00:09|0|1993|GER
+6|4|7022|Löpelt, Sarah|TV 1848 Bischofswerda|1,6 km|Schülerin A (14 Jahre)|00:07|0|1996|GER
+7|5|7013|Glienke, Melanie|Geschwister-Scholl-Gymnasium Löbau|1,6 km|Schülerin A (14 Jahre)|00:07|0|1996|GER
+8|6|7024|Knöbel, Erna|Geschwister-Scholl-Gymnasium Löbau|1,6 km|Schülerin A (14 Jahre)|00:07|0|1996|GER
+9|7|7020|Leder, Luise|HSG Turbine Zittau|1,6 km|Schülerin A (14 Jahre)|00:07|0|1996|GER
+10|3|7021|Volkmann, Lisa|TV 1848 Bischofswerda|1,6 km|Schülerin A (15 Jahre)|00:07|0|1995|GER
+11|8|7001|Marschner, Romy|Heinrich-Pestalozzi MS Löbau|1,6 km|Schülerin A (14 Jahre)|00:07|0|1996|GER
+12|9|7008|Thiel, Luise|Heinrich-Pestalozzi MS Löbau|1,6 km|Schülerin A (14 Jahre)|00:07|0|1996|GER
+13|4|7023|Löpelt, Laura|TV 1848 Bischofswerda|1,6 km|Schülerin A (15 Jahre)|00:07|0|1995|GER
+14|5|8007|Jakobi, Marius|Heinrich-Pestalozzi MS Löbau|1,6 km|Schülerin A (15 Jahre)|00:07|0|1995|GER
+14|10|7007|Kersten, Elisabeth|Heinrich-Pestalozzi MS Löbau|1,6 km|Schülerin A (14 Jahre)|00:07|0|1996|GER
+16|6|7016|Leckert, Anna|Geschwister-Scholl-Gymnasium Löbau|1,6 km|Schülerin A (15 Jahre)|00:07|0|1995|GER
+16|11|7012|Probst, Jessica|Geschwister-Scholl-Gymnasium Löbau|1,6 km|Schülerin A (14 Jahre)|00:07|0|1996|GER
+18|7|7009|Lorz, Rebecca|Heinrich-Pestalozzi MS Löbau|1,6 km|Schülerin A (15 Jahre)|00:07|0|1995|GER
+18|12|7014|Teske, Sandra|Geschwister-Scholl-Gymnasium Löbau|1,6 km|Schülerin A (14 Jahre)|00:07|0|1996|GER
+20|8|7005|Grunewald, Marie|Heinrich-Pestalozzi MS Löbau|1,6 km|Schülerin A (15 Jahre)|00:07|0|1995|GER
+1|1|101|Flegel, Christian|TSV Dresden|10,6km|Männer 20-29|00:42:28||1987|DEU
+2|2|46|Giese, Marcus|Triathlon Verein Valtenberg|10,6km|Männer 20-29|00:43:23||1986|DEU
+3|1|70|Barthel, Remo|SV Vorwärts Zwickau|10,6km|Männer 35-39|00:43:49||1975|DEU
+4|1|78|Grozny, Stefan|SC DHfK Leipzig|10,6km|Männer 40-44|00:44:09||1966|DEU
+5|1|14|Melzer, Jonas|Radclub 1898 Radeberg|10,6km|m. Jugend A|00:45:33||1992|DEU
+6|1|98|Müller, Dietmar|LG Asics Pirna|10,6km|Männer 50-54|00:45:49||1956|DEU
+7|1|99|Hänsch, Uwe|Oberlausitzer SC Löbau|10,6km|Männer 45-49|00:45:55||1965|DEU
+8|2|170|Krostack, Bernd|PSV Zittau|10,6km|Männer 45-49|00:45:59||1964|DEU
+9|2|120|Eisold, Jens|Handball-Sport-Verein 1923 Pulsnitz|10,6km|Männer 35-39|00:46:38||1971|DEU
+10|3|69|Brusdeilins, Sven|SV Vorwärts Zwickau|10,6km|Männer 35-39|00:47:05||1973|DEU
+11|4|132|Haupt, Andreas|Pulsnitz|10,6km|Männer 35-39|00:47:52||1974|DEU
+12|3|18|Holz, Olaf|Bombardier Transportstation Görlitz|10,6km|Männer 45-49|00:49:16||1963|DEU
+13|4|58|Schwan, Ralph|DC-Race-Team|10,6km|Männer 45-49|00:49:19||1965|DEU
+14|5|64|Hirschmann, Ronny|Triathlon Team Niederschlesien (Aufbau Kodersdorf)|10,6km|Männer 35-39|00:50:04||1975|DEU
+15|3|151|Süße, Florian|Triathlon Team Niederschlesien (Aufbau Kodersdorf)|10,6km|Männer 20-29|00:50:05||1987|DEU
+16|2|80|Wilde, Andreas|Triathlon Verein Valtenberg|10,6km|Männer 50-54|00:50:11||1958|DEU
+17|2|61|Rösler, Konrad|Turn- u. SV Großschönau|10,6km|m. Jugend A|00:50:22||1991|DEU
+18|3|68|Kießlich, Mario|Triathlon Team Niederschlesien (Aufbau Kodersdorf)|10,6km|Männer 50-54|00:50:57||1960|DEU
+19|6|66|Schmidt, Steffen|Europamarathon Görlitz - Zgorzelec|10,6km|Männer 35-39|00:50:57||1972|DEU
+20|2|54|Mehnert, Christoph|BLV 'Rot-Weiß 90'|10,6km|Männer 40-44|00:51:03||1969|DEU
+21|3|161|Schade, Silvio|BLV 'Rot-Weiß 90'|10,6km|Männer 40-44|00:51:06||1969|DEU
+22|1|23|Wohlgemuth, Dietmar|Oberlausitzer SC Löbau|10,6km|Männer 55-59|00:51:11||1955|DEU
+23|4|147|Pißker, Dieter|Löbau|10,6km|Männer 50-54|00:51:17||1958|DEU
+24|5|102|Kleider, Bernd|TSV Dresden|10,6km|Männer 50-54|00:51:28||1957|DEU
+25|4|134|Schöne, Matthias|Telekinese Tulipan|10,6km|Männer 20-29|00:51:35||1981|DEU
+26|1|142|Weickert, Jens|Team Family Reichenbach O.L.|10,6km|Männer 30-34|00:51:38||1976|DEU
+27|5|108|Späthe, Wolfgang|Oberlausitzer SC Löbau|10,6km|Männer 45-49|00:52:00||1961|DEU
+28|4|145|Krankowsky, Sven|Schlammläufer Dresden|10,6km|Männer 40-44|00:52:55||1969|DEU
+29|5|44|Schädlich, Rainer|Bautzen|10,6km|Männer 40-44|00:53:02||1966|DEU
+30|6|27|Bethmann, Dirk|Oberlausitzer SC Löbau|10,6km|Männer 45-49|00:53:16||1964|DEU
+31|3|41|Rätze, Tobias|Running Team Süßmann|10,6km|m. Jugend A|00:53:24||1992|DEU
+32|6|156|Halla, René|Knappensee-Koblenz|10,6km|Männer 40-44|00:53:29||1970|DEU
+33|7|2|Wedlich, Stefan|OL-Team Wehrsdorf|10,6km|Männer 35-39|00:54:29||1971|DEU
+34|2|26|Tillig, Frank|LG Neiße|10,6km|Männer 55-59|00:54:42||1955|DEU
+35|6|49|Ernst, Ralf|LG Neiße|10,6km|Männer 50-54|00:54:54||1958|DEU
+36|5|35|Besold, Sandro|Wilthen|10,6km|Männer 20-29|00:55:29||1988|DEU
+37|7|65|Paul, Marcus|Triathlon Team Niederschlesien (Aufbau Kodersdorf)|10,6km|Männer 40-44|00:55:32||1969|DEU
+38|3|135|Heise, Reiner|Laufsportverein 1979 Görlitz|10,6km|Männer 55-59|00:55:35||1955|DEU
+39|8|139|Wolf, Michael|Helaswölfe Bautzen|10,6km|Männer 40-44|00:55:48||1970|DEU
+40|9|60|Richter, Maik|Turn- u. SV Großschönau|10,6km|Männer 40-44|00:55:59||1970|DEU
+41|6|74|Schöne, Thomas|Telekinese Tulipan|10,6km|Männer 20-29|00:56:07||1981|DEU
+42|2|4|Link, Stefan|Königswartha|10,6km|Männer 30-34|00:56:25||1977|DEU
+43|7|7|Päsler, Jörk|Die Zittauer flotten Karotten|10,6km|Männer 45-49|00:56:36||1962|DEU
+44|4|117|Muntschick, Matthias|Varia runners 06|10,6km|Männer 55-59|00:57:06||1955|DEU
+45|3|10|Voigt, Matthias|Oppach|10,6km|Männer 30-34|00:57:12||1978|DEU
+46|7|36|Mittag, Matthias|SC Kottmar|10,6km|Männer 20-29|00:57:29||1982|DEU
+47|10|31|Fischer-Jurke, Torsten|LG Neiße|10,6km|Männer 40-44|00:57:50||1967|DEU
+48|8|87|Katzer, Ronny|Stahl Rodewitz|10,6km|Männer 20-29|00:57:57||1985|DEU
+49|1|1|Fernbach, Jörg|Radclub 1898 Radeberg|10,6km|Männer 60 und älter|00:58:05||1950|DEU
+50|5|12|Arnold, Dieter|TV 1848 Bischofswerda|10,6km|Männer 55-59|00:58:39||1955|DEU
+51|9|91|Witt, Richard|Laktatmuffel|10,6km|Männer 20-29|00:58:41||1982|DEU
+52|8|34|Weniger, Olaf|Dürrhennersdorf|10,6km|Männer 45-49|00:58:48||1963|DEU
+
+53|11|90|Buskies, Sören|Bautzen|10,6km|Männer 40-44|00:59:01|1969|DEU
+54|2|96|Röhr, Egbert|LG Asics Pirna|10,6km|Männer 60 und älter|00:59:50|1949|DEU
+55|8|119|Schneider, Jan|Grubschütz|10,6km|Männer 35-39|01:00:01|1973|DEU
+56|6|111|Rumpf, Gerhard|Oberlausitzer SC Löbau|10,6km|Männer 55-59|01:00:16|1954|DEU
+57|7|150|Winkelmann, Uwe|Pratzschwitz|10,6km|Männer 50-54|01:00:35|1957|DEU
+58|9|157|Hoffmann, Karsten|SV Burkau|10,6km|Männer 45-49|01:01:19|1961|DEU
+59|7|32|Scheibe, Siegfried|VfB Hellerau-Klotzsche|10,6km|Männer 55-59|01:03:33|1955|DEU
+60|10|79|Hädicke, Rüdiger|Neukirch Lausitz|10,6km|Männer 45-49|01:03:44|1961|DEU
+61|8|8|Reinhold, Herbert|LG Neiße|10,6km|Männer 55-59|01:06:54|1954|DEU
+62|9|21|Lau, Christian|Pulsnitz|10,6km|Männer 55-59|01:07:42|1952|DEU
+63|4|67|Schöne, Christian|Telekinese Tulipan|10,6km|Männer 30-34|01:08:07|1979|DEU
+64|10|169|Urban, Marcel|Wilthen|10,6km|Männer 20-29|01:09:07|1986|DEU
+65|9|56|Mai, Olaf|Berglaufteam Sornßig|10,6km|Männer 35-39|01:09:24|1971|DEU
+66|12|114|Granich, Thomas|BLV 'Rot-Weiß 90'|10,6km|Männer 40-44|01:10:01|1968|DEU
+67|11|105|Herschel, Torsten|SV Göda 04|10,6km|Männer 45-49|01:12:59|1963|DEU
+68|8|59|Mocker, Frantisek|AC Ceska Lipa|10,6km|Männer 50-54|01:13:50|1958|CZE
+1|1|30|Kranich, Franziska|LG Neiße|10,6km|Frauen 20-29|00:51:55|1984|DEU
+2|2|57|Slansky, Christiane|Alpiner Skiverein Lausche|10,6km|Frauen 20-29|00:54:47|1987|DEU
+3|1|24|Wohlgemuth, Kerstin|Oberlausitzer SC Löbau|10,6km|Frauen 50-54|00:57:06|1956|DEU
+4|3|155|Bittner, Sophia|Skiclub Sohland|10,6km|Frauen 20-29|00:58:14|1990|DEU
+5|1|53|Mehnert, Katrin|BLV 'Rot-Weiß 90'|10,6km|Frauen 35-39|01:02:10|1973|DEU
+6|2|97|Müller, Marlies|LG Asics Pirna|10,6km|Frauen 50-54|01:03:09|1957|DEU
+7|1|33|Altmann, Martina|Dippoldiswalde|10,6km|Frauen 45-49|01:03:38|1961|DEU
+8|2|48|Unger, Ines|Pro Aktiv Fitnesstudio Löbau|10,6km|Frauen 35-39|01:04:00|1975|DEU
+9|1|138|Pötschke, Kristina|TV 1848 Bischofswerda|10,6km|Frauen 55 und älter|01:05:00|1951|DEU
+10|4|160|Löhnig, Stephanie|Zittau|10,6km|Frauen 20-29|01:06:40|1981|DEU
+11|3|129|Hohlfeld, Ramona|Großdubrau|10,6km|Frauen 35-39|01:07:55|1973|DEU
+12|2|109|Wadenbach, Ilona|Oberlausitzer SC Löbau|10,6km|Frauen 45-49|01:08:20|1961|DEU
+13|2|28|Pálfi, Edelgard|Citylauf-Verein Dresden|10,6km|Frauen 55 und älter|01:08:32|1952|DEU
+14|3|149|Dießner, Cornelia|Laufsportverein 1979 Görlitz|10,6km|Frauen 50-54|01:10:46|1959|DEU
+15|1|168|Büchner, Carola|SV Einheit Kamenz|10,6km|Frauen 40-44|01:11:01|1966|DEU
+16|1|104|Herschel, Juliana|Schwarz-Weiß Sohland|10,6km|w. Jugend A|01:13:00|1992|DEU
+17|5|29|Quietzsch, Melanie|Die Zittauer flotten Karotten|10,6km|Frauen 20-29|01:14:04|1982|DEU
+1|1|164|Vogt, Dominik|Ski & Bike Team Schirgiswalde|4,7km|m. Jugend A|00:22:07|1992|DEU
+2|1|127|Flammiger, Lutz|Ostsächsischer SV Zittau|4,7km|Männer 50-54|00:22:08|1958|DEU
+3|1|15|Bergmann, Dietmar|Radclub 1898 Radeberg|4,7km|Männer 65-69|00:23:48|1944|DEU
+4|1|71|Knorr, Joachim|SV Vorwärts Zwickau|4,7km|Männer 70-74|00:24:07|1940|DEU
+5|1|166|Lehmann, Frank|Inge Allstars|4,7km|Männer 20-29|00:24:09|1981|DEU
+6|1|77|Bartsch, Ronald|Pließkowitz|4,7km|Männer 45-49|00:24:18|1963|DEU
+7|1|72|Dörnchen, Samuel|Handball-Sport-Verein 1923 Pulsnitz|4,7km|m. Jugend B|00:24:21|1993|DEU
+8|2|126|Linke, Claus|Olbersdorf|4,7km|Männer 50-54|00:24:27|1959|DEU
+9|2|20|Grützmann, Robert|Lawalde|4,7km|Männer 20-29|00:24:40|1988|DEU
+10|2|13|Melzer, Rüdiger|Radclub 1898 Radeberg|4,7km|Männer 70-74|00:24:50|1940|DEU
+11|2|136|Ueberfuhr, Eric|Kamenz|4,7km|m. Jugend B|00:24:56|1993|DEU
+12|1|152|Strosny, Wolfgang|BLV 'Rot-Weiß 90'|4,7km|Männer 55-59|00:24:57|1951|DEU
+13|2|63|Stolze, Peter|Bautzen|4,7km|Männer 65-69|00:25:46|1943|DEU
+14|2|158|Böhmak, Andreas|Bautzen|4,7km|Männer 45-49|00:25:46|1964|DEU
+15|1|42|Krause, Hartmut|Görlitzer Turnverein 1847|4,7km|Männer 60-64|00:26:14|1946|DEU
+16|3|82|Haak, Uwe|Bautzen|4,7km|Männer 50-54|00:26:21|1959|DEU
+17|1|115|Schuster, Kai|Butter - 'Bergschnecken' Bischofswerda|4,7km|Männer 35-39|00:26:59|1971|DEU
+18|2|37|Kögler, Albrecht|RAG Sport & Wettkampf|4,7km|Männer 60-64|00:27:32|1950|DEU
+19|2|140|Falk, Nico|HSG Turbine Zittau|4,7km|m. Jugend A|00:27:35|1992|DEU
+20|3|167|Biedermann, Tom|Inge Allstars|4,7km|Männer 20-29|00:27:36|1986|DEU
+21|2|103|Kellermann, René|Oberkaina|4,7km|Männer 35-39|00:27:38|1974|DEU
+22|4|163|Seidel, René|Running Team Süßmann|4,7km|Männer 20-29|00:27:43|1981|DEU
+23|3|153|Koch, Hans-Peter|LG Neiße|4,7km|Männer 65-69|00:27:52|1944|DEU
+24|3|83|Zumpe, Thomas|TV 1848 Bischofswerda|4,7km|Männer 45-49|00:28:17|1962|DEU
+25|4|100|Burkert, Peter|Oberlausitzer SC Löbau|4,7km|Männer 65-69|00:28:34|1941|DEU
+26|3|123|Thamm, Jörg|Singwitz|4,7km|Männer 35-39|00:29:03|1971|DEU
+27|1|131|Jäckel, Sven|Pulsnitz|4,7km|Männer 40-44|00:29:04|1967|DEU
+28|1|19|Zosel, Armin|TSV 1862 Radeburg|4,7km|Männer 75-79|00:29:08|1934|DEU
+29|3|55|Wolfgramm, Gunther|Radeberg|4,7km|Männer 70-74|00:29:22|1940|DEU
+30|5|40|Walter, Karl-Heinz|LG Neiße|4,7km|Männer 65-69|00:29:34|1943|DEU
+31|1|38|Leinweber, Volker|Löbau|4,7km|Männer 30-34|00:29:41|1977|DEU
+32|4|43|Wähner, Frank|SG Wiesa|4,7km|Männer 50-54|00:29:46|1957|DEU
+33|4|124|Worm, Wolfram|Doberschau|4,7km|Männer 35-39|00:30:08|1971|DEU
+34|2|45|Casper, Wolfgang|Semmichau|4,7km|Männer 55-59|00:30:42|1953|DEU
+35|5|11|Krahl, Udo|Oppach|4,7km|Männer 35-39|00:30:51|1975|DEU
+36|6|86|Rasch, Dieter|Bautzen|4,7km|Männer 65-69|00:30:54|1942|DEU
+37|5|154|Thierbach, Jürgen|Görlitz|4,7km|Männer 50-54|00:30:59|1957|DEU
+38|4|9|Zosel, Hans|Oberlausitzer SC Löbau|4,7km|Männer 70-74|00:34:09|1939|DEU
+39|7|107|Schindler, Hartmut|Oberlausitzer SC Löbau|4,7km|Männer 65-69|00:34:30|1945|DEU
+40|8|3|Wedlich, Rudolf|Oppach|4,7km|Männer 65-69|00:35:26|1944|DEU
+41|3|93|Augustin, Erhard|Großschweidnitz|4,7km|Männer 55-59|00:37:02|1954|DEU
+42|2|122|Nuck, Georg|Sokol Budysin|4,7km|Männer 75-79|00:37:52|1934|DEU
+43|6|112|Buchs, Eberhard|Dresden|4,7km|Männer 50-54|00:38:20|1958|DEU
+44|5|144|Wolf, Siegfried|MSV Blau-Weiß Kreckwitz|4,7km|Männer 70-74|00:40:23|1939|DEU
+1|1|130|Paschke, Manuela|SG Crostwitz  1981|4,7km|Frauen 20-29|00:27:06|1984|DEU
+2|1|121|Eisold, Andrea|Handball-Sport-Verein 1923 Pulsnitz|4,7km|Frauen 35-39|00:27:22|1972|DEU
+3|2|116|Schuster, Kathleen|Butter - 'Bergschnecken' Bischofswerda|4,7km|Frauen 35-39|00:27:43|1975|DEU
+4|2|51|Söffel, Constanze|PSV Zittau|4,7km|Frauen 20-29|00:28:22|1983|DEU
+5|1|106|Kretschmer, Sabine|LG Neiße|4,7km|Frauen 45-49|00:29:16|1964|DEU
+6|1|141|Liehr, Henriette|Radsportverein Bautzen|4,7km|Frauen 30-34|00:30:19|1979|DEU
+7|1|81|Haak, Ramona|Bautzen|4,7km|Frauen 50-54|00:30:37|1960|DEU
+8|1|133|Vater, Barbara|Dresden|4,7km|Frauen 40-44|00:30:40|1966|DEU
+9|2|47|Vogt, Anja|OL-Biathlon-Verein Ringenhain|4,7km|Frauen 40-44|00:30:54|1969|DEU
+10|3|137|Ueberfuhr, Silvia|Kamenz|4,7km|Frauen 40-44|00:31:09|1970|DEU
+11|3|89|Musch, Alexandra|Pulsnitz|4,7km|Frauen 35-39|00:31:30|1971|DEU
+12|3|159|Marx, Sandra|HSG Turbine Zittau|4,7km|Frauen 20-29|00:31:37|1988|DEU
+13|2|128|Flammiger, Steffi|Zittau|4,7km|Frauen 45-49|00:31:45|1962|DEU
+14|1|39|Walter, Gisela|LG Neiße|4,7km|Frauen 60-64|00:31:52|1946|DEU
+15|4|16|Langanki, Annett|TSG Bretnig-Hauswalde|4,7km|Frauen 40-44|00:32:49|1966|DEU
+16|3|118|Paul, Elke|Butter - 'Bergschnecken' Bischofswerda|4,7km|Frauen 45-49|00:33:59|1964|DEU
+17|1|50|Harz, Birgit|FUSSFLOTT DRESDEN|4,7km|Frauen 65-69|00:35:07|1944|DEU
+18|2|84|Fiebag, Irene|Biketeam Oberlausitz|4,7km|Frauen 60-64|00:35:27|1946|DEU
+19|4|148|Persicke, Birgit|Großschönau|4,7km|Frauen 45-49|00:37:37|1962|DEU
+20|2|113|Buchs, Christine|Dresden|4,7km|Frauen 50-54|00:37:58|1959|DEU
+21|2|85|Rasch, Gerlinde|Bautzen|4,7km|Frauen 65-69|00:39:06|1944|DEU
+22|3|165|Helm, Hella|Königswarthaer SV 1990|4,7km|Frauen 60-64|00:44:07|1946|DEU
+0|0|146|Stelzner, Berthold|NW Waltersdorf|4,7km Walking|Männer|00:35:02|1935|DEU
+
+1|1|2024|Thiele, Severin|SC Rugiswalde|700 m|Schüler D (9 Jahre)|00:02|0|2001|GER
+2|2|2007|Andersch, Franz|HSG Turbine Zittau|700 m|Schüler D (9 Jahre)|00:02|0|2001|GER
+3|1|2015|Schwär, Paul|Oberlausitzer SC Löbau|700 m|Schüler D (8 Jahre)|00:02|0|2002|GER
+4|3|2016|Kubsch, Jonas|Oberlausitzer SC Löbau|700 m|Schüler D (9 Jahre)|00:02|0|2001|GER
+5|4|2020|Rieger, Louis|Grundschule Beiersdorf|700 m|Schüler D (9 Jahre)|00:02|0|2001|GER
+6|5|2008|Humbsch, Richard|Grundschule Friedersdorf|700 m|Schüler D (9 Jahre)|00:02|0|2001|GER
+7|2|2013|Engemann, Franz|Oberlausitzer SC Löbau|700 m|Schüler D (8 Jahre)|00:02|0|2002|GER
+8|3|2014|Henke, Tim|Oberlausitzer SC Löbau|700 m|Schüler D (8 Jahre)|00:02|0|2002|GER
+9|4|2004|Mehnert, Raphael|BLV 'Rot-Weiß 90'|700 m|Schüler D (8 Jahre)|00:02|0|2002|GER
+10|5|2012|Berisa, Suad|Oberlausitzer SC Löbau|700 m|Schüler D (8 Jahre)|00:02|0|2002|GER
+11|6|2010|Schnabel, Richard|Grundschule Friedersdorf|700 m|Schüler D (8 Jahre)|00:02|0|2002|GER
+12|6|2018|Naas, Florian|Oberlausitzer SC Löbau|700 m|Schüler D (9 Jahre)|00:02|0|2001|GER
+13|7|2009|Lumpe, Max|Grundschule Friedersdorf|700 m|Schüler D (8 Jahre)|00:02|0|2002|GER
+14|7|2019|Schramm, Nils|Grundschule Beiersdorf|700 m|Schüler D (9 Jahre)|00:02|0|2001|GER
+15|8|2006|Köhler, Lucas|OL-Biathlon-Verein Ringenhain|700 m|Schüler D (9 Jahre)|00:02|0|2001|GER
+16|1|2025|Muschinski, Lennard|Doberschau|700 m|Jungen bis 7 Jahre|00:02|0|2003|GER
+17|9|2017|Mirtschin, Philipp|Oberlausitzer SC Löbau|700 m|Schüler D (9 Jahre)|00:02|0|2001|GER
+18|8|2011|Wagner, Maximilian|Grundschule Friedersdorf|700 m|Schüler D (8 Jahre)|00:02|0|2002|GER
+19|2|2003|Vogt, Wilhelm|OL-Biathlon-Verein Ringenhain|700 m|Jungen bis 7 Jahre|00:02|0|2004|GER
+20|3|2001|Poike, Cedric|OL-Biathlon-Verein Ringenhain|700 m|Jungen bis 7 Jahre|00:02|0|2004|GER
+21|4|2021|Siebeneicher, Tim|Grundschule Friedersdorf|700 m|Jungen bis 7 Jahre|00:02|0|2003|GER
+22|5|2002|Arnhold, Heiko|PSC Bautzen|700 m|Jungen bis 7 Jahre|00:02|0|2005|GER
+1|1|1026|Eisold, Sina|HSV 1923 Pulsnitz|700 m|Schülerin D (9 Jahre)|00:01|0|2001|GER
+2|2|1007|Musch, Katharina|HSV 1923 Pulsnitz|700 m|Schülerin D (9 Jahre)|00:01|0|2001|GER
+3|1|1006|Falk, Naike|HSG Turbine Zittau|700 m|Schülerinnen D (8 Jahre)|00:01|0|2002|GER
+4|3|1019|Frömmel, Tinka|Oberlausitzer SC Löbau|700 m|Schülerin D (9 Jahre)|00:01|0|2001|GER
+5|4|1018|Berndt, Karolin|Oberlausitzer SC Löbau|700 m|Schülerin D (9 Jahre)|00:01|0|2001|GER
+6|5|1005|Clausnitzer, Katharina|HSG Turbine Zittau|700 m|Schülerin D (9 Jahre)|00:01|0|2001|GER
+7|6|1028|Jenak, Deborah|TV 1848 Bischofswerda|700 m|Schülerin D (9 Jahre)|00:01|0|2001|GER
+8|2|1011|Bethmann, Nelly|Oberlausitzer SC Löbau|700 m|Schülerinnen D (8 Jahre)|00:01|0|2002|GER
+9|7|1025|Rieger, Leonie|Grundschule Beiersdorf|700 m|Schülerin D (9 Jahre)|00:01|0|2001|GER
+10|1|1012|Clemens, Natalie|Oberlausitzer SC Löbau|700 m|Mädchen bis 7 Jahre|00:01|0|2003|GER
+11|3|1014|Reck, Diana|Oberlausitzer SC Löbau|700 m|Schülerinnen D (8 Jahre)|00:01|0|2002|GER
+12|2|1027|Mirtschink, Larissa|SV 1922 Radibor|700 m|Mädchen bis 7 Jahre|00:01|0|2003|GER
+13|8|1004|Palme, Lisa-Marie|OL-Biathlon-Verein Ringenhain|700 m|Schülerin D (9 Jahre)|00:01|0|2001|GER
+14|4|1008|Kühne, Merle|HSV 1923 Pulsnitz|700 m|Schülerinnen D (8 Jahre)|00:01|0|2002|GER
+15|9|1003|Mehnert, Anabelle|BLV 'Rot-Weiß 90'|700 m|Schülerin D (9 Jahre)|00:01|0|2001|GER
+16|5|1013|Müller, Anne|Oberlausitzer SC Löbau|700 m|Schülerinnen D (8 Jahre)|00:01|0|2002|GER
+17|3|1024|Kruppas, Emma|SV Koweg Görlitz|700 m|Mädchen bis 7 Jahre|00:01|0|2003|GER
+18|4|1010|Geib, Jasmin|Grundschule Friedersdorf|700 m|Mädchen bis 7 Jahre|00:01|0|2003|GER
+19|5|1029|Haufe, Magdalena|HSV 1923 Pulsnitz|700 m|Mädchen bis 7 Jahre|00:01|0|2004|GER
+20|10|1002|Arnhold, Steffi|PSC Bautzen|700 m|Schülerin D (9 Jahre)|00:01|0|2001|GER
+21|11|1030|Muschinski, Isabell|Doberschau|700 m|Schülerin D (9 Jahre)|00:01|0|2001|GER
+22|6|1020|Leubner, Anna|Oberlausitzer SC Löbau|700 m|Mädchen bis 7 Jahre|00:01|0|2003|GER
+23|7|1017|Töteberg, Athina|Oberlausitzer SC Löbau|700 m|Mädchen bis 7 Jahre|00:01|0|2004|GER
+24|8|1015|Schramm, Celina|Oberlausitzer SC Löbau|700 m|Mädchen bis 7 Jahre|00:01|0|2003|GER
+25|6|1009|Engler, Sarah|Grundschule Friedersdorf|700 m|Schülerinnen D (8 Jahre)|00:01|0|2002|GER
+26|9|1016|Schramm, Caroline|Oberlausitzer SC Löbau|700 m|Mädchen bis 7 Jahre|00:01|0|2003|GER
+27|10|1021|Pospischil, Lenie|Oberlausitzer SC Löbau|700 m|Mädchen bis 7 Jahre|00:01|0|2005|GER
+28|11|1022|Rudolph, Lilly|Oberlausitzer SC Löbau|700 m|Mädchen bis 7 Jahre|00:01|0|2004|GER
+1|1|101|Flegel, Christian|TSV Dresden|LM 10,6km|Männer 20-29|00:42:28||1987|DEU
+2|2|46|Giese, Marcus|Triathlon Verein Valtenberg|LM 10,6km|Männer 20-29|00:43:23||1986|DEU
+3|1|70|Barthel, Remo|SV Vorwärts Zwickau|LM 10,6km|Männer 35-39|00:43:49||1975|DEU
+4|1|78|Grozny, Stefan|SC DHfK Leipzig|LM 10,6km|Männer 40-44|00:44:09||1966|DEU
+5|1|14|Melzer, Jonas|Radclub 1898 Radeberg|LM 10,6km|m. Jugend A|00:45:33||1992|DEU
+6|1|98|Müller, Dietmar|LG Asics Pirna|LM 10,6km|Männer 50-54|00:45:49||1956|DEU
+7|1|99|Hänsch, Uwe|Oberlausitzer SC Löbau|LM 10,6km|Männer 45-49|00:45:55||1965|DEU
+8|2|170|Krostack, Bernd|PSV Zittau|LM 10,6km|Männer 45-49|00:45:59||1964|DEU
+9|2|120|Eisold, Jens|Handball-Sport-Verein 1923 Pulsnitz|LM 10,6km|Männer 35-39|00:46:38||1971|DEU
+10|3|69|Brusdeilins, Sven|SV Vorwärts Zwickau|LM 10,6km|Männer 35-39|00:47:05||1973|DEU
+11|4|64|Hirschmann, Ronny|Triathlon Team Niederschlesien (Aufbau Kodersdorf)|LM 10,6km|Männer 35-39|00:50:04||1975|DEU
+12|3|151|Süße, Florian|Triathlon Team Niederschlesien (Aufbau Kodersdorf)|LM 10,6km|Männer 20-29|00:50:05||1987|DEU
+13|2|80|Wilde, Andreas|Triathlon Verein Valtenberg|LM 10,6km|Männer 50-54|00:50:11||1958|DEU
+14|2|61|Rösler, Konrad|Turn- u. SV Großschönau|LM 10,6km|m. Jugend A|00:50:22||1991|DEU
+15|3|68|Kießlich, Mario|Triathlon Team Niederschlesien (Aufbau Kodersdorf)|LM 10,6km|Männer 50-54|00:50:57||1960|DEU
+16|5|66|Schmidt, Steffen|Europamarathon Görlitz - Zgorzelec|LM 10,6km|Männer 35-39|00:50:57||1972|DEU
+17|2|54|Mehnert, Christoph|BLV 'Rot-Weiß 90'|LM 10,6km|Männer 40-44|00:51:03||1969|DEU
+18|3|161|Schade, Silvio|BLV 'Rot-Weiß 90'|LM 10,6km|Männer 40-44|00:51:06||1969|DEU
+19|1|23|Wohlgemuth, Dietmar|Oberlausitzer SC Löbau|LM 10,6km|Männer 55-59|00:51:11||1955|DEU
+20|4|102|Kleider, Bernd|TSV Dresden|LM 10,6km|Männer 50-54|00:51:28||1957|DEU
+21|3|108|Späthe, Wolfgang|Oberlausitzer SC Löbau|LM 10,6km|Männer 45-49|00:52:00||1961|DEU
+22|4|27|Bethmann, Dirk|Oberlausitzer SC Löbau|LM 10,6km|Männer 45-49|00:53:16||1964|DEU
+23|6|2|Wedlich, Stefan|OL-Team Wehrsdorf|LM 10,6km|Männer 35-39|00:54:29||1971|DEU
+24|2|26|Tillig, Frank|LG Neiße|LM 10,6km|Männer 55-59|00:54:42||1955|DEU
+25|5|49|Ernst, Ralf|LG Neiße|LM 10,6km|Männer 50-54|00:54:54||1958|DEU
+26|4|65|Paul, Marcus|Triathlon Team Niederschlesien (Aufbau Kodersdorf)|LM 10,6km|Männer 40-44|00:55:32||1969|DEU
+27|3|135|Heise, Reiner|Laufsportverein 1979 Görlitz|LM 10,6km|Männer 55-59|00:55:35||1955|DEU
+28|5|60|Richter, Maik|Turn- u. SV Großschönau|LM 10,6km|Männer 40-44|00:55:59||1970|DEU
+29|4|36|Mittag, Matthias|SC Kottmar|LM 10,6km|Männer 20-29|00:57:29||1982|DEU
+30|6|31|Fischer-Jurke, Torsten|LG Neiße|LM 10,6km|Männer 40-44|00:57:50||1967|DEU
+31|1|1|Fernbach, Jörg|Radclub 1898 Radeberg|LM 10,6km|Männer 60 und älter|00:58:05||1950|DEU
+32|4|12|Arnold, Dieter|TV 1848 Bischofswerda|LM 10,6km|Männer 55-59|00:58:39||1955|DEU
+33|2|96|Röhr, Egbert|LG Asics Pirna|LM 10,6km|Männer 60 und älter|00:59:50||1949|DEU
+34|5|111|Rumpf, Gerhard|Oberlausitzer SC Löbau|LM 10,6km|Männer 55-59|01:00:16||1954|DEU
+35|5|157|Hoffmann, Karsten|SV Burkau|LM 10,6km|Männer 45-49|01:01:19||1961|DEU
+36|6|32|Scheibe, Siegfried|VfB Hellerau-Klotzsche|LM 10,6km|Männer 55-59|01:03:33||1955|DEU
+37|7|8|Reinhold, Herbert|LG Neiße|LM 10,6km|Männer 55-59|01:06:54||1954|DEU
+38|7|114|Granich, Thomas|BLV 'Rot-Weiß 90'|LM 10,6km|Männer 40-44|01:10:01||1968|DEU
+39|6|105|Herschel, Torsten|SV Göda 04|LM 10,6km|Männer 45-49|01:12:59||1963|DEU
+1|1|30|Kranich, Franziska|LG Neiße|LM 10,6km|Frauen 20-29|00:51:55||1984|DEU
+2|2|57|Slansky, Christiane|Alpiner Skiverein Lausche|LM 10,6km|Frauen 20-29|00:54:47||1987|DEU
+3|1|24|Wohlgemuth, Kerstin|Oberlausitzer SC Löbau|LM 10,6km|Frauen 50-54|00:57:06||1956|DEU
+4|3|155|Bittner, Sophia|Skiclub Sohland|LM 10,6km|Frauen 20-29|00:58:14||1990|DEU
+5|1|53|Mehnert, Katrin|BLV 'Rot-Weiß 90'|LM 10,6km|Frauen 35-39|01:02:10||1973|DEU
+6|2|97|Müller, Marlies|LG Asics Pirna|LM 10,6km|Frauen 50-54|01:03:09||1957|DEU
+7|1|138|Pötschke, Kristina|TV 1848 Bischofswerda|LM 10,6km|Frauen 55 und älter|01:05:00||1951|DEU
+8|1|109|Wadenbach, Ilona|Oberlausitzer SC Löbau|LM 10,6km|Frauen 45-49|01:08:20||1961|DEU
+9|2|28|Pálfi, Edelgard|Citylauf-Verein Dresden|LM 10,6km|Frauen 55 und älter|01:08:32||1952|DEU
+10|3|149|Dießner, Cornelia|Laufsportverein 1979 Görlitz|LM 10,6km|Frauen 50-54|01:10:46||1959|DEU
+11|1|168|Büchner, Carola|SV Einheit Kamenz|LM 10,6km|Frauen 40-44|01:11:01||1966|DEU
+
+12|1|104|Herschel, Juliana|Schwarz-Weiß Sohland|LM 10,6km|w. Jugend A|01:13:00|1992|DEU
+1|1|15|Bergmann, Dietmar|Radclub 1898 Radeberg|LM 4,7km|Männer 65-69|00:23:48|1944|DEU
+2|1|71|Knorr, Joachim|SV Vorwärts Zwickau|LM 4,7km|Männer 70-74|00:24:07|1940|DEU
+3|1|72|Dörnchen, Samuel|Handball-Sport-Verein 1923 Pulsnitz|LM 4,7km|m. Jugend B|00:24:21|1993|DEU
+4|2|13|Melzer, Rüdiger|Radclub 1898 Radeberg|LM 4,7km|Männer 70-74|00:24:50|1940|DEU
+5|2|153|Koch, Hans-Peter|LG Neiße|LM 4,7km|Männer 65-69|00:27:52|1944|DEU
+6|3|100|Burkert, Peter|Oberlausitzer SC Löbau|LM 4,7km|Männer 65-69|00:28:34|1941|DEU
+7|1|19|Zosel, Armin|TSV 1862 Radeburg|LM 4,7km|Männer 75-79|00:29:08|1934|DEU
+8|4|40|Walter, Karl-Heinz|LG Neiße|LM 4,7km|Männer 65-69|00:29:34|1943|DEU
+9|3|9|Zosel, Hans|Oberlausitzer SC Löbau|LM 4,7km|Männer 70-74|00:34:09|1939|DEU
+10|5|107|Schindler, Hartmut|Oberlausitzer SC Löbau|LM 4,7km|Männer 65-69|00:34:30|1945|DEU
+11|2|122|Nuck, Georg|Sokol Budysin|LM 4,7km|Männer 75-79|00:37:52|1934|DEU
+12|4|144|Wolf, Siegfried|MSV Blau-Weiß Kreckwitz|LM 4,7km|Männer 70-74|00:40:23|1939|DEU
+1|1|39|Walter, Gisela|LG Neiße|LM 4,7km|Frauen 60-64|00:31:52|1946|DEU
+2|2|84|Fiebag, Irene|Biketeam Oberlausitz|LM 4,7km|Frauen 60-64|00:35:27|1946|DEU
+3|3|165|Helm, Hella|Königswarthaer SV 1990|LM 4,7km|Frauen 60-64|00:44:07|1946|DEU

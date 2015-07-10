@@ -1,0 +1,216 @@
+To.|Ak.|Stnr.|Name, Vorname|Verein|Strecke|AK|Bruttozeit||Nat
+
+1|1|139|Zaidi, Ismail|Sportwissenschaftliche Fakultät|FITNESS-Run|Student|0:33:35|1900|MAR|
+2|2|194|Melcher, Peter|Medizinische Fakultät|FITNESS-Run|Student|0:33:49|1989|DEU|
+3|3|214|Aurin, Jakob|Sportwissenschaftliche Fakultät|FITNESS-Run|Student|0:34:30|1988|DEU|
+4|4|188|Winkert, Kay|Sportwissenschaftliche Fakultät|FITNESS-Run|Student|0:35:14|1988|DEU|
+5|5|452|Hänel, Lars|Sonstige|FITNESS-Run|Student|0:35:47|1985|DEU|
+6|6|204|Sturm, Michael|Fakultät für Chemie und Mineralogie|FITNESS-Run|Student|0:36:26|1992|DEU|
+7|7|67|Reinhardt, Marcel|Sportwissenschaftliche Fakultät|FITNESS-Run|Mitarbeiter|0:36:34|1979|DEU|
+8|8|73|Winkler, Jakob|Sportwissenschaftliche Fakultät|FITNESS-Run|Student|0:37:02|1990|DEU|
+9|9|172|Walter, Nico|Sportwissenschaftliche Fakultät|FITNESS-Run|Student|0:37:06|1990|DEU|
+10|10|475|Weisbrich, Martin|Sonstige|FITNESS-Run|Student|0:37:11|1987|DEU|
+11|11|208|Clauder, Felix|Sportwissenschaftliche Fakultät|FITNESS-Run|Student|0:37:23|1988|DEU|
+12|12|111|Rossbach, Cornelius|Medizinische Fakultät|FITNESS-Run|Student|0:37:56|1990|DEU|
+13|13|145|Voigt, Christopher|Sportwissenschaftliche Fakultät|FITNESS-Run|Student|0:38:07|1987|DEU|
+14|14|181|Pfüller, Marc|Juristenfakultät|FITNESS-Run|Student|0:38:24|1988|DEU|
+15|15|477|Nolte, Moritz|Juristenfakultät|FITNESS-Run|Student|0:38:27|1992|DEU|
+16|16|200|Hänel, Erik|Medizinische Fakultät|FITNESS-Run|Student|0:38:53|1984|DEU|
+17|17|450|Kemnitzer, Jan|Sonstige|FITNESS-Run|Student|0:39:14|1990|DEU|
+18|18|97|Ahnfeld, Thomas|Philologische Fakultät|FITNESS-Run|Student|0:39:28|1987|DEU|
+19|19|59|Arnold, Klaus|Zentrale Einrichtungen|FITNESS-Run|Mitarbeiter|0:39:47|1967|DEU|
+20|20|198|Schimpf, Richard|Medizinische Fakultät|FITNESS-Run|Student|0:40:32|1990|DEU|
+21|21|141|Maghzaoui, Wajda|Sportwissenschaftliche Fakultät|FITNESS-Run|Student|0:40:34|1900|TUN|
+22|22|8|Dahms, Christian|Sportwissenschaftliche Fakultät|FITNESS-Run|Alumni/Gast|0:41:11|1974|DEU|
+23|23|203|Grawe, Robert|Sonstige|FITNESS-Run|Alumni/Gast|0:41:19|1987|DEU|
+24|24|484|Donner, Clemens|Sonstige|FITNESS-Run|Alumni/Gast|0:41:43|1996|DEU|
+25|25|34|Lindow, Gordon|Wirtschaftswissenschaftliche Fakultät|FITNESS-Run|Student|0:41:46|1990|DEU|
+26|26|26|Pawlizak, Steve|Fakultät für Physik und Geowissenschaften|FITNESS-Run|Mitarbeiter|0:41:58|1984|DEU|
+27|27|456|Fester, Mark||FITNESS-Run|Alumni/Gast|0:42:22|1992|DEU|
+28|28|95|Erdmann, Tim|Erziehungswissenschaftliche Fakultät|FITNESS-Run|Mitarbeiter|0:42:36|1985|DEU|
+29|29|61|Schmidt, Florian|Fakultät für Physik und Geowissenschaften|FITNESS-Run|Mitarbeiter|0:42:50|1982|DEU|
+30|30|104|Philipp, Markus|Juristenfakultät|FITNESS-Run|Mitarbeiter|0:42:51|1986|DEU|
+31|31|68|San Pedro Herrera, Daniel|Philologische Fakultät|FITNESS-Run|Student|0:42:51|1990|ESP|
+32|32|482|Dreßler, Christian|Fakultät für Chemie und Mineralogie|FITNESS-Run|Student|0:43:09|1989|DEU|
+33|33|57|Schwindack, Moritz|Fakultät für Geschichte, Kunst- und Orientwissenschaften|FITNESS-Run|Student|0:43:26|1989|DEU|
+34|34|163|Merten, Tom|Veterinärmedizinische Fakultät|FITNESS-Run|Student|0:43:29|1993|DEU|
+35|35|100|Wirp, Andreas|Fakultät für Geschichte, Kunst- und Orientwissenschaften|FITNESS-Run|Student|0:43:31|1986|DEU|
+36|36|54|Wilcock, Neil|Fakultät für Sozialwissenschaften und Philosophie|FITNESS-Run|Mitarbeiter|0:43:35|1987|GBR|
+37|37|197|Kuta, Martin|Sonstige|FITNESS-Run|Student|0:43:40|1988|DEU|
+38|38|90|Dähne, Marius|Fakultät für Sozialwissenschaften und Philosophie|FITNESS-Run|Student|0:43:52|1991|DEU|
+39|39|196|Voigtländer, Hannes|Sonstige|FITNESS-Run|Alumni/Gast|0:44:02|1988|DEU|
+40|40|106|Clasen, Daniel|Medizinische Fakultät|FITNESS-Run|Student|0:44:18|1990|DEU|
+41|41|44|Konkel, Martin|Sportwissenschaftliche Fakultät|FITNESS-Run|Student|0:44:32|1989|DEU|
+42|42|481|Fudel, Ronny|Sportwissenschaftliche Fakultät|FITNESS-Run|Student|0:44:40|1988|DEU|
+43|43|96|Kuchenbecker, Till|Sportwissenschaftliche Fakultät|FITNESS-Run|Student|0:44:44|1992|DEU|
+44|44|186|Hiller, Markus|Fakultät für Chemie und Mineralogie|FITNESS-Run|Student|0:44:54|1989|DEU|
+45|45|92|Süssmuth, Bernd|Wirtschaftswissenschaftliche Fakultät|FITNESS-Run|Mitarbeiter|0:45:12|1972|DEU|
+46|46|86|Kranert, Christian|Fakultät für Physik und Geowissenschaften|FITNESS-Run|Student|0:45:16|1984|DEU|
+47|47|91|Zwior, Tobias|Fakultät für Sozialwissenschaften und Philosophie|FITNESS-Run|Student|0:45:25|1988|DEU|
+48|48|87|Krech, Matthias|Juristenfakultät|FITNESS-Run|Student|0:46:02|1989|DEU|
+49|49|473|Molemans, Matthias|Sportwissenschaftliche Fakultät|FITNESS-Run|Student|0:46:16|1989|DEU|
+50|50|216|Grahn, Florian|Sportwissenschaftliche Fakultät|FITNESS-Run|Student|0:46:26|1990|DEU|
+51|51|483|Dehne, Christoph|Fakultät für Mathematik und Informatik|FITNESS-Run|Alumni/Gast|0:46:33|1974|DEU|
+52|52|142|Krumel, Vinícius Franke|Sportwissenschaftliche Fakultät|FITNESS-Run|Student|0:46:33|1900|BRA|
+53|53|94|Brock, Michael|Erziehungswissenschaftliche Fakultät|FITNESS-Run|Mitarbeiter|0:46:39|1981|DEU|
+54|54|93|Rahtjen, Sebastian|Erziehungswissenschaftliche Fakultät|FITNESS-Run|Mitarbeiter|0:46:50|1981|DEU|
+55|55|39|Portela, José|Sportwissenschaftliche Fakultät|FITNESS-Run|Student|0:46:52|1985|DEU|
+56|56|478|Mühlbauer, Michael|Sonstige|FITNESS-Run|Alumni/Gast|0:47:03|1963|DEU|
+57|57|2|Quilisch, Manuel|Sonstige|FITNESS-Run|Student|0:47:36|1988|DEU|
+58|58|12|Biedermann, Alexander|Sonstige|FITNESS-Run|Mitarbeiter|0:48:01|1987|DEU|
+59|59|74|Adam, Sandy|Sportwissenschaftliche Fakultät|FITNESS-Run|Mitarbeiter|0:48:05|1978|DEU|
+60|60|55|Hölzen, Peter|Veterinärmedizinische Fakultät|FITNESS-Run|Student|0:48:13|1987|DEU|
+61|61|147|Nattke, Rio|Sonstige|FITNESS-Run|Alumni/Gast|0:48:22|1990|DEU|
+62|62|40|Hovemann, Gregor|Sportwissenschaftliche Fakultät|FITNESS-Run|Mitarbeiter|0:48:36|1971|DEU|
+63|63|75|Baßler, Enrico|Veterinärmedizinische Fakultät|FITNESS-Run|Student|0:49:49|1988|DEU|
+64|64|58|Pohlenz, Nico|Wirtschaftswissenschaftliche Fakultät|FITNESS-Run|Student|0:49:55|1987|DEU|
+65|65|191|Drescher, Andreas|Medizinische Fakultät|FITNESS-Run|Alumni/Gast|0:50:27|1978|DEU|
+66|66|53|Lindenhahn, Jakob|Veterinärmedizinische Fakultät|FITNESS-Run|Student|0:50:51|1987|DEU|
+67|67|24|Götze, André|Fakultät für Chemie und Mineralogie|FITNESS-Run|Student|0:51:26|1989|DEU|
+68|68|50|Werner, Christopher|Sportwissenschaftliche Fakultät|FITNESS-Run|Student|0:51:37|1991|DEU|
+69|69|66|Michaelis, Daniel|Erziehungswissenschaftliche Fakultät|FITNESS-Run|Mitarbeiter|0:52:01|1991|DEU|
+70|70|4|Fuhrmann, Matthias|Sonstige|FITNESS-Run|Student|0:52:18|1987|DEU|
+71|71|76|Reichmuth, Konrad|Medizinische Fakultät|FITNESS-Run|Student|0:54:20|1990|DEU|
+72|72|479|Schiele, Dr. Konrad|Fakultät für Physik und Geowissenschaften|FITNESS-Run|Mitarbeiter|0:54:25|1954|DEU|
+73|73|187|Schleife, Frederik|Fakultät für Chemie und Mineralogie|FITNESS-Run|Mitarbeiter|0:54:53|1985|DEU|
+74|74|173|Haetge, Thomas P.|Sonstige|FITNESS-Run|Alumni/Gast|0:57:20|1968|DEU|
+75|75|480|Werwein, Anton|Fakultät für Chemie und Mineralogie|FITNESS-Run|Student|0:58:09|1990|DEU|
+1|1|11|Schneider, Franziska|Juristenfakultät|FITNESS-Run|Student|0:42:08|1986|DEU|
+2|2|14|Wulff, Juliane|Sonstige|FITNESS-Run|Mitarbeiter|0:43:13|1980|DEU|
+3|3|45|Blümich, Sandra|Veterinärmedizinische Fakultät|FITNESS-Run|Student|0:43:25|1992|DEU|
+4|4|48|Winkler, Charlotte|Veterinärmedizinische Fakultät|FITNESS-Run|Student|0:44:06|1992|DEU|
+5|5|31|Kohn, Caroline|Fakultät für Biowissenschaften, Pharmazie und Psychologie|FITNESS-Run|Mitarbeiter|0:44:25|1988|DEU|
+6|6|476|Behning, Anna|Sonstige|FITNESS-Run|Student|0:44:32|1985|DEU|
+7|7|195|Brückmann, Jana|Sportwissenschaftliche Fakultät|FITNESS-Run|Student|0:45:03|1991|DEU|
+8|8|453|Weise, Maria|Sportwissenschaftliche Fakultät|FITNESS-Run|Student|0:45:05|1987|DEU|
+9|9|62|Bayer, Magdalena|Veterinärmedizinische Fakultät|FITNESS-Run|Student|0:45:44|1992|DEU|
+10|10|36|Hummel, Elke|Sportwissenschaftliche Fakultät|FITNESS-Run|Student|0:47:53|1986|DEU|
+11|11|80|Jonaityte, Gertruda|Medizinische Fakultät|FITNESS-Run|Student|0:48:56|1989|LTU|
+12|12|77|Huster, Susann|Zentrale Einrichtungen|FITNESS-Run|Mitarbeiter|0:49:26|1967|DEU|
+13|13|64|Hofer, Julia|Philologische Fakultät|FITNESS-Run|Student|0:49:49|1988|ITA|
+14|14|205|Neukirchner, Susann|Sportwissenschaftliche Fakultät|FITNESS-Run|Student|0:50:43|1990|DEU|
+15|15|474|Böhlmann, Nadja|Sonstige|FITNESS-Run||0:50:53|1986|DEU|
+16|16|78|Schroth, Amelie|Sportwissenschaftliche Fakultät|FITNESS-Run|Student|0:50:54|1990|DEU|
+17|17|6|Richter, Elisa|Sportwissenschaftliche Fakultät|FITNESS-Run|Student|0:51:11|1993|DEU|
+18|18|28|Nissen, Sylke|Fakultät für Sozialwissenschaften und Philosophie|FITNESS-Run|Mitarbeiter|0:52:23|1959|DEU|
+19|19|217|Babst, Adeline|Sportwissenschaftliche Fakultät|FITNESS-Run|Student|0:52:38|1992|DEU|
+20|20|32|Chludzinski, Elisa|Veterinärmedizinische Fakultät|FITNESS-Run|Student|0:52:45|1993|DEU|
+21|21|98|Gläser, Luisa|Sportwissenschaftliche Fakultät|FITNESS-Run|Student|0:53:33|1990|DEU|
+22|22|110|Ecke, Maria|Veterinärmedizinische Fakultät|FITNESS-Run|Student|0:54:09|1986|DEU|
+23|23|71|Meinhardt, Solveig|Juristenfakultät|FITNESS-Run|Student|0:54:25|1990|DEU|
+24|24|47|Ellner, Carola|Veterinärmedizinische Fakultät|FITNESS-Run|Student|0:54:39|1988|DEU|
+25|25|33|Kunz, Verena|Veterinärmedizinische Fakultät|FITNESS-Run|Student|0:55:19|1987|DEU|
+
+26|26|29|Lange, Karin|Fakultät für Sozialwissenschaften und Philosophie|FITNESS-Run|Mitarbeiter|0:57:04|1981|DEU|
+27|27|101|Görner, Christina|Sonstige|FITNESS-Run|Alumni/Gast|0:57:55|1986|DEU|
+28|28|27|Löser, Franzi|Sonstige|FITNESS-Run|Student|0:59:09|1988|DEU|
+29|29|25|Schmorl, Sara|Fakultät für Chemie und Mineralogie|FITNESS-Run|Student|0:59:12|1988|DEU|
+30|30|184|Gruschinski, Sina|Fakultät für Chemie und Mineralogie|FITNESS-Run|Student|1:01:51|1985|DEU|
+31|31|16|Heck, Anja|Fakultät für Physik und Geowissenschaften|FITNESS-Run|Mitarbeiter|1:05:20|1970|DEU|
+1|1|469|Otto, Christian|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:16:35|1986|DEU|
+2|2|458|Peters, Steffen|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:17:03|1989|DEU|
+3|3|459|Alswbaihawi, Dhualfiquar|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:17:05|1988|DEU|
+4|4|467|Reichert, Matthis|Medizinische Fakultät|FUN-Run|Student|0:17:07|1990|DEU|
+5|5|454|Förster, Peter|Sonstige|FUN-Run|Alumni/Gast|0:17:22|1989|DEU|
+6|6|177|Clemen, Sebastian|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:17:41|1989|DEU|
+7|7|137|Harrouch, Mohamed|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:18:51|1900|MAR|
+8|8|464|Rieck, Paul|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:18:57|1990|DEU|
+9|9|224|Schlieder, Jörg|Sonstige|FUN-Run|Alumni/Gast|0:19:05|1971|DEU|
+10|10|123|Diallo, Souleymane|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:19:49|1900|SEN|
+11|11|169|Elpel, Thomas|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:19:54|1988|DEU|
+12|12|206|Rahden, Paul|Medizinische Fakultät|FUN-Run|Student|0:20:11|1989|DEU|
+13|13|121|Rabarison, Tony|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:20:17|1900|MDG|
+14|14|88|Stieler, Sebastian|Fakultät für Biowissenschaften, Pharmazie und Psychologie|FUN-Run|Student|0:21:05|1989|DEU|
+15|15|82|Seidel, Oliver|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:21:07|1991|DEU|
+16|16|185|Buchmann, Jonas|Fakultät für Physik und Geowissenschaften|FUN-Run|Alumni/Gast|0:21:32|1985|DEU|
+17|17|119|Itanda, Rock Mbani|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:22:10|1900|GAB|
+18|18|182|Hanemann, Philipp|Wirtschaftswissenschaftliche Fakultät|FUN-Run|Mitarbeiter|0:22:13|1985|DEU|
+19|19|117|Bague, Mohamed|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:22:17|1900|BFA|
+20|20|199|Burzlaff, Ricky|Fakultät für Mathematik und Informatik|FUN-Run|Student|0:22:17|1991|DEU|
+21|21|451|Fleischer, Philipp|Sonstige|FUN-Run|Student|0:22:26|1900|DEU|
+22|22|105|Kleinübbing, Florian|Veterinärmedizinische Fakultät|FUN-Run|Student|0:22:41|1991|DEU|
+23|23|151|Krümmer, Markus|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:23:00|1985|DEU|
+24|24|466|Gasse, Jakob|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:23:18|1991|DEU|
+25|25|463|Finke, Steve|Erziehungswissenschaftliche Fakultät|FUN-Run|Student|0:23:29|1987|DEU|
+26|26|180|Markus, Sommerfeld|Fakultät für Physik und Geowissenschaften|FUN-Run|Student|0:23:33|1987|DEU|
+27|27|468|Wirisch, Nikolas|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:24:11|1992|DEU|
+28|28|211|Schindler, Tim|Wirtschaftswissenschaftliche Fakultät|FUN-Run|Student|0:24:11|1988|DEU|
+29|29|212|Goymann, Felix|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:24:16|1989|DEU|
+30|30|63|Stahr, Sebastian|Veterinärmedizinische Fakultät|FUN-Run|Student|0:24:17|1993|DEU|
+31|31|167|Schrumpf, Sebastian|Veterinärmedizinische Fakultät|FUN-Run|Student|0:24:17|1990|DEU|
+32|32|112|Schuldt, Carsten|Fakultät für Physik und Geowissenschaften|FUN-Run|Student|0:24:18|1983|DEU|
+33|33|189|Pottel, Steffen|Fakultät für Mathematik und Informatik|FUN-Run|Student|0:24:18|1984|DEU|
+34|34|10|Lorenz, Michael|Fakultät für Physik und Geowissenschaften|FUN-Run|Mitarbeiter|0:24:24|1983|DEU|
+35|35|174|Perschmann, Alex|Fakultät für Mathematik und Informatik|FUN-Run|Student|0:24:29|1989|DEU|
+36|36|457|Wagner, Martin|Veterinärmedizinische Fakultät|FUN-Run|Student|0:24:32|1991|DEU|
+37|37|175|Nitzschke, Marcus|Fakultät für Mathematik und Informatik|FUN-Run|Student|0:24:35|1988|DEU|
+38|38|472|Schlöffel, Ralf|Sportwissenschaftliche Fakultät|FUN-Run|Mitarbeiter|0:24:57|1975|DEU|
+39|39|133|Akthar, Mubin|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:26:24|1900|PAK|
+40|40|108|Bartsch, Rico|Philologische Fakultät|FUN-Run|Student|0:26:31|1990|DEU|
+41|41|21|Wendisch, Manfred|Fakultät für Physik und Geowissenschaften|FUN-Run|Mitarbeiter|0:26:33|1963|DEU|
+42|42|109|Schulze, Hendrik|Sonstige|FUN-Run|Alumni/Gast|0:26:35|1989|DEU|
+43|43|221|Krieg, Thilo|Wirtschaftswissenschaftliche Fakultät|FUN-Run|Mitarbeiter|0:26:40|1981|DEU|
+44|44|127|Gunasekara, Dasanayake Appuhamilage Jayantha|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:26:50|1900|LKA|
+45|45|118|Aboi, Adon Jules Fiacre|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:26:51|1900|DEU|
+46|46|102|Troppa, Martin|Fakultät für Chemie und Mineralogie|FUN-Run|Student|0:26:52|1992|DEU|
+47|47|202|Fischer, Dominik|Fakultät für Sozialwissenschaften und Philosophie|FUN-Run|Student|0:27:04|1986|DEU|
+48|48|81|Werner, Stefan|Veterinärmedizinische Fakultät|FUN-Run|Alumni/Gast|0:27:20|1982|DEU|
+49|49|146|Brandt, Robert|Sportwissenschaftliche Fakultät|FUN-Run|Alumni/Gast|0:27:42|1989|DEU|
+50|50|42|Hodeck, Alexander|Sportwissenschaftliche Fakultät|FUN-Run|Mitarbeiter|0:27:47|1982|DEU|
+51|51|128|Subaweerage, Niroshan Tharanga Dias|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:27:50|1900|LKA|
+52|52|38|Leue, Felix|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:28:52|1988|DEU|
+53|53|223|Küstner, Andreas|Fakultät für Sozialwissenschaften und Philosophie|FUN-Run|Student|0:28:54|1989|DEU|
+54|54|152|Urbansky, Björn|Wirtschaftswissenschaftliche Fakultät|FUN-Run|Mitarbeiter|0:29:11|1986|DEU|
+55|55|5|Schubert, Marco|Sportwissenschaftliche Fakultät|FUN-Run|Mitarbeiter|0:29:41|1970|DEU|
+56|56|193|Rühle, Christian|Sonstige|FUN-Run|Mitarbeiter|0:29:52|1991|DEU|
+57|57|160|Severin, Tobias|Fakultät für Chemie und Mineralogie|FUN-Run|Student|0:30:01|1991|DEU|
+58|58|161|Preuss, Max|Fakultät für Biowissenschaften, Pharmazie und Psychologie|FUN-Run|Student|0:30:02|1993|DEU|
+59|59|219|Grunert, Paul|Wirtschaftswissenschaftliche Fakultät|FUN-Run|Mitarbeiter|0:30:17|1987|DEU|
+60|60|43|Lammert, Joachim|Sportwissenschaftliche Fakultät|FUN-Run|Mitarbeiter|0:32:50|1973|DEU|
+61|61|122|Sy, Sega|Sportwissenschaftliche Fakultät|FUN-Run|Student|1:42:20|1900|MLI|
+62|62|465|Winter, Jakob|Sportwissenschaftliche Fakultät|FUN-Run|Student|1:47:06|1992|DEU|
+1|1|178|Schubert, Lisa|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:18:58|1989|DEU|
+2|2|157|Glöde, Yvonne|Veterinärmedizinische Fakultät|FUN-Run|Student|0:21:07|1985|DEU|
+3|3|52|Joachimmeyer, Hanna|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:21:12|1990|DEU|
+4|4|69|Förtsch, Sabrina|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:21:34|1990|DEU|
+5|5|72|Clauß, Anne|Philologische Fakultät|FUN-Run|Student|0:22:58|1991|DEU|
+6|6|455|Achenbach, Hannah|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:23:06|1993|DEU|
+7|7|159|Abele, Isabel|Philologische Fakultät|FUN-Run|Student|0:23:15|1991|DEU|
+8|8|149|Kade, Stefanie|Medizinische Fakultät|FUN-Run|Student|0:24:11|1990|DEU|
+9|9|37|Brückner, Franziska|Fakultät für Mathematik und Informatik|FUN-Run|Student|0:24:30|1993|DEU|
+10|10|171|Lang, Lucienne|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:24:37|1993|DEU|
+11|11|9|Baron-Thiene, Anna|Erziehungswissenschaftliche Fakultät|FUN-Run|Mitarbeiter|0:24:57|1977|DEU|
+12|12|190|Freigang, Romy|Medizinische Fakultät|FUN-Run|Student|0:25:17|1993|DEU|
+13|13|89|Kaden, Ulrike|Fakultät für Biowissenschaften, Pharmazie und Psychologie|FUN-Run|Student|0:26:04|1992|DEU|
+14|14|22|Rötz, Stefanie|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:26:25|1992|DEU|
+15|15|134|Trejos, Helem Vanessa Solano|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:26:43|1900|DEU|
+16|16|470|Urbansky, Anke|Wirtschaftswissenschaftliche Fakultät|FUN-Run|Student|0:27:01|1988|DEU|
+17|17|154|Gerstner, Pia|Fakultät für Biowissenschaften, Pharmazie und Psychologie|FUN-Run|Student|0:27:02|1994|DEU|
+18|18|46|Körner, Sophia|Veterinärmedizinische Fakultät|FUN-Run|Student|0:27:26|1992|DEU|
+19|19|150|Freund, Lysanne|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:27:55|1993|DEU|
+20|20|107|Haase, Linda|Medizinische Fakultät|FUN-Run|Student|0:27:55|1993|DEU|
+21|21|209|Schramm, Caroline|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:28:04|1990|DEU|
+22|22|220|Wilcock, Clare|Fakultät für Sozialwissenschaften und Philosophie|FUN-Run|Alumni/Gast|0:28:18|1952|GBR|
+23|23|462|Oehler, Josefa|Erziehungswissenschaftliche Fakultät|FUN-Run|Student|0:28:20|1993|DEU|
+24|24|176|Schläger, Katja|Sportwissenschaftliche Fakultät|FUN-Run|Student|0:28:21|1987|DEU|
+25|25|168|Ziegler, Mandy|Veterinärmedizinische Fakultät|FUN-Run|Student|0:28:39|1991|DEU|
+26|26|164|Güldner, Tina|Veterinärmedizinische Fakultät|FUN-Run|Student|0:28:39|1991|DEU|
+27|27|113|Hoffmann, Sandra|Veterinärmedizinische Fakultät|FUN-Run|Mitarbeiter|0:28:46|1985|DEU|
+28|28|114|Balling, Anneliese|Veterinärmedizinische Fakultät|FUN-Run|Mitarbeiter|0:28:46|1987|DEU|
+29|29|148|Hofstetter, Susanne|Veterinärmedizinische Fakultät|FUN-Run|Mitarbeiter|0:28:46|1986|DEU|
+30|30|162|Köstler, Maria|Veterinärmedizinische Fakultät|FUN-Run|Student|0:29:28|1989|DEU|
+31|31|213|Kreller, Karina|Medizinische Fakultät|FUN-Run|Alumni/Gast|0:29:38|1969|DEU|
+32|32|222|Hesse, Petra|Zentrale Einrichtungen|FUN-Run|Mitarbeiter|0:29:52|1958|DEU|
+
+33|33|461|Greiner, Saskia|Erziehungswissenschaftliche Fakultät|FUN-Run|Student|0:30:57|1994|DEU|
+34|34|210|Wenk, Kerstin|Medizinische Fakultät|FUN-Run|Mitarbeiter|0:31:02|1973|DEU|
+35|35|165|Sommerfeld, Kerstin|Medizinische Fakultät|FUN-Run|Alumni/Gast|0:31:03|1969|DEU|
+36|36|153|Hanel, Selina|Veterinärmedizinische Fakultät|FUN-Run|Student|0:32:16|1992|DEU|
+37|37|158|Edelmann, Karla|Sportwissenschaftliche Fakultät|FUN-Run|Mitarbeiter|0:32:42|1953|DEU|
+38|38|83|Nickoll, Ina|Veterinärmedizinische Fakultät|FUN-Run|Mitarbeiter|0:33:12|1984|DEU|
+39|39|85|Fromme, Vivian|Veterinärmedizinische Fakultät|FUN-Run|Mitarbeiter|0:33:12|1986|DEU|
+40|40|460|Schüppel, Jastine|Erziehungswissenschaftliche Fakultät|FUN-Run|Student|0:33:15|1994|DEU|
+41|41|20|Wendisch, Birgit|Fakultät für Physik und Geowissenschaften|FUN-Run|Mitarbeiter|0:33:27|1965|DEU|
+42|42|207|Ehlers, Sandy|Fakultät für Physik und Geowissenschaften|FUN-Run|Mitarbeiter|0:33:35|1984|DEU|
+43|43|79|Bartsch, Juliane|Veterinärmedizinische Fakultät|FUN-Run|Student|0:34:19|1985|DEU|
+44|44|166|Riemer, Sandra|Philologische Fakultät|FUN-Run|Student|0:34:57|1993|DEU|

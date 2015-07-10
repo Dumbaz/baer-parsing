@@ -1,0 +1,548 @@
+To.|Ak.|Stnr.|Name, Vorname|Verein|Strecke|AK|Bruttozeit||Nat
+
+1|1|279|Schulze, Marc||10,0km||0:32:44|1984|DEU
+2|2|210|Krüger, Robert||10,0km||0:34:17|1983|DEU
+3|3|463|Gaumnitz, Max||10,0km||0:36:13|1991|DEU
+4|4|49|Haft, Marcel||10,0km||0:36:26|1987|DEU
+5|5|386|Röder, Robert||10,0km||0:36:30|1989|DEU
+6|6|204|Kretzschmar, Matthias||10,0km||0:36:31|1990|DEU
+7|7|329|Bätge, Moritz||10,0km||0:37:01|1987|DEU
+8|8|5714|Ludwig, Lars|TU Dresden|10,0km||0:37:20|1985|DEU
+9|9|102|Schwarzer, Roland||10,0km||0:37:34|1985|DEU
+10|10|101|Schwarzer, Jürgen||10,0km||0:37:34|1984|DEU
+11|11|5715|Ludwig, Jens|TU Dresden|10,0km||0:37:39|1985|DEU
+12|12|9129|Lieback, Sven|TU Dresden|10,0km||0:38:31|1988|DEU
+13|13|12|May, Maximilian||10,0km||0:39:14|1988|DEU
+14|14|347|Vass, Martin||10,0km||0:39:27|1987|DEU
+15|15|9146|Burckhardt, Daniel|TU Dresden|10,0km||0:40:07|1993|DEU
+16|16|93|Jankowski, Jens||10,0km||0:40:10|1986|DEU
+17|17|128|Kraemer, Andrei||10,0km||0:40:32|1991|DEU
+18|18|464|Wessely, Nico||10,0km||0:41:09|1989|DEU
+19|19|458|Kinne, Jens||10,0km||0:41:10|1986|DEU
+20|20|89|Schlegel, Sebastian||10,0km||0:41:47|1988|DEU
+21|21|160|Freiberg, Patrick||10,0km||0:41:56|1989|DEU
+22|22|302|Schwarz, Johannes||10,0km||0:41:57|1990|DEU
+23|23|475|Kunze, Sebastian||10,0km||0:41:59|1987|DEU
+24|24|478|Kossack, Paul||10,0km||0:42:03|1991|DEU
+25|25|387|Höflitz, Johann||10,0km||0:42:10|1990|DEU
+26|26|1487|Pleske, Stefan|TU Dresden|10,0km||0:42:17|1990|DEU
+27|27|375|Fritzsch, Felix||10,0km||0:42:22|1989|DEU
+28|28|135|Bischoff, Jan||10,0km||0:42:26|1989|DEU
+29|29|380|Gräßer, Felix||10,0km||0:42:38|1984|DEU
+30|30|497|Finke, Peter||10,0km||0:42:44|1982|DEU
+31|31|358|Lukaschek, Frank||10,0km||0:43:00|1985|DEU
+32|32|1480|Neumann, Raik|TU Dresden|10,0km||0:43:08|1985|DEU
+33|33|5728|Späthling, Georg|TU Dresden|10,0km||0:43:08|1950|DEU
+34|34|303|Wasserthal, Benedikt||10,0km||0:43:11|1987|DEU
+35|35|88|Siebert, Ingo||10,0km||0:43:27|1987|DEU
+36|36|437|Claußnitzer, Tobias||10,0km||0:43:30|1990|DEU
+37|37|159|Schellenberg, Werner||10,0km||0:43:35|1990|DEU
+38|38|5727|Kohn, Hartmut|Kahnaletto.de |10,0km||0:43:36|1969|DEU
+39|39|5699|Olschewski, Jörg|TU Dresden|10,0km||0:43:37|1986|DEU
+40|40|193|Zenker, Ralf||10,0km||0:44:07|1983|DEU
+41|41|427|Keller, David||10,0km||0:44:16|1987|DEU
+42|42|334|Hamann, Georg||10,0km||0:44:28|1987|DEU
+43|43|96|Obst, Martin||10,0km||0:44:31|1983|DEU
+44|44|199|Herjean, Matthieu||10,0km||0:44:31|1988|DEU
+45|45|24|Schaarschmidt, Stefan||10,0km||0:44:35|1991|DEU
+46|46|127|Sachsenröder, Nils||10,0km||0:44:35|1989|DEU
+47|47|211|Weist, Marcus||10,0km||0:44:35|1991|DEU
+48|48|5719|Helbig, Alexander|TU Dresden|10,0km||0:44:37|1950|DEU
+49|49|408|Quinger, Falko||10,0km||0:44:48|1986|DEU
+50|50|39|Gemsheim, Sebastian||10,0km||0:44:56|1989|DEU
+51|51|154|Hähnel, Matthias||10,0km||0:44:56|1988|DEU
+52|52|56|Hamann, Patrick||10,0km||0:45:01|1991|DEU
+53|53|395|Müller, Michael||10,0km||0:45:09|1986|DEU
+54|54|8|Dick, Christoph||10,0km||0:45:16|1985|DEU
+55|55|470|Döring, Christoph||10,0km||0:45:19|1988|DEU
+56|56|275|Schroth, Christoph||10,0km||0:45:29|1990|DEU
+57|57|313|Jonscher, Ernst||10,0km||0:45:31|1989|DEU
+58|58|352|Wolf, Vincent||10,0km||0:45:32|1985|DEU
+59|59|400|Ziegler, Tim||10,0km||0:45:33|1991|DEU
+60|60|9143|Salomon, Toni|TU Dresden|10,0km||0:45:48|1989|DEU
+61|61|1481|Riedel, Mirko|TU Dresden|10,0km||0:45:50|1977|DEU
+62|62|36|Tönjes, Stefan||10,0km||0:45:55|1985|DEU
+63|63|78|Schaefer, Tim||10,0km||0:45:56|1990|DEU
+64|64|18|Schneider, Maik||10,0km||0:45:59|1990|DEU
+65|65|477|Arndt, Fjodor||10,0km||0:45:59|1997|DEU
+66|66|338|Zenkner, Sebastian||10,0km||0:46:00|1989|DEU
+67|67|41|Franczyk, Patrick||10,0km||0:46:08|1991|DEU
+68|68|5700|Gottwald, Dao|TU Dresden|10,0km||0:46:17|1985|DEU
+69|69|5722|Otto, Eric|TU Dresden|10,0km||0:46:17|1992|DEU
+70|70|518|Paulick, Oliver||10,0km||0:46:18|1990|DEU
+71|71|351|Pietzsch, Karl||10,0km||0:46:27|1988|DEU
+72|72|131|Kirsten, Markus||10,0km||0:46:29|1991|DEU
+73|73|234|Herrmann, Kai||10,0km||0:46:30|1988|DEU
+74|74|1500|Acker, Markus|TU Dresden|10,0km||0:46:36|1979|DEU
+75|75|384|Buchwald, Max||10,0km||0:46:43|1989|DEU
+76|76|37|Muthmann, Klemens|TU Dresden|10,0km||0:46:43|1984|DEU
+77|77|5711|Großmann, Holger|TU Dresden|10,0km||0:46:46|1985|DEU
+78|78|73|Grimm, Thomas||10,0km||0:46:49|1988|DEU
+79|79|80|Kamenskyi, Dmytro||10,0km||0:46:51|1983|DEU
+80|80|252|Kleinichen, Kevin||10,0km||0:46:52|1990|DEU
+81|81|38|Tietze, Bert||10,0km||0:46:55|1987|DEU
+82|82|435|Bugner, Marcus||10,0km||0:46:59|1989|DEU
+83|83|201|Bracklow, Franz||10,0km||0:47:00|1991|DEU
+84|84|139|Vogel, Benjamin||10,0km||0:47:03|1988|DEU
+85|85|145|Fehser, Stefan||10,0km||0:47:16|1984|DEU
+86|86|225|Kuschke, Tobias||10,0km||0:47:18|1985|DEU
+87|87|192|Eckhardt, Simon||10,0km||0:47:21|1991|DEU
+88|88|301|Scheidig, Martin||10,0km||0:47:25|1988|DEU
+89|89|1497|Schulze, Friedrich|TU Dresden|10,0km||0:47:33|1985|DEU
+90|90|105|Baumann, Stefan||10,0km||0:47:39|1987|DEU
+91|91|399|Hoyer, Klemens||10,0km||0:47:43|1989|DEU
+92|92|13|Räbiger, Dirk||10,0km||0:47:47|1973|DEU
+93|93|132|Lu, Fei||10,0km||0:47:52|1989|DEU
+94|94|46|Pflug, Norbert||10,0km||0:47:57|1985|DEU
+95|95|5713|Wolter, Fabian|TU Dresden|10,0km||0:47:58|1986|DEU
+96|96|28|Tuschling, Hans||10,0km||0:48:14|1990|DEU
+97|97|5718|Höhne, Robin||10,0km||0:48:31|1987|DEU
+98|98|176|Mack, Janosch||10,0km||0:48:39|1984|DEU
+99|99|229|Bräsigk, Stefan||10,0km||0:48:45|1983|DEU
+100|100|459|Neumeister, Robert|TU Dresden|10,0km||0:48:54|1988|DEU
+
+101|101|5716|Prekas, Andreas|TU Dresden|10,0km||0:48:57|1983|DEU
+102|102|290|Preising, Stephan||10,0km||0:48:58|1990|DEU
+103|103|5707|Schröder, Lucas|TU Dresden|10,0km||0:49:06|1991|DEU
+104|104|446|Schindler, Henning||10,0km||0:49:11|1990|DEU
+105|105|32|März, Alexander||10,0km||0:49:18|1990|DEU
+106|106|294|Kappert, Sandro||10,0km||0:49:26|1990|DEU
+107|107|84|Voigt, Axel||10,0km||0:49:29|1971|DEU
+108|108|505|Spata, Martin||10,0km||0:49:38|1982|DEU
+109|109|22|Hoppe, Andre||10,0km||0:49:49|1990|DEU
+110|110|34|Herrmann, Martin||10,0km||0:49:55|1989|DEU
+111|111|5710|Surrey, Alexander|TU Dresden|10,0km||0:49:56|1986|DEU
+112|112|341|Eichler, Dennis||10,0km||0:49:57|1990|DEU
+113|113|217|Keller, Tobias||10,0km||0:50:04|1991|DEU
+114|114|92|Hausdorf, Peter||10,0km||0:50:06|1982|DEU
+115|115|418|Wichmann, Jan-Erik||10,0km||0:50:08|1990|DEU
+116|116|293|Schwarze, Felix||10,0km||0:50:15|1992|DEU
+117|117|385|Lange, Armin||10,0km||0:50:23|1983|DEU
+118|118|191|Lebel, Jakob||10,0km||0:50:24|1991|DEU
+119|119|474|Müller, Felix||10,0km||0:50:27|1989|DEU
+120|120|413|Geyer, Stefan||10,0km||0:50:29|1987|DEU
+121|121|144|Hoffmann, Christian||10,0km||0:50:30|1989|DEU
+122|122|267|Werner, Sven||10,0km||0:50:36|1977|DEU
+123|123|417|Mazanec, Markus||10,0km||0:50:42|1992|DEU
+124|124|286|Müller, Daniel||10,0km||0:50:46|1986|DEU
+125|125|185|Lenius, Matti||10,0km||0:50:53|1985|DEU
+126|126|42|Fischer, Felix||10,0km||0:50:54|1989|DEU
+127|127|5724|Freygang, Robert|HTW Dresden|10,0km||0:50:55|1988|DEU
+128|128|5726|Bindel, Steffen|TU Dresden|10,0km||0:50:59|1950|DEU
+129|129|104|Mojssetschuk, Alexander|TU Dresden|10,0km||0:50:59|1983|DEU
+130|130|256|Eißler, Robert||10,0km||0:51:04|1987|DEU
+131|131|503|Marc, André||10,0km||0:51:05|1987|DEU
+132|132|9121|Mai, Robert|TU Dresden|10,0km||0:51:08|1982|DEU
+133|133|26|Basler, Hendrik||10,0km||0:51:09|1984|DEU
+134|134|238|Janiszewski, Maik||10,0km||0:51:28|1990|DEU
+135|135|502|Thüringen, Falk||10,0km||0:51:47|1980|DEU
+136|136|1479|Zschämisch, Steffen|TU Dresden|10,0km||0:51:51|1989|DEU
+137|137|1493|Ritter, Robert|TU Dresden|10,0km||0:51:56|1979|DEU
+138|138|9147|Geisler, Martin|TU Dresden|10,0km||0:51:57|1988|DEU
+139|139|439|Uhlemann, Martin||10,0km||0:52:04|1987|DEU
+140|140|509|Kickhefel, Steffen||10,0km||0:52:08|1987|DEU
+141|141|507|Kerlikowsky, Christian||10,0km||0:52:11|1987|DEU
+142|142|370|Grünig, Sven||10,0km||0:52:33|2007|DEU
+143|143|5693|Richter, Leon|TU Dresden|10,0km||0:52:41|2000|DEU
+144|144|327|Nguyen, Minh||10,0km||0:52:42|1987|DEU
+145|145|5720|Lienemann, Christopher|TU Dresden|10,0km||0:52:44|1993|DEU
+146|146|167|Graupner, Tom||10,0km||0:52:56|1988|DEU
+147|147|64|Kreisel, Andreas||10,0km||0:52:57|1988|DEU
+148|148|33|Hetzel, Matthias||10,0km||0:52:58|1987|DEU
+149|149|401|Saupe, Christoph||10,0km||0:53:01|1988|DEU
+150|150|316|Cuna, Tomas||10,0km||0:53:12|1991|DEU
+151|151|510|Krzywinski, Jens||10,0km||0:53:58|1977|DEU
+152|152|512|Püschel, Thomas||10,0km||0:53:58|1976|DEU
+153|153|259|Eger, Tino||10,0km||0:53:59|1987|DEU
+154|154|130|Dehnbostel, Knut||10,0km||0:54:02|1985|DEU
+155|155|9149|Heyne, Julius|TU Dresden|10,0km||0:54:07|1993|DEU
+156|156|361|Bosse, Stefan||10,0km||0:54:21|2007|DEU
+157|157|202|Perk, Hannes||10,0km||0:54:24|1984|DEU
+158|158|350|Schnabel, Oliver||10,0km||0:54:25|1986|DEU
+159|159|125|Gebert, Martin||10,0km||0:54:28|1987|DEU
+160|160|58|Herrmannsdörfer, Thomas||10,0km||0:54:33|1965|DEU
+161|161|175|Gläser, Robert||10,0km||0:54:34|1988|DEU
+162|162|466|Wulfers, Stefan||10,0km||0:54:37|1988|DEU
+163|163|74|Joost, Martin||10,0km||0:54:40|1980|DEU
+164|164|9145|Hoffmann, Ede|TU Dresden|10,0km||0:54:46|1986|DEU
+165|165|212|Böse, Georg||10,0km||0:54:49|1983|DEU
+166|166|377|Beck, Timon||10,0km||0:54:53|1991|DEU
+167|167|5723|Trettwer, Niklas|TU Dresden|10,0km||0:55:08|1991|DEU
+168|168|107|Hintze, Sascha||10,0km||0:55:18|1990|DEU
+169|169|468|Gumbmann, Lorenz||10,0km||0:55:30|1991|DEU
+170|170|149|Bauer, Alexander||10,0km||0:55:33|1987|DEU
+171|171|376|Krechan, Kevin||10,0km||0:55:42|1991|DEU
+172|172|222|Bräunet, Felix||10,0km||0:56:03|2007|DEU
+173|173|21|Maiwald, Patrick||10,0km||0:56:17|2010|DEU
+174|174|72|Malet, Cyril||10,0km||0:56:18|1990|DEU
+175|175|63|Schreiber, Tim||10,0km||0:56:26|1989|DEU
+176|176|501|Franzke, Tino||10,0km||0:56:32|1989|DEU
+177|177|258|Lohnstein, Johannes||10,0km||0:56:36|1992|DEU
+178|178|75|Lepinois, Romain||10,0km||0:57:04|1988|DEU
+179|179|479|Elsel, Christopher||10,0km||0:57:34|1990|DEU
+180|180|5717|Sorg, Martin|TU Dresden|10,0km||0:57:47|1984|DEU
+181|181|328|Weihe, Johann||10,0km||0:58:12|1985|DEU
+182|182|379|Abdalla, Feras||10,0km||0:58:38|2006|DEU
+183|183|150|Mrokwa, Christoph||10,0km||0:58:52|1990|DEU
+184|184|355|Roßbach, Alexander||10,0km||0:59:01|1986|DEU
+185|185|321|Jahn, Momme||10,0km||0:59:06|1984|DEU
+186|186|213|Husman, Dejan||10,0km||0:59:36|1989|DEU
+187|187|438|Kosmol, Christian||10,0km||0:59:43|1987|DEU
+188|188|506|Jagodzinski, Till||10,0km||0:59:56|1984|DEU
+189|189|169|Klapper, Helge||10,0km||1:01:44|1986|DEU
+190|190|70|Boden, Patrick||10,0km||1:01:54|1990|DEU
+191|191|158|Wüsthoff, Ralf||10,0km||1:02:08|1979|DEU
+192|192|9142|Schreiber, Andreas|TU Dresden|10,0km||1:02:33|1980|DEU
+193|193|335|Badasin, Mischa||10,0km||1:04:48|1988|DEU
+194|194|310|Klose, Bastian||10,0km||1:04:48|1986|DEU
+195|195|121|Stock, Markus||10,0km||1:06:17|1990|DEU
+196|196|9|Bartholomay, Sirko||10,0km||1:08:46|1986|DEU
+1|1|9132|Slansky, Christiane|TU Dresden|10,0km||0:41:34|1987|DEU
+2|2|151|Flessa, Tabea||10,0km||0:49:27|1992|DEU
+3|3|444|Schulz, Susanne||10,0km||0:50:15|1988|DEU
+4|4|1489|Kügler, Mandy|TU Dresden|10,0km||0:50:18|1980|DEU
+
+5|5|365|Lohß, Diana||10,0km||0:51:13|1991|DEU
+6|6|200|Martin, Irene||10,0km||0:52:21|1990|DEU
+7|7|57|Enk, Annemarie||10,0km||0:52:45|1988|DEU
+8|8|9144|Hanke, Ria|TU Dresden|10,0km||0:53:06|1988|DEU
+9|9|221|Hermle, Rebecca||10,0km||0:53:17|1989|DEU
+10|10|220|Dorner, Eva||10,0km||0:53:17|1991|DEU
+11|11|249|Pohl, Franziska||10,0km||0:53:23|1986|DEU
+12|12|244|Kupka, Ines||10,0km||0:53:31|1978|DEU
+13|13|43|Niebur, Verena||10,0km||0:54:07|1987|DEU
+14|14|369|Gering, Alexandra||10,0km||0:54:17|1989|DEU
+15|15|224|Peterburs, Teresa||10,0km||0:54:27|1991|DEU
+16|16|174|Frehe, Jennifer||10,0km||0:54:33|1990|DEU
+17|17|114|Lehmann, Elisabeth||10,0km||0:55:55|1990|DEU
+18|18|504|Kemnitz, Ronja||10,0km||0:56:15|1991|DEU
+19|19|141|Rückwardt, Maria||10,0km||0:56:19|1987|DEU
+20|20|140|Friese, Sina||10,0km||0:56:19|1980|DEU
+21|21|473|Mahler, Sandra||10,0km||0:56:25|1988|DEU
+22|22|66|Dschietzig, Anne||10,0km||0:56:32|1989|DEU
+23|23|498|Geidel, Paula||10,0km||0:56:37|1988|DEU
+24|24|94|Linke, Julia||10,0km||0:56:39|1978|DEU
+25|25|5725|Leuschner, Linda|TU Dresden|10,0km||0:58:40|1988|DEU
+26|26|108|Leschik, Theresa||10,0km||0:59:42|1990|DEU
+27|27|242|Göbel, Juliane||10,0km||0:59:59|1989|DEU
+28|28|344|Keller, Anna-Elisa||10,0km||1:00:46|1989|DEU
+29|29|120|Langner, Anne||10,0km||1:01:01|1990|DEU
+30|30|69|Apelmeier, Sophie||10,0km||1:01:53|1990|DEU
+31|31|243|Förster, Sarah||10,0km||1:02:01|1989|DEU
+32|32|156|Obst, Ulrike||10,0km||1:02:09|1986|DEU
+33|33|371|Gering, Franziska||10,0km||1:02:45|1991|DEU
+34|34|5721|Lenging, Sophie Elisabeth|TU Dresden|10,0km||1:04:10|1988|DEU
+35|35|251|Rohr, Fabiane||10,0km||1:04:39|1988|DEU
+36|36|87|Martin, Anika||10,0km||1:04:40|1987|DEU
+37|37|362|Link, Kathrin||10,0km||1:16:08|1984|DEU
+1|1|241|TV Dresden, |Jörg Bozenhard - Anton Clauß - Rajko Sickert - Alexander Silex|10,0km - Staffellauf||0:34:13|1976|DEU
+2|2|513|TV Dresden II, |Poul Eger - Alexander Silex - Jörg Bozenhard - Anton Clauß|10,0km - Staffellauf||0:35:20|1989|DEU
+3|3|448|good good, |Yannic Stürwald - Paul Flemming - Christian Petzold - Felix Bahr|10,0km - Staffellauf||0:37:12|1986|DEU
+4|4|495|PAUL Consultants 1, |Sebastian Mähler - Justus Brode - Philipp Junghanns - René Haas|10,0km - Staffellauf||0:37:31|1989|DEU
+5|5|511|TV Dresden III, |Rico Sperlich - Rico Sperlich - Poul Eger - Jörg Bozenhard|10,0km - Staffellauf||0:38:08|1975|DEU
+6|6|1496|Bunter Haufen 2.0, |Jens Haupt - Hagen Vogel - Stefan Hoppe - Jens Bauer|10,0km - Staffellauf||0:39:02|1950|DEU
+7|7|447|TMIAE, |Jan Wirbeleit - Nicki Weddeler - Johannes Junker - Mark Usolb|10,0km - Staffellauf||0:39:45|1991|DEU
+8|8|440|The Runners, |Ludwig Starke - Martin Däumler - Arvid Koszinski - Willi Mentzel|10,0km - Staffellauf||0:40:11|1990|DEU
+9|9|270|BSG FSD Dresden I, |André Drechsel - Georg Nerger - Frank Drechsel - Georg Nerger|10,0km - Staffellauf||0:40:20|1981|DEU
+10|10|62|Atemnot, |Markus Schulz - Christian Gloe - Maximilan Fella - Jakob Wetterling|10,0km - Staffellauf||0:41:14|1987|DEU
+11|11|99|ELBFLORACE 1, |Sebastian Trinks - Paul Prehl - Michael Dreßler - Sergej Moor|10,0km - Staffellauf||0:41:33|1988|DEU
+12|12|326|Schleppkurve, |Karsten Turek - Robert Schmaler - Hannes Hahne - Christian Hammel|10,0km - Staffellauf||0:41:53|1971|DEU
+13|13|269|BSG FSD Dresden III, |André Zais - André Zais - Anja Leipnitz - André Zais|10,0km - Staffellauf||0:41:57|1981|DEU
+14|14|9120|The Running Gag, |Reginald Hubert - Matthias Zech - Dominik Norrmann - Tilla Bensmann|10,0km - Staffellauf||0:42:12|1950|DEU
+15|15|363|Multibody Dynamics, |Gunther Dürrschmidt - Claudius Lein - Gero Zechel - Sten Urban|10,0km - Staffellauf||0:43:01|1981|DEU
+16|16|198|Das Beste kommt zum Schluss, |Alix von Haken - Lukas Kahlert - Julia Artmann - Andreas Riebisch|10,0km - Staffellauf||0:43:12|1992|DEU
+17|17|403|Wings 4 life, |Mathias Pilz - Florian König - Robert Ulke - Gregor Vogt|10,0km - Staffellauf||0:43:28|1988|DEU
+18|18|337|Paul IV, |Felix Puntke - Christoph Kaatz - Jens Diecke - Erik Laux|10,0km - Staffellauf||0:43:42|1989|DEU
+19|19|190|KubaLibre, |Lars Penter - Löser, Michael - Peuckert, Christoph - Schenke, Christer|10,0km - Staffellauf||0:43:59|1982|DEU
+20|20|443|Bärenstark, |Katharina Propst - Mario Schmidt - Martin Seidel - Michael Druch|10,0km - Staffellauf||0:44:15|1988|DEU
+21|21|360|RuN2ErS, |Alexander Wolff - Chris Guhrenz - Luise Beckmann - Philipp Scheibe|10,0km - Staffellauf||0:44:27|1989|DEU
+22|22|484|Die Gummibärenbande, |Hannes Budde - Julian Kunze - Christian Thiele - Steven Ernst|10,0km - Staffellauf||0:44:35|1988|DEU
+23|23|494|PAUL Consultants 2, |Jakob Carstens - Tom Schulz - Matthias Schmidt - Michael Geuhner|10,0km - Staffellauf||0:44:50|1988|DEU
+24|24|489|Die Backpflaumen, |Jennifer Berkner - Christoph Gabel - Christian Weinhold - Christopher Drescher|10,0km - Staffellauf||0:45:00|1990|DEU
+25|25|491|Metall und Moneten, |Christian Weiler - Conny Schumann - Eric Graf - Jürgen Oberer|10,0km - Staffellauf||0:45:02|1989|DEU
+26|26|486|HTW Dresden WING 11, |Marcus Pientka - Henrike Huser - Christoph Petri - Sascha Mühl|10,0km - Staffellauf||0:45:03|1989|DEU
+27|27|490|Schwitzen statt Schweißen, |Thomas Mösch - Stefan Karsch - Christian Holz - Sebastian Klingbeil|10,0km - Staffellauf||0:45:31|1989|DEU
+28|28|488|Ad Rem, |Johannes Toll - Florian Schumann - Toni Klemm - Janine Kallenbach|10,0km - Staffellauf||0:45:58|1992|DEU
+29|29|273|Rennschnecken, |Franziska Niesar - Georg Langer - Noreen Hinrichs - Marcel Kitsche|10,0km - Staffellauf||0:46:20|1990|DEU
+30|30|485|Carus-Crew, |Manja Unrath - Markus Wetterhahn - Patrick Berger - Robert Rötz|10,0km - Staffellauf||0:46:53|1987|DEU
+31|31|68|ROCK YOUR LIFE! Dresden e.V., |Moritz Muth - Sally Di Maio - Ludwig Ringeis - Sebastian Kreye|10,0km - Staffellauf||0:47:41|1989|DEU
+32|32|441|DGVC, |Katja Engelhardt - Tobias Kasper - Bastian Brandt - Martin Rudert|10,0km - Staffellauf||0:47:45|1984|DEU
+33|33|271|BSG FSD Dresden II, |Sven Häntschel - Jan Weisbach - Sven Häntschel - Jan Weisbach|10,0km - Staffellauf||0:48:13|1974|DEU
+34|34|263|IL FINE SETTIMANA, |Torsten Klemm - Felix Eckert - Julia Borchers - Ulrike Kühn|10,0km - Staffellauf||0:48:17|1986|DEU
+35|35|126|K47, |Eric Keilau - Sofia Rupschuß - Lilith Poppe - Claudius Richter|10,0km - Staffellauf||0:48:31|1986|DEU
+36|36|278|Die Random Walker, |Matthias Deutscher - Sabine Haller-Schulz - Ferdinand Schulz - Sandra Thomas|10,0km - Staffellauf||0:49:19|1976|DEU
+37|37|100|ELBFLORACE 2, |Benjamin Jödecke - Michael Schiffner - David Möller - Roman Pärschke|10,0km - Staffellauf||0:49:38|1990|DEU
+38|38|129|sTUfe Dresden, |Katja Marschner - Constanze Rethberg - Julia Oehme - Sandra Geißmar|10,0km - Staffellauf||0:50:14|1989|DEU
+39|39|9130|The Leons, |Daniel Zörnchen - Laura Richter - Anna Lena Pfeifer - Philipp Götzke|10,0km - Staffellauf||0:51:55|1950|DEU
+40|40|492|PAUL Consultants 3, |Julia Niewind - Stefanie Bültemann - Sophie Lenk - Marina Ivanova|10,0km - Staffellauf||0:52:18|1987|DEU
+41|41|483|faranto, |Robert Tietze - Sandra Merkel - Audrey Gi - Rico Beckert|10,0km - Staffellauf||0:52:41|1984|DEU
+42|42|183|Gummiadler, |David Schnabel - Philipp Rohleder - Björn Lachmann - Sebastian Möller|10,0km - Staffellauf||0:54:04|1991|DEU
+43|43|282|mission pO³ssible, |Jana Herrmann - Jan Endrikat - Julia Hillmann - Rainer Schmeisser|10,0km - Staffellauf||0:55:16|1986|DEU
+44|44|285|Löbtau-Gang, |Elisa Eberhardt - Marlen Fritzsche - Laura Ullrich - Franziska Spieß|10,0km - Staffellauf||0:55:21|1989|DEU
+45|45|381|BU - Günthers and Friends, |Matthias Jung - Raphaela Günther - Edeltraud Günther - Timon Günther|10,0km - Staffellauf||1:01:41|1986|DEU
+46|46|179|BU - PrimaForschung, |Julian Meyr - Anne Bergmann - Ramona Scheel - Stefan Münch|10,0km - Staffellauf||1:01:43|1984|DEU
+1|1|209|Krueger, Robert||2,5km||0:07:45|1983|DEU
+2|2|9148|Peschel, Marcel|TU Dresden|2,5km||0:09:06|1983|DEU
+3|3|194|Allmenröder, Manuel|TU Dresden|2,5km||0:09:16|1990|DEU
+4|4|1484|Dröscher, Armin|TU Dresden|2,5km||0:09:17|1950|DEU
+5|5|265|Manicke, André||2,5km||0:09:25|1983|DEU
+6|6|20|Maiwald, Patrick||2,5km||0:09:33|2010|DEU
+7|7|90|Hausigke, Sven||2,5km||0:09:36|1990|DEU
+8|8|383|Eschner, Torsten||2,5km||0:09:49|1987|DEU
+9|9|442|Andreä, Klemens||2,5km||0:09:58|1986|DEU
+10|10|1482|Vetter, Sebastian|TU Dresden|2,5km||0:10:31|1950|DEU
+11|11|364|Schroeder, Tobias||2,5km||0:11:11|1993|DEU
+12|12|457|Grund, Sascha||2,5km||0:11:58|1987|DEU
+13|13|9135|Lucke, Sebastian|TU Dresden|2,5km||0:12:00|1989|DEU
+14|14|482|Emde, Manuel||2,5km||0:12:16|1990|DEU
+15|15|1483|Maletti, Sebastian|TU Dresden|2,5km||0:13:39|1950|DEU
+16|16|152|Dziuba, Franz|TU Dresden|2,5km||0:13:43|1992|DEU
+17|17|366|Kutzner, Stefan||2,5km||0:13:49|1983|DEU
+18|18|177|Janiszewski, Patrick||2,5km||0:13:54|1990|DEU
+19|19|85|Pamin, Johann||2,5km||0:13:54|2001|DEU
+20|20|115|Preuß, Benjamin|TU Dresden|2,5km||0:14:27|1990|DEU
+21|21|9133|Lasarov, Wassili|TU Dresden|2,5km||0:15:21|1950|DEU
+
+22|22|29|Dumalin, Jérôme||2,5km||0:16:12|1981|DEU
+23|23|391|Kümmritz, Jannis||2,5km||0:16:17|1985|DEU
+24|24|390|Späthling, Georg||2,5km||0:16:19|1987|DEU
+25|25|216|Tschapek, Tim||2,5km||0:16:21|1990|DEU
+26|26|155|Pätz, Maximilian||2,5km||0:16:23|1989|DEU
+27|27|153|Schade, Martin||2,5km||0:16:23|1989|DEU
+28|28|207|Piotrowski, Sven||2,5km||0:16:24|1989|DEU
+29|29|208|Heinitz, Sven||2,5km||0:16:25|1988|DEU
+30|30|9125|Dick, Nighti|TU Dresden|2,5km||0:16:59|1985|DEU
+31|31|421|Kuhlenkampff, Felix||2,5km||0:17:22|1989|DEU
+32|32|423|Diehl, Martin||2,5km||0:17:45|1991|DEU
+33|33|426|Lauckner, Enrico||2,5km||0:17:46|1987|DEU
+1|1|450|Klingerova, Maria||2,5km||0:13:17|1988|DEU
+2|2|406|Würgau, Carolin||2,5km||0:13:17|1989|DEU
+3|3|298|Kipping, Ragna||2,5km||0:13:45|1989|DEU
+4|4|296|Klein, Theresa||2,5km||0:13:46|1990|DEU
+5|5|86|Bochmann, Cathleen||2,5km||0:13:55|1979|DEU
+6|6|9136|Schreiber, Doris|TU Dresden|2,5km||0:14:40|1989|DEU
+7|7|449|Strunz, Annelie||2,5km||0:14:53|1992|DEU
+8|8|161|Mürbe, Jenny||2,5km||0:14:54|1991|DEU
+9|9|60|Frenzel, Franziska||2,5km||0:15:02|1992|DEU
+10|10|373|Roellich, Anja||2,5km||0:15:22|1987|DEU
+11|11|178|Halbach, Kati||2,5km||0:15:40|1990|DEU
+12|12|236|Roblick, Romy||2,5km||0:15:42|1993|DEU
+13|13|240|Lippert, Annemarie||2,5km||0:15:52|1985|DEU
+14|14|398|Hoffmann, Pamela||2,5km||0:15:53|1984|DEU
+15|15|397|Gaber, Annette||2,5km||0:15:54|1971|DEU
+16|16|388|Schoor, Cornelia||2,5km||0:16:26|1977|DEU
+17|17|306|Bonitz, Josephin||2,5km||0:16:58|1989|DEU
+18|18|30|Dumalin-Kliesow, Katrin||2,5km||0:16:59|1975|DEU
+19|19|469|Bonsack, Maria||2,5km||0:17:00|1991|DEU
+1|1|97|Fischer, André||5,0km||0:16:56|1987|DEU
+2|2|9131|Herrmann, Lennart|TU Dresden|5,0km||0:18:19|1985|DEU
+3|3|76|Wittwer, Frank|TU Dresden|5,0km||0:18:31|1968|DEU
+4|4|346|Dander, Jörg||5,0km||0:18:36|1985|DEU
+5|5|162|Spiegel, Christopher||5,0km||0:18:39|1989|DEU
+6|6|288|Zentsch, Uwe||5,0km||0:18:42|1962|DEU
+7|7|232|Loreck, Franco||5,0km||0:19:05|1986|DEU
+8|8|1499|Junglickel, Ingmar|TU Dresden|5,0km||0:19:09|1988|DEU
+9|9|5695|Becker, Marco|TU Dresden|5,0km||0:19:35|1986|DEU
+10|10|195|Müller, Johannes||5,0km||0:19:38|2007|DEU
+11|11|281|Hecht, Christian||5,0km||0:19:40|1987|DEU
+12|12|1495|Thalmann, Felix|TU Dresden|5,0km||0:20:00|1950|DEU
+13|13|5698|Heinz, Hajo|TU Dresden|5,0km||0:20:15|1977|DEU
+14|14|1490|Quinzler, Philipp|TU Dresden|5,0km||0:20:20|1992|DEU
+15|15|5704|Golla, Stefan|TU Dresden|5,0km||0:20:25|1979|DEU
+16|16|357|Philipp, Peter||5,0km||0:20:26|1985|DEU
+17|17|467|Vass, Markus||5,0km||0:20:27|1990|DEU
+18|18|233|Sandkaulen, Christian||5,0km||0:20:30|1986|DEU
+19|19|345|Shivers, Benjamin||5,0km||0:20:34|1986|DEU
+20|20|103|Vogel, Johannes||5,0km||0:20:38|1991|DEU
+21|21|431|Bielinski, Tim|TU Dresden|5,0km||0:20:44|1987|DEU
+22|22|515|Kerber, Richard||5,0km||0:20:47|1991|DEU
+23|23|429|Arnold, Philipp||5,0km||0:20:50|1989|DEU
+24|24|9119|Neumann, Thomas|TU Dresden|5,0km||0:20:57|1987|DEU
+25|25|186|Feister, Philipp||5,0km||0:21:00|1990|DEU
+26|26|454|Mäde, Lucas||5,0km||0:21:03|1990|DEU
+27|27|163|Rühmer, Tobias||5,0km||0:21:05|1993|DEU
+28|28|5705|Schmieder, Florian|TU Dresden|5,0km||0:21:08|1987|DEU
+29|29|170|Engelke, Lennart||5,0km||0:21:09|1989|DEU
+30|30|9141|Teuchert, Johannes|TU Dresden|5,0km||0:21:16|1990|DEU
+31|31|5696|Uhlig, Markus|TU Dresden|5,0km||0:21:19|1986|DEU
+32|32|451|Bentler, Martin||5,0km||0:21:19|1991|DEU
+33|33|5697|Reichardt, André|TU Dresden|5,0km||0:21:22|1985|DEU
+34|34|456|Demez, Mario||5,0km||0:21:26|1988|DEU
+35|35|253|Vogt, Richard||5,0km||0:21:28|1990|DEU
+36|36|287|Lodahl, Aaron||5,0km||0:21:30|1998|DEU
+37|37|83|Vogt, Dominik|TU Dresden|5,0km||0:21:30|1992|DEU
+38|38|272|Seidel, Uwe||5,0km||0:21:35|1984|DEU
+39|39|79|Franke, Paul||5,0km||0:21:37|1990|DEU
+40|40|82|Mittrach, Marcel||5,0km||0:21:46|1993|DEU
+41|41|312|Kießling, Robert||5,0km||0:21:56|1991|DEU
+42|42|5712|Lippmann, David|TU Dresden|5,0km||0:21:57|1984|DEU
+43|43|182|Dibowski, Henrik||5,0km||0:21:57|1979|DEU
+44|44|295|Gnauck, Christoph||5,0km||0:21:59|1984|DEU
+45|45|9137|Obenaus, Florian|TU Dresden|5,0km||0:22:02|1989|DEU
+46|46|113|Kaatz, Bernhardt||5,0km||0:22:09|1985|DEU
+47|47|349|Hamann, Philipp||5,0km||0:22:11|1990|DEU
+48|48|9139|Schaupke, Sven|TU Dresden|5,0km||0:22:12|1988|DEU
+49|49|248|Luhmann, Philipp||5,0km||0:22:20|1987|DEU
+50|50|124|Neudeck, Tom||5,0km||0:22:22|1991|DEU
+51|51|117|Peinelt, Björn||5,0km||0:22:29|1988|DEU
+52|52|1485|Waurich, Volker|TU Dresden|5,0km||0:22:29|1989|DEU
+53|53|268|Hartmann, Christian||5,0km||0:22:31|1985|DEU
+54|54|227|Muftiev, Rasim||5,0km||0:22:35|1988|DEU
+55|55|359|Steinfeldt, Philipp||5,0km||0:22:47|1986|DEU
+56|56|374|Roth, Markus||5,0km||0:22:49|1991|DEU
+57|57|453|Huth, Sascha||5,0km||0:22:59|1987|DEU
+58|58|254|Schilling, Nico||5,0km||0:23:01|1989|DEU
+59|59|299|Engelmohr, Jan||5,0km||0:23:06|1991|DEU
+60|60|1494|Serbser, Peter|TU Dresden|5,0km||0:23:14|1989|DEU
+61|61|1486|Huentz, Florian|TU Dresden|5,0km||0:23:32|1985|DEU
+62|62|480|Hein, Tobias||5,0km||0:23:34|1989|DEU
+63|63|184|Hell, Martin||5,0km||0:23:41|1990|DEU
+64|64|354|Epperlein, Christian||5,0km||0:23:43|1982|DEU
+65|65|136|Hecker, Florian||5,0km||0:23:43|1991|DEU
+66|66|255|Komissarov, Alexander||5,0km||0:23:55|1990|DEU
+67|67|9124|Toll, Johannes|TU Dresden|5,0km||0:23:56|1992|DEU
+68|68|331|Ebert, Moritz||5,0km||0:24:00|1990|DEU
+69|69|137|Schmidt, Franz||5,0km||0:24:01|1990|DEU
+
+70|70|27|Franze, Andreas|TU Dresden|5,0km||0:24:02|1984|DEU
+71|71|333|Schettler, Sebastian||5,0km||0:24:02|1990|DEU
+72|72|122|Reyer, Lucas|TU Dresden|5,0km||0:24:07|1988|DEU
+73|73|419|Schmidberger, Lorenz||5,0km||0:24:15|1987|DEU
+74|74|181|Großer, Andreas||5,0km||0:24:15|1983|DEU
+75|75|31|Getzlaff, Marcus||5,0km||0:24:26|1989|DEU
+76|76|425|Dittrich, Aleksander||5,0km||0:24:28|1985|DEU
+77|77|372|Thomä, Benny||5,0km||0:24:29|1986|DEU
+78|78|460|Weller, Dominik||5,0km||0:24:33|1992|DEU
+79|79|5702|Szökä, Vince|TU Dresden|5,0km||0:24:34|1987|DEU
+80|80|10|Schneider, Martin||5,0km||0:24:43|1983|DEU
+81|81|266|Laqua, Kevin||5,0km||0:24:43|2008|DEU
+82|82|291|Kramer, Benjamin||5,0km||0:24:45|1989|DEU
+83|83|412|Habenicht, Daniel||5,0km||0:24:46|1991|DEU
+84|84|455|Rossetio, Matteo||5,0km||0:24:46|1986|DEU
+85|85|487|Kretschmer, Silvan||5,0km||0:24:46|1990|DEU
+86|86|5701|Hermann, Philipp|TU Dresden|5,0km||0:24:47|1988|DEU
+87|87|262|Arrue, Patrick||5,0km||0:24:48|1989|DEU
+88|88|9122|Böhme, Stephan|TU Dresden|5,0km||0:25:05|1988|DEU
+89|89|5709|Gaitzsch, Martin|TU Dresden|5,0km||0:25:05|1986|DEU
+90|90|110|Müller, Franz||5,0km||0:25:07|1991|DEU
+91|91|519|Martin, André||5,0km||0:25:24|1981|DEU
+92|92|472|Senckpiel, Tilo||5,0km||0:25:26|1989|DEU
+93|93|416|Kwasnitza, Thomas||5,0km||0:25:32|1991|DEU
+94|94|411|Schneider, Philipp||5,0km||0:25:46|1990|DEU
+95|95|500|Lätsch, Friedemann||5,0km||0:25:48|1987|DEU
+96|96|157|Simrock, Janosch||5,0km||0:25:50|1988|DEU
+97|97|407|Benedickt, Nico||5,0km||0:25:55|1990|DEU
+98|98|19|Nöpel, Julius-Alexander||5,0km||0:25:57|1990|DEU
+99|99|264|Rangnick, Johannes||5,0km||0:26:19|1985|DEU
+100|100|91|Berk, Rüdiger||5,0km||0:26:22|1970|DEU
+101|101|314|Bürger, Sebastian||5,0km||0:26:39|1983|DEU
+102|102|409|Fehrmann, Frank||5,0km||0:26:42|1981|DEU
+103|103|309|Frey, Jürgen||5,0km||0:27:01|1994|DEU
+104|104|9123|Winkler, Florian|TU Dresden|5,0km||0:27:13|1987|DEU
+105|105|452|Patella, Ruben||5,0km||0:27:15|1988|DEU
+106|106|138|Roitzsch-Hofmann, Alexander||5,0km||0:27:17|1983|DEU
+107|107|9140|Schwurack, Roy|TU Dresden|5,0km||0:27:25|1989|DEU
+108|108|445|Strycek, Igor||5,0km||0:27:27|1989|DEU
+109|109|461|Dietsch, Florian||5,0km||0:27:36|1990|DEU
+110|110|517|Posselt, Uwe||5,0km||0:27:43|1975|DEU
+111|111|11|Krahnefeld, André||5,0km||0:27:50|1986|DEU
+112|112|5692|Richter, Justin|TU Dresden|5,0km||0:28:10|2003|DEU
+113|113|197|Kettel, Martin||5,0km||0:28:12|1987|DEU
+114|114|47|Jahr, Eric||5,0km||0:28:42|2010|DEU
+115|115|300|Dziuba, Philip||5,0km||0:28:45|1990|DEU
+116|116|205|Marx, Alexander||5,0km||0:29:01|1989|DEU
+117|117|203|Vocke, Richard||5,0km||0:29:01|1987|DEU
+118|118|1492|Beeg, Carsten|TU Dresden|5,0km||0:29:38|1950|DEU
+119|119|5706|Priewe, Rico|TU Dresden|5,0km||0:29:39|1989|DEU
+120|120|317|Müller, Tobias||5,0km||0:29:58|1987|DEU
+121|121|307|Nixdorf, Erik||5,0km||0:30:05|1988|DEU
+122|122|304|Schöppe, Denny||5,0km||0:30:34|1989|DEU
+123|123|1491|Trappe, Julian|TU Dresden|5,0km||0:30:56|1989|DEU
+124|124|424|Wagner, Johannes||5,0km||0:31:59|1983|DEU
+125|125|9128|Morich, Julian|TU Dresden|5,0km||0:32:38|1993|DEU
+126|126|432|Biondi, Christian||5,0km||0:34:23|1991|DEU
+1|1|353|Garten, Virginie||5,0km||0:20:23|1980|DEU
+2|2|284|Helas, Marina||5,0km||0:20:52|1985|DEU
+3|3|276|Walther, Juliane|TU Dresden|5,0km||0:21:05|1987|DEU
+4|4|378|Tiex, Franziska||5,0km||0:21:25|1992|DEU
+5|5|402|Donath, Vicky||5,0km||0:22:56|1989|DEU
+6|6|250|Hartmann, Anne||5,0km||0:24:02|1991|DEU
+7|7|164|Mierke, Charlotte||5,0km||0:24:18|1988|DEU
+8|8|1498|Rade, Anja|TU Dresden|5,0km||0:24:31|1990|DEU
+9|9|434|Frenzel, Alexandra||5,0km||0:24:34|1988|DEU
+10|10|173|Lazzeri, Federica||5,0km||0:25:29|1990|DEU
+11|11|17|Winkler, Ronja||5,0km||0:25:53|1992|DEU
+12|12|1488|Stollberg, Ulrike|TU Dresden|5,0km||0:26:02|1988|DEU
+13|13|428|Mion, Arianna||5,0km||0:26:37|1991|DEU
+14|14|67|Otto, Maria||5,0km||0:26:42|1989|DEU
+15|15|323|Reinhold, Romy||5,0km||0:26:47|1990|DEU
+16|16|147|Jahn, Kerstin||5,0km||0:27:03|1980|DEU
+17|17|311|Schulze, Dagmar||5,0km||0:27:06|1959|DEU
+18|18|367|Rzittky, Alexandra||5,0km||0:27:35|1990|DEU
+19|19|277|Müller, Christina||5,0km||0:27:37|1989|DEU
+20|20|330|Schegner, Luise||5,0km||0:27:37|1992|DEU
+21|21|16|Herrmann, Theresa||5,0km||0:27:37|2010|DEU
+22|22|14|Aysche, Jessica||5,0km||0:27:38|2010|DEU
+23|23|430|Schulz, Johanna||5,0km||0:27:40|1990|DEU
+24|24|496|Nousch, Laura||5,0km||0:27:41|1984|DEU
+25|25|356|Lox, Josephine||5,0km||0:27:45|1990|DEU
+26|26|382|Naumann, Michelle||5,0km||0:28:04|1992|DEU
+27|27|462|Locke, Christin||5,0km||0:28:14|1990|DEU
+28|28|322|Kretschmann, Heidi||5,0km||0:28:15|1991|DEU
+29|29|320|Stauss, Teresa||5,0km||0:28:15|1989|DEU
+30|30|230|Schnaubert, Lenka||5,0km||0:28:33|1982|DEU
+31|31|274|Melzer, Christina||5,0km||0:28:34|1989|DEU
+32|32|433|Fleischmann, Helen||5,0km||0:28:47|1989|DEU
+33|33|165|Jäger, Luisa||5,0km||0:29:03|1986|DEU
+34|34|471|Salchow, Eva||5,0km||0:29:07|1992|DEU
+35|35|9127|Naas, Carolin|TU Dresden|5,0km||0:29:19|1993|DEU
+36|36|65|Kamenska, Anastasiia||5,0km||0:29:27|1983|DEU
+37|37|465|Henke, Christin||5,0km||0:29:32|1990|DEU
+38|38|297|Fournes, Valerie||5,0km||0:29:34|1991|DEU
+39|39|305|Schwarze, Louisa||5,0km||0:29:37|1992|DEU
+40|40|215|Rockel, Bianca||5,0km||0:29:47|2009|DEU
+41|41|339|Bischof, Inka||5,0km||0:29:49|1986|DEU
+42|42|340|Katzschner, Nicole||5,0km||0:29:49|1989|DEU
+43|43|166|Häschel, Moud||5,0km||0:29:50|1984|DEU
+
+44|44|109|Möschk, Kristin||5,0km||0:29:57|1990|DEU
+45|45|319|Dorl, Alexandra||5,0km||0:29:58|1989|DEU
+46|46|324|Amedick, Sophie||5,0km||0:30:27|1990|DEU
+47|47|148|Jühlen, Mona||5,0km||0:30:35|1986|DEU
+48|48|422|Aßmus, Elisabeth||5,0km||0:30:58|1986|DEU
+49|49|476|Kreisel, Laura||5,0km||0:30:59|1986|DEU
+50|50|142|Karg, Sophia||5,0km||0:31:14|1989|DEU
+51|51|143|Karg, Anna||5,0km||0:31:15|1985|DEU
+52|52|7|Kallenbach, Janine||5,0km||0:31:16|1981|DEU
+53|53|52|Hallbauer, Anne||5,0km||0:31:20|1979|DEU
+54|54|283|Werdermann, Nicole||5,0km||0:31:46|1987|DEU
+55|55|45|Ruepke, Yvonne||5,0km||0:31:57|1985|DEU
+56|56|343|Mende, Julia||5,0km||0:32:19|1990|DEU
+57|57|342|Höhlig, Juliane||5,0km||0:32:19|1989|DEU
+58|58|247|Wilke, Lisa-Charlott||5,0km||0:32:22|1992|DEU
+59|59|481|Haedrich, Peggy||5,0km||0:32:34|1983|DEU
+60|60|394|Girod, Caroline||5,0km||0:32:36|1990|DEU
+61|61|9126|Schönherr, Sophia|TU Dresden|5,0km||0:32:37|1990|DEU
+62|62|219|Dobers, Anne||5,0km||0:32:37|1984|DEU
+63|63|393|Pinard, Sixtine||5,0km||0:32:38|1989|DEU
+64|64|123|Deutsch, Daniela|TU Dresden|5,0km||0:32:38|1983|DEU
+65|65|414|Frenzel, Annegret||5,0km||0:32:38|1988|DEU
+66|66|392|Perrot-Minot, Claire||5,0km||0:32:45|1991|DEU
+67|67|9134|Sallbey, Jana|TU Dresden|5,0km||0:32:45|1985|DEU
+68|68|325|Schneider, Anne||5,0km||0:33:01|2009|DEU
+69|69|53|Paulus, Gabriele||5,0km||0:33:18|1989|DEU
+70|70|9138|Aurich, Franziska|TU Dresden|5,0km||0:33:27|1988|DEU
+71|71|308|Lukaschik, Nadine||5,0km||0:33:44|1992|DEU
+72|72|436|Melchoir, Carolin||5,0km||0:34:24|1988|DEU
+73|73|77|Pfeiffer, Ulrike||5,0km||0:34:52|1971|DEU
+74|74|50|Dietel, Linda||5,0km||0:35:14|1980|DEU
+75|75|54|Baltuttis, Nadine||5,0km||0:35:31|1987|DEU
+76|76|239|Funke, Alexandra||5,0km||0:35:38|1987|DEU
+77|77|514|Ehspanner, Silke||5,0km||0:35:57|1989|DEU
+78|78|508|Feldweg, Claudia||5,0km||0:35:58|1988|DEU
+79|79|499|Dorn, Jeanny||5,0km||0:36:09|1984|DEU
+80|80|336|Riemann, Lena||5,0km||0:36:09|1983|DEU
+81|81|289|Deckert, Ulrike||5,0km||0:36:25|1987|DEU
+82|82|5703|Apelt, Sabine|TU Dresden|5,0km||0:36:41|1987|DEU
+83|83|48|Simmchen, Nicole||5,0km||0:37:26|1988|DEU
+84|84|5694|Richter, Cornelia|TU Dresden|5,0km||0:40:56|1971|DEU

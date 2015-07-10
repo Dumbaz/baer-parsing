@@ -1,0 +1,345 @@
+To.|Ak.|Stnr.|Name, Vorname|Verein|Strecke|AK|Bruttozeit||Nat
+
+1|1|1007|Schade, Fridtjof|BLV 'Rot-Weiß 90'|1,8 km|Schüler C|06:55|2001|DEU
+2|2|1245|Nitschke, Pascal|OL-Biathlon-Verein Ringenhain|1,8 km|Schüler C|07:10|2001|DEU
+3|1|1294|Teichler, Paul|TV 1848 Bischofswerda|1,8 km|Schüler D|07:17|2002|DEU
+4|1|1144|Schabert, Andreas|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Volkssport männlich|07:17|1997|DEU
+5|3|1022|Lebelt, Justus-Franz|Geschwister-Scholl-Gymnasium Löbau|1,8 km|Schüler C|07:24|2001|DEU
+6|4|1226|Gehser, Tobias|OL-Team Wehrsdorf|1,8 km|Schüler C|07:24|2000|DEU
+7|2|1292|Katzer, Adrian|TV 1848 Bischofswerda|1,8 km|Schüler D|07:26|2003|DEU
+8|5|1260|Krätschel, Brian|BLV 'Rot-Weiß 90'|1,8 km|Schüler C|07:27|2000|DEU
+9|3|1080|Böhme, Edwin|GS Friedrich Schiller Cunewalde|1,8 km|Schüler D|07:40|2002|DEU
+10|4|1256|Kretschmar, Jakob|Ski-Club-Sohland 1928|1,8 km|Schüler D|07:55|2003|DEU
+11|6|1328|Ueberfuhr, Paul|Kamenz|1,8 km|Schüler C|07:59|2000|DEU
+12|2|1132|Förster, Richard|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Volkssport männlich|08:06|1999|DEU
+13|7|1121|Huml, Lukas|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Schüler C|08:08|2000|DEU
+14|5|1014|Mehnert, Raphael|BLV 'Rot-Weiß 90'|1,8 km|Schüler D|08:13|2002|DEU
+15|3|1147|Krempke, Moritz|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Volkssport männlich|08:17|1997|DEU
+16|8|1094|Matthes, Max|GS Friedrich Schiller Cunewalde|1,8 km|Schüler C|08:34|2001|DEU
+17|6|1063|Preuß, Moritz|GS Friedrich Schiller Cunewalde|1,8 km|Schüler D|08:35|2003|DEU
+18|9|1124|Das Gupta, Fabian|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Schüler C|08:36|2000|DEU
+19|10|1093|Langner, Anton|GS Friedrich Schiller Cunewalde|1,8 km|Schüler C|08:38|2001|DEU
+20|1|1258|Ullrich, Florian|Max-Militzer-GS Bautzen|1,8 km|Jungen bis 7|08:38|2004|DEU
+21|11|1089|Hennig, David|GS Friedrich Schiller Cunewalde|1,8 km|Schüler C|08:39|2001|DEU
+22|7|1050|Leske, Xander|GS Friedrich Schiller Cunewalde|1,8 km|Schüler D|08:39|2003|DEU
+23|12|1100|Mieth, Sebastian|GS Friedrich Schiller Cunewalde|1,8 km|Schüler C|08:40|2001|DEU
+24|8|1072|Richter, Hannes|GS Friedrich Schiller Cunewalde|1,8 km|Schüler D|08:41|2002|DEU
+25|13|1090|Mann, Arved|GS Friedrich Schiller Cunewalde|1,8 km|Schüler C|08:41|2001|DEU
+26|4|1128|Probst, Oliver|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Volkssport männlich|08:41|1999|DEU
+27|2|1040|Thunig, Louis|GS Friedrich Schiller Cunewalde|1,8 km|Jungen bis 7|08:43|2004|DEU
+28|9|1177|Walter, Moritz|Triathlon Verein Valtenberg|1,8 km|Schüler D|08:45|2003|DEU
+29|14|1348|Männel, Marek|OL-Team Wehrsdorf|1,8 km|Schüler C|08:49|2001|DEU
+30|15|1096|Balke, Walther|GS Friedrich Schiller Cunewalde|1,8 km|Schüler C|08:50|2001|DEU
+31|3|1188|Vogt, Wilhelm|OL-Biathlon-Verein Ringenhain|1,8 km|Jungen bis 7|08:51|2004|DEU
+32|10|1054|Dingfeld, Jannis|GS Friedrich Schiller Cunewalde|1,8 km|Schüler D|08:56|2003|DEU
+33|16|1108|Teichmann, Bastian|GS Friedrich Schiller Cunewalde|1,8 km|Schüler C|08:58|2000|DEU
+34|17|1295|Hadamus, Kurt|TV 1848 Bischofswerda|1,8 km|Schüler C|08:59|2001|DEU
+35|18|1087|Tittelbach, Sebastian|GS Friedrich Schiller Cunewalde|1,8 km|Schüler C|09:00|2001|DEU
+36|19|1086|May, Pascal|GS Friedrich Schiller Cunewalde|1,8 km|Schüler C|09:03|2001|DEU
+37|5|1129|Kiehne, Florian|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Volkssport männlich|09:06|1999|DEU
+38|20|1120|Meile, Alexander|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Schüler C|09:12|2000|DEU
+39|11|1288|Hofmann, Luca|OL-Biathlon-Verein Ringenhain|1,8 km|Schüler D|09:12|2002|DEU
+40|12|1026|Diesner, Maximilian|GS Friedrich Schiller Cunewalde|1,8 km|Schüler D|09:13|2003|DEU
+41|13|1071|Wagner, Paul|GS Friedrich Schiller Cunewalde|1,8 km|Schüler D|09:15|2002|DEU
+42|14|1052|Conrad, Alex|GS Friedrich Schiller Cunewalde|1,8 km|Schüler D|09:19|2003|DEU
+43|21|1103|Säglitz, Tim|GS Friedrich Schiller Cunewalde|1,8 km|Schüler C|09:25|2000|DEU
+44|4|1036|Mann, Kilian|GS Friedrich Schiller Cunewalde|1,8 km|Jungen bis 7|09:27|2004|DEU
+45|22|1106|Becker, Lukas|GS Friedrich Schiller Cunewalde|1,8 km|Schüler C|09:28|2000|DEU
+46|6|1146|Liebscher, Nico|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Volkssport männlich|09:30|1996|DEU
+47|15|1048|Weickert, Moritz|GS Friedrich Schiller Cunewalde|1,8 km|Schüler D|09:31|2003|DEU
+48|7|1145|Wagner, Marcel|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Volkssport männlich|09:31|1997|DEU
+49|16|1075|Buder, Sebastian|GS Friedrich Schiller Cunewalde|1,8 km|Schüler D|09:39|2002|DEU
+50|23|1099|Bergner, Michael|GS Friedrich Schiller Cunewalde|1,8 km|Schüler C|09:53|2001|DEU
+51|24|1097|Kalauch, Konstantin|GS Friedrich Schiller Cunewalde|1,8 km|Schüler C|09:53|2001|DEU
+52|5|1312|Burchert, Tom|TSV Pulsnitz 1920|1,8 km|Jungen bis 7|09:54|2004|DEU
+53|25|1091|Hübner, Jonathan|GS Friedrich Schiller Cunewalde|1,8 km|Schüler C|10:21|2001|DEU
+54|8|1148|Gnausch, Stefan|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Volkssport männlich|10:23|1996|DEU
+55|6|1035|Mann, Kurt|GS Friedrich Schiller Cunewalde|1,8 km|Jungen bis 7|10:24|2004|DEU
+56|7|1215|Arnhold, Heiko|PSC Bautzen|1,8 km|Jungen bis 7|10:25|2005|DEU
+57|17|1061|Wagner, Elija|GS Friedrich Schiller Cunewalde|1,8 km|Schüler D|10:31|2003|DEU
+58|18|1368|Schäfer, Marcel|GS Friedrich Schiller Cunewalde|1,8 km|Schüler D|10:35|2003|DEU
+59|9|1116|Israel, Nico|GS Friedrich Schiller Cunewalde|1,8 km|Volkssport männlich|10:37|1999|DEU
+60|19|1083|Kunze, Florian|GS Friedrich Schiller Cunewalde|1,8 km|Schüler D|10:37|2002|DEU
+61|20|1060|Kriegel, Martin|GS Friedrich Schiller Cunewalde|1,8 km|Schüler D|10:40|2003|DEU
+62|26|1123|Kolpe, Eric|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Schüler C|10:59|2000|DEU
+63|8|1308|Reifke, Jonathan|Weifa|1,8 km|Jungen bis 7|11:09|2004|DEU
+64|21|1070|Höhne, Niklas|GS Friedrich Schiller Cunewalde|1,8 km|Schüler D|11:12|2002|DEU
+65|9|1031|Petrasch, Robby|GS Friedrich Schiller Cunewalde|1,8 km|Jungen bis 7|11:27|2004|DEU
+66|10|1232|Strosny, Jonas|Sorbischer Kindergarten Bautzen|1,8 km|Jungen bis 7|11:32|2006|DEU
+67|22|1077|Böhme, Martin|GS Friedrich Schiller Cunewalde|1,8 km|Schüler D|11:47|2002|DEU
+68|23|1078|Hempel, Jonathan|GS Friedrich Schiller Cunewalde|1,8 km|Schüler D|11:47|2002|DEU
+69|24|1056|Glienke, Samuel|GS Friedrich Schiller Cunewalde|1,8 km|Schüler D|11:51|2003|DEU
+70|11|1030|Jenschke, Felix|GS Friedrich Schiller Cunewalde|1,8 km|Jungen bis 7|11:53|2004|DEU
+71|27|1092|Stäbler, Jona|GS Friedrich Schiller Cunewalde|1,8 km|Schüler C|12:29|2001|DEU
+72|12|1044|Kühnel, Bennet|GS Friedrich Schiller Cunewalde|1,8 km|Jungen bis 7|12:31|2004|DEU
+73|28|1115|Höhne, Lukas|GS Friedrich Schiller Cunewalde|1,8 km|Schüler C|12:43|2000|DEU
+74|29|1104|Pastian, Marvin|GS Friedrich Schiller Cunewalde|1,8 km|Schüler C|12:52|2000|DEU
+75|13|1033|Prietzel, Maximilian|GS Friedrich Schiller Cunewalde|1,8 km|Jungen bis 7|12:52|2004|DEU
+76|25|1053|Gehrmann, Arthur|GS Friedrich Schiller Cunewalde|1,8 km|Schüler D|12:58|2003|DEU
+77|10|1251|Weiß, Enrico|Bautzen|1,8 km|Volkssport männlich|13:14|1972|DEU
+78|14|1029|Jeremies, Moritz|GS Friedrich Schiller Cunewalde|1,8 km|Jungen bis 7|14:08|2004|DEU
+1|1|1181|Kleiner, Johanna|BLV 'Rot-Weiß 90'|1,8 km|Schülerinnen C|06:54|2001|DEU
+2|1|1073|Nowak, Jenny|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen D|07:18|2002|DEU
+3|2|1234|Seemann, Celine|BLV 'Rot-Weiß 90'|1,8 km|Schülerinnen C|07:28|2000|DEU
+4|3|1321|Eisold, Jasmin|HSV 1923 Pulsnitz|1,8 km|Schülerinnen C|07:54|2000|DEU
+5|4|1113|Hempel, Jasmin|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen C|08:04|2000|DEU
+6|5|1293|Jenak, Deborah|TV 1848 Bischofswerda|1,8 km|Schülerinnen C|08:05|2001|DEU
+7|2|1076|Kießlich, Elisa|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen D|08:06|2002|DEU
+8|3|1065|Graff, Anna|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen D|08:06|2002|DEU
+9|6|1183|Höntschel, Paula|Triathlon Verein Valtenberg|1,8 km|Schülerinnen C|08:12|2001|DEU
+10|7|1263|Thomas, Nadine|Bautzen|1,8 km|Schülerinnen C|08:14|2000|DEU
+11|8|1013|Mehnert, Anabelle|MSV Bautzen 04|1,8 km|Schülerinnen C|08:22|2001|DEU
+12|9|1102|Vogel, Luisa-Marie|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen C|08:25|2000|DEU
+13|1|1139|Kalauch, Franziska|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Volkssport weiblich|08:26|1997|DEU
+14|1|1229|Gärtner, Julia|SG Bautzen Nord|1,8 km|Mädchen bis 7|08:29|2004|DEU
+15|4|1360|Süß, Ronja|Familie Süß|1,8 km|Schülerinnen D|08:37|2002|DEU
+16|2|1136|Hofer, Felizitas|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Volkssport weiblich|08:43|1999|DEU
+17|5|1315|Fiedler, Pauline|Europamarathon Görlitz - Zgorzelec|1,8 km|Schülerinnen D|08:46|2002|DEU
+18|10|1176|Walter, Marie|Triathlon Verein Valtenberg|1,8 km|Schülerinnen C|08:51|2000|DEU
+19|6|1282|Mirtschink, Larissa|SV 1922 Radibor|1,8 km|Schülerinnen D|08:55|2003|DEU
+20|7|1068|Triebel, Marie-Luise|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen D|09:02|2002|DEU
+21|8|1252|Lehmann, Merlinde|Bautzen|1,8 km|Schülerinnen D|09:03|2003|DEU
+22|9|1240|Mickan, Luise|OL-Biathlon-Verein Ringenhain|1,8 km|Schülerinnen D|09:06|2003|DEU
+
+23|11|1111|Tischler, Isabelle|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen C|09:07|2000|DEU
+24|12|1184|Höntschel, Kora|Triathlon Verein Valtenberg|1,8 km|Schülerinnen C|09:12|2001|DEU
+25|13|1110|Wagner, Lisa|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen C|09:12|2000|DEU
+26|10|1231|Strosny, Elisa|Dr.-Gregor-Mättig-GS Bautzen|1,8 km|Schülerinnen D|09:19|2002|DEU
+27|14|1114|Schäfer, Jasmin|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen C|09:27|2000|DEU
+28|3|1141|Freund, Madlen|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Volkssport weiblich|09:28|1997|DEU
+29|2|1028|Lebelt, Klara-Huldine|GS Friedrich Schiller Cunewalde|1,8 km|Mädchen bis 7|09:32|2005|DEU
+30|11|1296|Hadamus, Thea|TV 1848 Bischofswerda|1,8 km|Schülerinnen D|09:35|2003|DEU
+31|15|1243|Israel, Berta|OL-Biathlon-Verein Ringenhain|1,8 km|Schülerinnen C|09:39|2000|DEU
+32|16|1101|Hermann, Nicole|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen C|09:52|2001|DEU
+33|4|1133|Hackel, Jaqueline|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Volkssport weiblich|09:54|1999|DEU
+34|5|1138|Krujatz, Marlen|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Volkssport weiblich|09:55|1998|DEU
+35|12|1045|Petrick, Sindy|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen D|09:55|2003|DEU
+36|6|1135|Hentschel, Maria|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Volkssport weiblich|09:57|1999|DEU
+37|3|1039|Fischer, Virginie|GS Friedrich Schiller Cunewalde|1,8 km|Mädchen bis 7|10:00|2004|DEU
+38|13|1058|Becker, Mia|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen D|10:03|2003|DEU
+39|14|1059|Sacher, Alina|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen D|10:05|2003|DEU
+40|15|1047|Kocksch, Amelie|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen D|10:06|2003|DEU
+41|7|1140|Thomas, Cornelia|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Volkssport weiblich|10:12|1997|DEU
+42|8|1142|Heinke, Johanna|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Volkssport weiblich|10:12|1998|DEU
+43|17|1246|Räpke, Maria|OL-Biathlon-Verein Ringenhain|1,8 km|Schülerinnen C|10:15|2001|DEU
+44|18|1088|Hübner, Sunny|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen C|10:35|2001|DEU
+45|16|1084|Hübner, Sophie|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen D|10:42|2002|DEU
+46|4|1038|Fischer, Michelle|GS Friedrich Schiller Cunewalde|1,8 km|Mädchen bis 7|10:56|2004|DEU
+47|5|1041|Bachmann, Angelina|GS Friedrich Schiller Cunewalde|1,8 km|Mädchen bis 7|10:59|2004|DEU
+48|6|1339|Tischler, Rebecca|Cunewalde|1,8 km|Mädchen bis 7|11:02|2004|DEU
+49|9|1131|Mehnert, Anne|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Volkssport weiblich|11:11|1999|DEU
+50|19|1126|Laubsch, Vanessa|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Schülerinnen C|11:13|2000|DEU
+51|17|1069|Maleskat, Lisa|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen D|11:23|2002|DEU
+52|18|1067|Hein, Jasmin|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen D|11:24|2002|DEU
+53|20|1105|Mittag, Susann|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen C|11:24|2000|DEU
+54|21|1085|Dingfeld, Emilia|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen C|11:24|2001|DEU
+55|19|1046|Krujatz, Theresa|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen D|11:36|2003|DEU
+56|20|1049|Petzold, Marieke|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen D|11:40|2003|DEU
+57|21|1081|Neumann, Alexa|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen D|11:41|2002|DEU
+58|22|1079|Haufe, Luisa|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen D|11:43|2002|DEU
+59|22|1127|Liebich, Alexandra|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Schülerinnen C|11:44|2000|DEU
+60|7|1042|Mehnert, Chantal|GS Friedrich Schiller Cunewalde|1,8 km|Mädchen bis 7|11:51|2004|DEU
+61|10|1137|Kunze, Johanna|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Volkssport weiblich|11:54|1998|DEU
+62|11|1134|Krusche, Elke|MS Wilhelm-von-Polenz Cunewalde|1,8 km|Volkssport weiblich|11:56|1999|DEU
+63|23|1051|Kriegel, Maria|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen D|12:03|2003|DEU
+64|24|1066|Jeschke, Isabel|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen D|13:06|2002|DEU
+65|8|1168|Graff, Sarah|Wurbis|1,8 km|Mädchen bis 7|13:06|2006|DEU
+66|25|1055|Mittag, Julia|GS Friedrich Schiller Cunewalde|1,8 km|Schülerinnen D|13:07|2003|DEU
+67|9|1320|Gärtner, Elisa|SG Bautzen Nord|1,8 km|Mädchen bis 7|13:08|2007|DEU
+68|10|1253|Lehmann, Hermine|Bautzen|1,8 km|Mädchen bis 7|13:14|2006|DEU
+69|11|1032|Wogawa, Carolin|GS Friedrich Schiller Cunewalde|1,8 km|Mädchen bis 7|13:35|2004|DEU
+70|12|1169|Graff, Lisa|Wurbis|1,8 km|Mädchen bis 7|13:53|2007|DEU
+1|1|3327|Ueberfuhr, Marc|SV 'Grün-Weiß' Elstra|3,5 km|m. Jugend B|12:33|1995|DEU
+2|2|3319|Carda, Georg|HSV 1923 Pulsnitz|3,5 km|m. Jugend B|12:43|1994|DEU
+3|1|3179|Locke, Leonard|BLV 'Rot-Weiß 90'|3,5 km|Schüler A|12:47|1996|DEU
+4|1|3372|Kumpe, Clemens|Philipp Melanchthon Gymn. Bautzen|3,5 km|Volkssport männlich|12:56|1993|DEU
+5|2|3281|Mirtschink, Max|SV 1922 Radibor|3,5 km|Schüler A|13:36|1996|DEU
+6|2|3217|Jankowsky, Lysander|Philipp Melanchthon Gymn. Bautzen|3,5 km|Volkssport männlich|13:37|1993|DEU
+7|3|3212|Linke, Claus|Olbersdorf|3,5 km|Volkssport männlich|14:25|1959|DEU
+8|3|3316|Kruppas, Paul|Europamarathon Görlitz - Zgorzelec|3,5 km|Schüler A|14:28|1997|DEU
+9|4|3164|Gladasch, Philip|MS Wilhelm-von-Polenz Cunewalde|3,5 km|Schüler A|14:33|1996|DEU
+10|1|3155|Nixdorf, Toni|MS Wilhelm-von-Polenz Cunewalde|3,5 km|Schüler B|15:31|1999|DEU
+11|1|3205|Melzer, Rüdiger|Radclub 1898 Radeberg|3,5 km|Männer 70-74|15:34|1940|DEU
+12|2|3162|Förster, Tom|MS Wilhelm-von-Polenz Cunewalde|3,5 km|Schüler B|15:36|1998|DEU
+13|3|3289|Hädicke, Robby|OL-Biathlon-Verein Ringenhain|3,5 km|Schüler B|15:42|1999|DEU
+14|1|3221|Stolze, Peter|Bautzen|3,5 km|Männer 65-69|15:46|1943|DEU
+15|4|3244|Mann, Viko|OL-Biathlon-Verein Ringenhain|3,5 km|Schüler B|15:54|1999|DEU
+16|5|3159|Männl, Mattis|MS Wilhelm-von-Polenz Cunewalde|3,5 km|Schüler B|16:45|1999|DEU
+17|5|3163|Huml, Dominik|MS Wilhelm-von-Polenz Cunewalde|3,5 km|Schüler A|16:50|1997|DEU
+18|2|3349|Schütze, Dieter|Pirna|3,5 km|Männer 70-74|17:35|1940|DEU
+19|2|3276|Pakoßnick, Gernot|FSG Bautzen|3,5 km|Männer 65-69|17:43|1942|DEU
+20|6|3317|Fiedler, Florian|Europamarathon Görlitz - Zgorzelec|3,5 km|Schüler B|17:51|1998|DEU
+21|1|3010|Willweber, Siegfried|Oberlausitzer SC Löbau|3,5 km|Männer 75-79|18:05|1936|DEU
+22|7|3160|Das Gupta, Adrian|MS Wilhelm-von-Polenz Cunewalde|3,5 km|Schüler B|19:36|1998|DEU
+23|8|3157|Mauritz, Philipp|MS Wilhelm-von-Polenz Cunewalde|3,5 km|Schüler B|21:02|1998|DEU
+24|3|3004|Schindler, Hartmut|Oberlausitzer SC Löbau|3,5 km|Männer 65-69|21:15|1945|DEU
+25|2|3171|Nuck, Georg|BLV 'Rot-Weiß 90'|3,5 km|Männer 75-79|22:34|1934|DEU
+26|3|3219|Wolf, Siegfried|MSV Blau-Weiß Kreckwitz|3,5 km|Männer 70-74|25:31|1939|DEU
+1|1|3180|Reichwald, Lilli-Marlen|BLV 'Rot-Weiß 90'|3,5 km|Schülerinnen A|13:31|1997|DEU
+2|1|3182|Noack, Celine|BLV 'Rot-Weiß 90'|3,5 km|Schülerinnen B|14:32|1998|DEU
+3|2|3187|Vogt, Johanna|OL-Biathlon-Verein Ringenhain|3,5 km|Schülerinnen B|15:06|1999|DEU
+4|2|3300|Schneider, Laura|TV 1848 Bischofswerda|3,5 km|Schülerinnen A|16:14|1997|DEU
+5|1|3235|Reck, Melinda|Cunewalde|3,5 km|w. Jugend B|16:26|1994|DEU
+6|3|3242|Poike, Tamina|OL-Biathlon-Verein Ringenhain|3,5 km|Schülerinnen B|16:26|1999|DEU
+7|3|3237|Löpelt, Sarah|TV 1848 Bischofswerda|3,5 km|Schülerinnen A|16:30|1996|DEU
+8|4|3213|Nadolny, Emma|TV 1848 Bischofswerda|3,5 km|Schülerinnen B|16:30|1998|DEU
+9|4|3322|Eisold, Sarah|HSV 1923 Pulsnitz|3,5 km|Schülerinnen A|16:42|1997|DEU
+10|2|3233|Volkmann, Lisa|TV 1848 Bischofswerda|3,5 km|w. Jugend B|16:44|1995|DEU
+11|3|3195|Liebstein, Juliane|Steinigtwolmsdorf|3,5 km|w. Jugend B|16:50|1994|DEU
+12|1|3301|Ehren, Manuela|Oberlausitzer SC Löbau|3,5 km|Volkssport weiblich|16:50|1975|DEU
+13|2|3347|Hubrich, Ute|Neustadt|3,5 km|Volkssport weiblich|17:12|1957|DEU
+14|4|3238|Löpelt, Laura|TV 1848 Bischofswerda|3,5 km|w. Jugend B|17:21|1995|DEU
+15|1|3265|Pötschke, Kristina|TV 1848 Bischofswerda|3,5 km|Frauen 60-64|17:52|1951|DEU
+16|3|3249|Tralles, Carmen|TV 1848 Bischofswerda|3,5 km|Volkssport weiblich|17:52|1964|DEU
+17|4|3269|Nowak, Sophie|Cunewalde|3,5 km|Volkssport weiblich|17:57|1969|DEU
+18|5|3236|Löpelt, Ines|Frankenthal|3,5 km|Volkssport weiblich|18:43|1971|DEU
+19|6|3309|Dießner, Madeleine|Cunewalde|3,5 km|Volkssport weiblich|18:51|1976|DEU
+20|7|3374|Gappel, Petra|Soculahora|3,5 km|Volkssport weiblich|19:07|1970|DEU
+21|5|3241|Mickan, Jasmin|OL-Biathlon-Verein Ringenhain|3,5 km|Schülerinnen B|19:08|1998|DEU
+22|8|3361|Palme, Katrin|Running Team Süßmann|3,5 km|Volkssport weiblich|19:30|1987|DEU
+23|9|3220|Solbrig, Heike|SV Eintracht Frankfurt|3,5 km|Volkssport weiblich|19:59|1976|DEU
+24|5|3154|Hempel, Linda|MS Wilhelm-von-Polenz Cunewalde|3,5 km|Schülerinnen A|20:10|1996|DEU
+25|6|3373|Gappel, Resi|Soculahora|3,5 km|Schülerinnen B|21:01|1998|DEU
+26|6|3152|Thiel, Luisa|MS Wilhelm-von-Polenz Cunewalde|3,5 km|Schülerinnen A|21:43|1997|DEU
+
+27|10|3264|Thomas, Nicolle|Bautzen|3,5 km|Volkssport weiblich|21:55|1975|DEU
+28|11|3201|Woithe, Gabriele|Oberlausitzer SC Löbau|3,5 km|Volkssport weiblich|22:45|1963|DEU
+29|7|3151|Junker, Anna-Maria|MS Wilhelm-von-Polenz Cunewalde|3,5 km|Schülerinnen B|23:13|1998|DEU
+30|1|3270|Rasch, Gerlinde|Bautzen|3,5 km|Frauen 65-69|24:08|1944|DEU
+31|8|3150|Matthes, Belinda|MS Wilhelm-von-Polenz Cunewalde|3,5 km|Schülerinnen B|24:15|1999|DEU
+32|7|3153|Hauf, Lisa|MS Wilhelm-von-Polenz Cunewalde|3,5 km|Schülerinnen A|26:01|1996|DEU
+33|2|3267|Helm, Hella|Königswarthaer SV 1990|3,5 km|Frauen 65-69|26:51|1946|DEU
+1|1|9284|Mirtschink, Corinna|SV 1922 Radibor|3,5 km Walking|Frauen|27:02|1965|DEU
+1|1|8192|Giese, Marcus|Triathlon Verein Valtenberg|8,4 km|Männer 20-29|32:02|1986|DEU
+2|1|8247|Müller, Dietmar|LG Asics Pirna|8,4 km|Männer 55-59|32:45|1956|DEU
+3|1|8346|Hänsch, Uwe|OSC Löbau|8,4 km|Männer 45-49|32:56|1965|DEU
+4|1|8324|Eisold, Jens|HSV 1923 Pulsnitz|8,4 km|Männer 40-44|33:11|1971|DEU
+5|1|8206|Melzer, Jonas|Radclub 1898 Radeberg|8,4 km|m. Jugend A|33:50|1992|DEU
+6|2|8196|Masur, Marco|Kopfjaeger-Sports Bautzen|8,4 km|Männer 20-29|34:11|1982|DEU
+7|1|8178|Walter, Mike|Triathlon Verein Valtenberg|8,4 km|Männer 35-39|35:08|1973|DEU
+8|2|8366|Schade, Silvio|BLV 'Rot-Weiß 90'|8,4 km|Männer 40-44|35:44|1969|DEU
+9|2|8216|Süßmann, René|Running Team Süßmann|8,4 km|Männer 35-39|35:48|1973|DEU
+10|1|8275|Wilde, Andreas|Triathlon Verein Valtenberg|8,4 km|Männer 50-54|36:00|1958|DEU
+11|2|8209|Ulrich, Kai-Uwe|Dresden|8,4 km|Männer 45-49|36:02|1966|DEU
+12|3|8239|Schmidt, Steffen|Europamarathon Görlitz - Zgorzelec|8,4 km|Männer 35-39|36:05|1972|DEU
+13|3|8208|Liebich, Philipp|Crostau|8,4 km|Männer 20-29|36:07|1990|DEU
+14|3|8027|Lehmann, Heiko|Singwitz|8,4 km|Männer 45-49|36:10|1965|DEU
+15|4|8350|Haupt, Andreas|Kopfjaeger-Sports|8,4 km|Männer 35-39|36:29|1974|DEU
+16|4|8352|Kuschicke, Jens|Löbau|8,4 km|Männer 45-49|36:29|1964|DEU
+17|5|8259|Hantschick, Ricardo|Großdubrau|8,4 km|Männer 35-39|36:32|1973|DEU
+18|1|8338|Krämer, Andreas|Kopfjaeger-Sports Bautzen|8,4 km|Männer 30-34|36:33|1981|DEU
+19|4|8305|Rußig, Jonathan|Triathlon Verein Valtenberg|8,4 km|Männer 20-29|36:44|1986|DEU
+20|5|8186|Waldmann, Steffen|BLV 'Rot-Weiß 90'|8,4 km|Männer 45-49|36:49|1962|DEU
+21|2|8202|Papritz, Sven|Running Team Süßmann|8,4 km|Männer 30-34|36:59|1979|DEU
+22|3|8376|Schöne, Andre|OL-Team Wehrsdorf|8,4 km|Männer 30-34|37:08|1978|DEU
+23|2|8199|Petzold, Reinhard|BLV 'Rot-Weiß 90'|8,4 km|Männer 55-59|37:09|1952|DEU
+24|6|8175|Päsler, Jörk|Die Zittauer flotten Karotten|8,4 km|Männer 45-49|37:14|1962|DEU
+25|3|8173|Fiebag, Marco|Biketeam Oberlausitz|8,4 km|Männer 40-44|37:22|1970|DEU
+26|7|8287|Ehren, Karsten|Oberlausitzer SC Löbau|8,4 km|Männer 45-49|37:31|1962|DEU
+27|4|8341|Pech, Steffen|Schiller-Gymnasium Bautzen|8,4 km|Männer 40-44|37:52|1968|DEU
+28|3|8017|Kubitz, Friedbert|Oberlausitzer SC Löbau|8,4 km|Männer 55-59|38:10|1955|DEU
+29|5|8198|Rösler, Max|Turn- u. SV Großschönau|8,4 km|Männer 20-29|38:19|1991|DEU
+30|2|8329|Dix, Helmut|Oppach|8,4 km|Männer 50-54|38:28|1961|DEU
+31|6|8303|Goltsch, Heiko|Biketeam-Oberlausitz Taubenheim|8,4 km|Männer 35-39|38:36|1975|DEU
+32|7|8367|Jannasch, Lars|BLV 'Rot-Weiß 90'|8,4 km|Männer 35-39|38:38|1972|DEU
+33|4|8354|Krause, Remo|Karate Do Eibau|8,4 km|Männer 30-34|38:42|1977|DEU
+34|2|8280|Vogt, Dominik|Ski & Bike Team Schirgiswalde|8,4 km|m. Jugend A|39:00|1992|DEU
+35|8|8279|Muschinski, Steffen|Doberschau|8,4 km|Männer 35-39|39:05|1973|DEU
+36|6|8325|Matthes, Stefan|Oppach|8,4 km|Männer 20-29|39:18|1987|DEU
+37|7|8369|Tralles, Robert|TV 1848 Bischofswerda|8,4 km|Männer 20-29|39:25|1990|DEU
+38|5|8359|Süß, Kai-Uwe|Familie Süß|8,4 km|Männer 40-44|39:28|1969|DEU
+39|6|8286|Wolf, Michael|Helaswölfe Bautzen|8,4 km|Männer 40-44|39:38|1970|DEU
+40|7|8011|Wedlich, Stefan|OL-Team Wehrsdorf|8,4 km|Männer 40-44|39:41|1971|DEU
+41|8|8193|Herkner, Norbert|RSV Bautzen|8,4 km|Männer 20-29|39:47|1991|DEU
+42|3|8118|Meyer, Philipp|Philipp Melanchthon Gymn. Bautzen|8,4 km|m. Jugend A|39:55|1993|DEU
+43|4|8345|Petzold, Frank|OSC Löbau|8,4 km|Männer 55-59|40:04|1953|DEU
+44|9|8207|Scholz, Marko|Malschwitz|8,4 km|Männer 35-39|40:15|1975|DEU
+45|1|8016|Strosny, Wolfgang|BLV 'Rot-Weiß 90'|8,4 km|Männer 60-64|40:25|1951|DEU
+46|9|8333|Katzer, Ronny|SG Motor Cunewalde|8,4 km|Männer 20-29|40:36|1985|DEU
+47|4|8344|Hentschel, Tommy|FC Oberlausitz Neugersdorf|8,4 km|m. Jugend A|40:41|1993|DEU
+48|3|8228|Haak, Uwe|Bautzen|8,4 km|Männer 50-54|40:48|1959|DEU
+49|5|8337|Gleisenberg, Marcel|Running Team Süßmann|8,4 km|Männer 30-34|40:49|1981|DEU
+50|10|8214|Besold, Sandro|Wilthen Eiscafé Besold|8,4 km|Männer 20-29|40:52|1988|DEU
+51|8|8250|Böhmak, Andreas|Bautzen|8,4 km|Männer 45-49|40:52|1964|DEU
+52|9|8307|Supke, Roland|Die Überbrücker Görlitz|8,4 km|Männer 45-49|41:01|1964|DEU
+53|10|8119|Wenzel, Steffen|Hoyerswerdaer SV 1919|8,4 km|Männer 45-49|41:06|1962|DEU
+54|11|8019|Walther, Jörg|Bautzen|8,4 km|Männer 45-49|41:13|1965|DEU
+55|4|8357|Hofmann, Karsten|SV Burkau|8,4 km|Männer 50-54|41:44|1961|DEU
+56|5|8290|Hädicke, Rüdiger|Neukirch Lausitz|8,4 km|Männer 50-54|41:53|1961|DEU
+57|8|8018|Drabant, Mario|HSV 1923 Pulsnitz|8,4 km|Männer 40-44|41:55|1969|DEU
+58|6|8261|Buckwitz, Frank|Team Pinki & Brain|8,4 km|Männer 30-34|42:00|1981|DEU
+59|7|8203|Link, Stefan|AWO Bautzen|8,4 km|Männer 30-34|42:06|1977|DEU
+60|12|8001|Mroß, Axel|BLV 'Rot-Weiß 90'|8,4 km|Männer 45-49|42:19|1966|DEU
+61|13|8272|Pietsch, Jürgen|Bautzen|8,4 km|Männer 45-49|42:28|1963|DEU
+62|9|8358|Zimmermann, Tino|Lauffreunde Obercunnersdorf|8,4 km|Männer 40-44|42:35|1971|DEU
+63|10|8266|Schneider, Jan|Grubschütz|8,4 km|Männer 35-39|42:44|1973|DEU
+64|14|8174|Nitsche, Steffen|TSV 90 Neukirch|8,4 km|Männer 45-49|43:02|1964|DEU
+65|11|8277|Kellermann, René|Team Magno Cursu|8,4 km|Männer 35-39|43:18|1974|DEU
+66|10|8274|Schuster, Kai|Butter - 'Bergschnecken' Bischofswerda|8,4 km|Männer 40-44|43:27|1971|DEU
+67|11|8365|Petasch, Eric|Großdubrau|8,4 km|Männer 20-29|43:36|1982|DEU
+68|5|8190|Gräfe, Klaus|LG Deutschbaselitz|8,4 km|Männer 55-59|43:36|1956|DEU
+69|11|8230|Buskies, Sören|Bautzen|8,4 km|Männer 40-44|44:06|1969|DEU
+70|6|8255|Heintze, Wolfram|Kamenz|8,4 km|Männer 50-54|44:18|1959|DEU
+71|8|8310|Lehmann, Frank|Inge Allstars|8,4 km|Männer 30-34|44:26|1981|DEU
+72|12|8222|Schneider, Heiko|Bautzen|8,4 km|Männer 40-44|44:42|1970|DEU
+73|12|8370|Noack, Martin|Bautzen|8,4 km|Männer 20-29|44:47|1989|DEU
+74|6|8330|Scheibe, Siegfried|VfB Hellerau-Klotzsche|8,4 km|Männer 55-59|45:27|1955|DEU
+75|13|8257|Flack, Mario|Demitz-Thumitz|8,4 km|Männer 20-29|45:41|1985|DEU
+76|13|8254|Thamm, Jörg|Team Magno Cursu|8,4 km|Männer 40-44|45:46|1971|DEU
+77|5|8165|Hofer, Felix|MS Wilhelm-von-Polenz Cunewalde|8,4 km|m. Jugend A|45:46|1992|DEU
+78|7|8223|Arnold, Dieter|TV 1848 Bischofswerda|8,4 km|Männer 55-59|46:06|1955|DEU
+79|14|8172|Grune, Volker|SV Gaußig|8,4 km|Männer 40-44|46:10|1968|DEU
+80|14|8356|Krause, Danilo|Dresdner SC|8,4 km|Männer 20-29|46:11|1989|DEU
+81|15|8299|Zumpe, Thomas|TV 1848 Bischofswerda|8,4 km|Männer 45-49|46:19|1962|DEU
+82|6|8304|Rysavy, Michal|Jirikov|8,4 km|m. Jugend A|46:24|1993|CZE
+83|9|8353|Fischer, Heiko|Löbau|8,4 km|Männer 30-34|46:24|1979|DEU
+84|8|8023|Lau, Christian|Pulsnitz|8,4 km|Männer 55-59|46:35|1952|DEU
+85|10|8362|Seidel, René|Running Team Süßmann|8,4 km|Männer 30-34|46:39|1981|DEU
+86|15|8313|Jäckel, Sven|Pulsnitz|8,4 km|Männer 40-44|46:54|1967|DEU
+87|12|8335|Trebesius, Jan|Bautzen|8,4 km|Männer 35-39|46:54|1976|DEU
+88|16|8005|Hauptvogel, Olaf|SG Lokomotive Hainsberg|8,4 km|Männer 45-49|47:08|1964|DEU
+89|7|8336|Berg, Uwe|BLV 'Rot-Weiß 90'|8,4 km|Männer 50-54|47:20|1961|DEU
+90|16|8302|Paul, Tino|Seifhennersdorf|8,4 km|Männer 40-44|47:36|1968|DEU
+91|17|8185|Wolff, André|LG Wartturm Niesky|8,4 km|Männer 45-49|47:37|1966|DEU
+92|17|8170|Mai, Olaf|Berglaufteam Sornßig|8,4 km|Männer 40-44|47:39|1971|DEU
+
+93|8|8278|Lahn, Dietmar|Athletik-Club Sohland 1950|8,4 km|Männer 50-54|48:47|1960|DEU
+94|18|8318|Fiedler, Jörg|Europamarathon Görlitz - Zgorzelec|8,4 km|Männer 40-44|48:59|1971|DEU
+95|13|8306|Obst, Mathias|Bautzen|8,4 km|Männer 35-39|49:12|1974|DEU
+96|7|8377|Petermann, Rolf|MSV Bautzen|8,4 km|m. Jugend A|49:51|1992|DEU
+97|9|8003|Reinhold, Herbert|LG Wartturm Niesky|8,4 km|Männer 55-59|49:52|1954|DEU
+98|9|8225|Wähner, Frank|SG Wiesa|8,4 km|Männer 50-54|50:46|1957|DEU
+99|1|8271|Rasch, Dieter|Bautzen|8,4 km|Volkssport männlich|51:39|1942|DEU
+100|10|8332|Casper, Wolfgang|Semmichau|8,4 km|Männer 55-59|52:27|1953|DEU
+101|19|8025|Dix, Harald|Dresden|8,4 km|Männer 40-44|54:16|1970|DEU
+102|10|8210|Buchs, Eberhard|Dresden|8,4 km|Männer 50-54|56:34|1958|DEU
+103|20|8167|Graff, Mario|RSV Bautzen|8,4 km|Männer 40-44|1:03:40|1971|DEU
+104|15|8371|Kroschke, Siegfried|PSC Bautzen|8,4 km|Männer 20-29|1:04:53|1988|DEU
+1|1|8204|Kranich, Franziska|SV Koweg Görlitz|8,4 km|Frauen 20-29|38:51|1984|DEU
+2|1|8166|Schkoda, Maria|SG Crostwitz  1981|8,4 km|Frauen 30-34|39:15|1981|DEU
+3|1|8342|Tanzmann, Kathrin|MS Wilhelm-von-Polenz Cunewalde|8,4 km|Frauen 40-44|39:16|1969|DEU
+4|1|8375|Töpfer, Regine|TSV Großschönau|8,4 km|Frauen 50-54|41:42|1958|DEU
+5|1|8323|Eisold, Andrea|HSV 1923 Pulsnitz|8,4 km|Frauen 35-39|42:06|1972|DEU
+6|2|8268|Hofmann, Katrin|TSV Dresden|8,4 km|Frauen 40-44|43:42|1967|DEU
+7|2|8351|Starl, Tanja|SC Liezen Triathlon|8,4 km|Frauen 30-34|43:57|1978|AUT
+8|2|8012|Mehnert, Katrin|BLV 'Rot-Weiß 90'|8,4 km|Frauen 35-39|44:31|1973|DEU
+9|2|8331|Altmann, Martina|Dippoldiswalde|8,4 km|Frauen 50-54|44:32|1961|DEU
+10|3|8227|Haak, Ramona|Bautzen|8,4 km|Frauen 50-54|45:59|1960|DEU
+11|4|8248|Müller, Marlies|LG Asics Pirna|8,4 km|Frauen 50-54|46:22|1957|DEU
+12|2|8343|Marx, Sandra|HSG Turbine Zittau|8,4 km|Frauen 20-29|46:28|1988|DEU
+13|3|8273|Schuster, Kathleen|Butter - 'Bergschnecken' Bischofswerda|8,4 km|Frauen 35-39|46:46|1975|DEU
+14|1|8283|Palfi, Edelgard|Citylauf-Verein Dresden|8,4 km|Frauen 55-59|47:26|1952|DEU
+15|3|8363|Liehr, Henriette|Radsportverein Bautzen|8,4 km|Frauen 30-34|47:33|1979|DEU
+16|3|8189|Vogt, Anja|OL-Biathlon-Verein Ringenhain|8,4 km|Frauen 40-44|49:04|1969|DEU
+17|2|8009|Vogel, Sigrid|SV Fortschritt Pirna|8,4 km|Frauen 55-59|49:34|1954|DEU
+18|3|8311|Rudolph, Sandra|Bertsdorf|8,4 km|Frauen 20-29|49:52|1982|DEU
+19|4|8355|Hoffmann, Katharina|SV Post Germania Bautzen|8,4 km|Frauen 20-29|50:43|1982|DEU
+20|4|8364|Lehmann, Ines|Bautzen|8,4 km|Frauen 30-34|51:27|1981|DEU
+21|4|8326|Ueberfuhr, Silvia|Kamenz|8,4 km|Frauen 40-44|51:43|1970|DEU
+22|5|8224|Hentschel, Franziska|Franz Run Team|8,4 km|Frauen 30-34|53:12|1979|DEU
+23|1|8291|Hädicke, Bärbel|Neukirch Lausitz|8,4 km|Frauen 45-49|53:41|1964|DEU
+24|6|8340|Weickert, Diana|Viewfinder RB|8,4 km|Frauen 30-34|55:38|1978|DEU
+25|5|8211|Buchs, Christine|Dresden|8,4 km|Frauen 50-54|56:34|1959|DEU
+26|5|8194|Thomas, Annett|Triathlon Verein Valtenberg|8,4 km|Frauen 40-44|57:57|1968|DEU
+27|5|8262|Bergmann, Janette|Team Pinki & Brain|8,4 km|Frauen 20-29|58:19|1982|DEU
+28|2|8191|Persicke, Birgit|Großschönau|8,4 km|Frauen 45-49|59:38|1962|DEU

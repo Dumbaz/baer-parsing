@@ -1,0 +1,446 @@
+To.|Ak.|Stnr.|Name, Vorname|Verein|Strecke|AK|Bruttozeit||Nat
+
+1|1|4231|Harzbecker, Daniel|Personal Trainer Harzbecker|10km Lauf |Männer 30-34|0:35:29|1982|DEU
+2|1|4013|Friedrich, Marco|Bautzen|10km Lauf |Männer 35-39|0:36:01|1977|DEU
+3|1|4136|Thomas, Alexander|Hoyerswerda|10km Lauf |Männer 20-29|0:37:29|1987|DEU
+4|1|4312|Ueberfuhr, Marc|SV Grün-Weiß Elstra|10km Lauf |männliche Jugend U18|0:37:36|1995|DEU
+5|2|4159|Hansen, Björn|Jena|10km Lauf |Männer 20-29|0:38:06|1987|DEU
+6|3|4267|Scholze, Benno|SG Crostwitz|10km Lauf |Männer 20-29|0:38:08|1984|DEU
+7|1|4287|Kowalsky, Andre|Skiverein Großdubrau|10km Lauf |Männer 45-49|0:38:15|1967|DEU
+8|1|4152|Eisold, Jens|HSV 1923 Pulsnitz|10km Lauf |Männer 40-44|0:38:46|1971|DEU
+9|2|4199|Weickert, Jens|LSV Niesky|10km Lauf |Männer 35-39|0:39:24|1976|DEU
+10|2|4251|Gleisenberg, Marcel|Running Team Süßmann|10km Lauf |Männer 30-34|0:39:29|1981|DEU
+11|3|4240|Kögler, Peter|RAG Sport & Wettkampf|10km Lauf |Männer 30-34|0:39:54|1982|DEU
+12|1|4463|Petzold, Reinhard|Bautzener LV|10km Lauf |Männer 60-64|0:40:09|1952|DEU
+13|1|4073|Päsler, Jörk|Die Zittauer flotten Karotten|10km Lauf |Männer 50-54|0:40:10|1962|DEU
+14|2|4380|Schmidt, Steffen|SV Aufbau Kodersdorf|10km Lauf |Männer 40-44|0:40:14|1972|DEU
+15|2|4484|Ulrich, Kai Uwe|Dresden|10km Lauf |Männer 45-49|0:40:26|1966|DEU
+16|2|4147|Kamolz, Anton|HSV 1923 Pulsnitz|10km Lauf |männliche Jugend U18|0:40:36|1996|DEU
+17|2|4450|Späthe, Wolfgang|OSC Löbau|10km Lauf |Männer 50-54|0:40:40|1961|DEU
+18|4|4452|Hammer, Bernd|Rammenau|10km Lauf |Männer 30-34|0:40:53|1980|DEU
+19|4|4352|Rußig, Jonathan|TV Valtenberg|10km Lauf |Männer 20-29|0:40:53|1986|DEU
+20|3|4476|Walther, Jörg|Bautzen|10km Lauf |Männer 45-49|0:40:55|1965|DEU
+21|3|4299|Mirtschink, Max|SV 1922 Radibor|10km Lauf |männliche Jugend U18|0:41:09|1996|DEU
+22|5|4164|Böhme, Björn|Kesselsdorf|10km Lauf |Männer 30-34|0:41:25|1980|DEU
+23|3|4327|Byhahn, Heiko|Team Hit Bike|10km Lauf |Männer 35-39|0:41:36|1976|DEU
+24|6|4249|Kreußler, Thomas|Running Team Herzberg/Elster|10km Lauf |Männer 30-34|0:41:55|1979|DEU
+25|4|4148|Wähner, Martin|HSV 1923 Pulsnitz|10km Lauf |männliche Jugend U18|0:42:32|1995|DEU
+26|7|4465|Naumann, Jörn|SV Horkau Kittlitz|10km Lauf |Männer 30-34|0:42:39|1978|DEU
+27|5|4496|Pohl, Daniel|FC Melaune|10km Lauf |Männer 20-29|0:42:39|1989|DEU
+28|1|4123|Meyer, Philipp|FSV Budissa Bautzen|10km Lauf |männliche Jugend U20|0:42:44|1993|DEU
+29|6|4499|Rogalla, Falco|Groß Neida|10km Lauf |Männer 20-29|0:42:45|1987|DEU
+30|8|4486|Paul, René|Butter- ' Bergschnecken' Bischofswerda|10km Lauf |Männer 30-34|0:42:49|1982|DEU
+31|7|4466|Lubsch, Robert|Lömischau|10km Lauf |Männer 20-29|0:43:07|1990|DEU
+32|3|4481|Halla, René|Lauftreff Lausitz e.V.|10km Lauf |Männer 40-44|0:43:11|1970|DEU
+33|4|4301|Böhmak, Andreas|SV Bautzen|10km Lauf |Männer 45-49|0:43:14|1964|DEU
+34|5|4235|Sachse, Lutz|Pulsnitz|10km Lauf |Männer 45-49|0:43:16|1965|DEU
+35|4|4453|Ullrich, Sebastian|Pulsschlag Erzgebirge|10km Lauf |Männer 35-39|0:43:36|1973|DEU
+36|1|4439|Werrmann, Günter|LSV Pirna|10km Lauf |Männer 70-74|0:43:43|1938|DEU
+37|6|4480|Glös, Michael|Burgstädt|10km Lauf |Männer 45-49|0:43:49|1965|DEU
+38|7|4365|Grüner, Bodo|Wehrsdorf|10km Lauf |Männer 45-49|0:44:06|1966|DEU
+39|5|4110|Schütte, Marco|Familie Schütte|10km Lauf |Männer 35-39|0:44:13|1975|DEU
+40|2|4483|Melzer, Rüdiger|RC 1898 Radeberg|10km Lauf |Männer 70-74|0:44:40|1940|DEU
+41|8|4247|Herkner, Norbert|RSV Bautzen|10km Lauf |Männer 20-29|0:44:41|1991|DEU
+42|2|4242|Fernbach, Jörg|RC 1898 Radeberg|10km Lauf |Männer 60-64|0:44:47|1950|DEU
+43|6|4332|Kellermann, René|Team Magno Cursu|10km Lauf |Männer 35-39|0:44:58|1974|DEU
+44|3|4475|Kaiser, Jörg|Entenhausen|10km Lauf |Männer 50-54|0:45:08|1960|DEU
+45|4|4223|Hädicke, Rüdiger|Oberlausitzer Biathlonverein Ringenhain|10km Lauf |Männer 50-54|0:45:14|1961|DEU
+46|9|4269|Katzer, Ronny|SG Motor Cunewalde|10km Lauf |Männer 20-29|0:45:17|1985|DEU
+47|4|4339|Wedlich, Stefan|TSV 1890 Ruppersdorf|10km Lauf |Männer 40-44|0:45:18|1971|DEU
+48|3|4494|Born, Peter|Frontrunners|10km Lauf |Männer 60-64|0:45:22|1951|DEU
+49|1|4432|Stolze, Peter|Bautzen|10km Lauf |Männer 65-69|0:45:37|1943|DEU
+50|9|4074|Quietzsch, Christian|Die-Zittauer-Flotten-Karotten|10km Lauf |Männer 30-34|0:45:40|1981|DEU
+51|5|4149|Drabant, Mario|HSV 1923 Pulsnitz|10km Lauf |Männer 40-44|0:45:43|1969|DEU
+52|10|4457|Biastoch, Oliver|Dresden|10km Lauf |Männer 20-29|0:45:50|1990|DEU
+53|8|4385|Liebig, Torsten|Club Görlitzer Genießer|10km Lauf |Männer 45-49|0:46:16|1965|DEU
+54|9|4311|Pluder, Dietmar|SV Grün-Weiß Elstra|10km Lauf |Männer 45-49|0:46:36|1966|DEU
+55|10|4378|Adelhöfer, Rigo|Butter- ' Bergschnecken' Bischofswerda|10km Lauf |Männer 45-49|0:46:45|1966|DEU
+56|11|4449|Wende, Markus|Sprey|10km Lauf |Männer 20-29|0:46:47|1988|DEU
+57|12|4467|Krause, Danilo|Dresdner SC 1898|10km Lauf |Männer 20-29|0:46:53|1989|DEU
+58|6|4066|Schuster, Kai|Butter- ' Bergschnecken' Bischofswerda|10km Lauf |Männer 40-44|0:47:05|1971|DEU
+59|5|4084|Kommolk, Gerd|Dresden|10km Lauf |Männer 50-54|0:47:08|1962|DEU
+60|10|4081|Krüger, Matthias|Dresden|10km Lauf |Männer 30-34|0:47:16|1981|DEU
+61|5|4027|Locke, Leonard|Bautzener LV 'Rot-Weiß 90'|10km Lauf |männliche Jugend U18|0:47:26|1996|DEU
+62|2|4308|Petzold, Oliver|SV Grün-Weiß Elstra|10km Lauf |männliche Jugend U20|0:47:43|1993|DEU
+63|4|4216|Grünwald, Günter Franz|NLLB Cottbus|10km Lauf |Männer 60-64|0:47:53|1952|DEU
+64|7|4333|Worm, Wolfram|Team Magno Cursu|10km Lauf |Männer 40-44|0:48:46|1971|DEU
+65|1|4083|Böhme, Eberhard|Dresden|10km Lauf |Männer 55-59|0:48:47|1953|DEU
+66|6|4375|Polk, Siegfried|Zittau-Eichgraben|10km Lauf |Männer 50-54|0:49:03|1961|DEU
+67|7|4293|Brunne, Thomas|Sportfreunde Bärwalder See|10km Lauf |Männer 50-54|0:49:10|1960|DEU
+68|1|4398|Tschirner, Klaus-Diether|SV Lok Schleife|10km Lauf |Männer 75-79|0:49:28|1936|DEU
+69|1|4207|Stenzel, Max|Motor Saspow|10km Lauf |Volkssport männlich|0:49:30|1997|DEU
+70|11|4236|Jäckel, Sven|Pulsnitz|10km Lauf |Männer 45-49|0:49:37|1967|DEU
+71|3|4162|Ueberfuhr, Eric|Kamenz|10km Lauf |männliche Jugend U20|0:49:54|1993|DEU
+72|12|4321|Ueberfuhr, Klaus|SV Lok Kamenz|10km Lauf |Männer 45-49|0:50:12|1964|DEU
+73|8|4331|Thamm, Jörg|Team Magno Cursu|10km Lauf |Männer 40-44|0:50:13|1971|DEU
+74|8|4469|Thomas, Michael|TV Valtenberg|10km Lauf |Männer 50-54|0:50:21|1959|DEU
+75|3|4228|Burkert, Peter|OSC Löbau|10km Lauf |Männer 70-74|0:50:23|1941|DEU
+76|6|4394|Wolff, Jonas|Rietschen|10km Lauf |männliche Jugend U18|0:50:38|1995|DEU
+77|9|4109|Fiedler, Jörg|Europamarathonverein Görlitz-Zgorzelec|10km Lauf |Männer 40-44|0:50:48|1971|DEU
+78|13|4171|Luft, Michael|Königswarthaer SV|10km Lauf |Männer 45-49|0:51:09|1966|DEU
+79|2|4198|Koch, Hans-Peter|LSV Niesky|10km Lauf |Männer 65-69|0:52:28|1944|DEU
+80|7|4428|Gottschling, Sylvio|Triathlon Team Niederschlesien|10km Lauf |Männer 35-39|0:53:11|1976|DEU
+81|4|4233|Schütze, Dieter|Pirna|10km Lauf |Männer 70-74|0:53:26|1940|DEU
+82|10|4488|Wenk, Roman|BLV 90|10km Lauf |Männer 40-44|0:53:30|1970|DEU
+83|14|4097|Schmidt, Frank|Ebersbach|10km Lauf |Männer 45-49|0:53:46|1963|DEU
+84|13|4451|Balko, Hendryk|Nochten|10km Lauf |Männer 20-29|0:53:51|1987|DEU
+85|5|4011|Rasch, Dieter|Bautzen|10km Lauf |Männer 70-74|0:54:03|1942|DEU
+86|3|4322|Wallborn, Bernd|SV Neptun 08 Finsterwalde|10km Lauf |Männer 65-69|0:54:20|1943|DEU
+87|11|4384|Friedrich, Frank|Görlitz|10km Lauf |Männer 40-44|0:54:55|1968|DEU
+88|14|4459|Otto, Brian|SV Haberland|10km Lauf |Männer 20-29|0:54:59|1990|DEU
+89|2|4493|Thierbach, Jürgen|Görlitz|10km Lauf |Männer 55-59|0:55:56|1957|DEU
+90|2|4227|Willweber, Siegfried|OSC Löbau|10km Lauf |Männer 75-79|0:56:12|1936|DEU
+91|3|4111|Kretschmer, Karl|Fight Club Dresden|10km Lauf |Männer 55-59|0:56:14|1955|DEU
+92|4|4415|Bachofner, Max|DLRG 'obere Elbe' e.V.|10km Lauf |männliche Jugend U20|0:57:54|1994|DEU
+93|7|4300|Krautschick, Tim|SV 48 Reichwalde|10km Lauf |männliche Jugend U18|0:58:38|1996|DEU
+94|9|4068|Paul, Jürgen|Butter- ' Bergschnecken' Bischofswerda|10km Lauf |Männer 50-54|0:58:38|1961|DEU
+95|3|4408|Paul, Wilhelm|LG Asics Pirna|10km Lauf |Männer 75-79|1:00:28|1934|DEU
+96|4|4446|Dümke, Jürgen|NLLB Cottbus|10km Lauf |Männer 75-79|1:00:33|1937|DEU
+97|5|4112|Gadacz, Georg|Finsterwalde|10km Lauf |Männer 75-79|1:09:37|1934|DEU
+98|12|4489|Schneider, Ralph|Dresden|10km Lauf |Männer 40-44|1:14:19|1971|DEU
+99|6|4441|Zastrow, Jürgen|Boxberg|10km Lauf |Männer 70-74|1:14:48|1941|DEU
+1|1|4341|Marx, Christin|TSV Dresden|10km Lauf |Frauen 45-49|0:41:21|1964|DEU
+
+2|1|4121|Bernhard, Ivett|Freie Schule Boxberg|10km Lauf |Frauen 40-44|0:45:02|1971|DEU
+3|1|4290|Bittner, Sophia|Sohland/Spree|10km Lauf |Frauen 20-29|0:46:47|1990|DEU
+4|2|4281|Just, Katrin|SG Weißig 1861|10km Lauf |Frauen 45-49|0:47:46|1966|DEU
+5|3|4473|Mirle, Elvira|TuS 'Einheit' Niesky|10km Lauf |Frauen 45-49|0:48:04|1966|DEU
+6|2|4150|Eisold, Andrea|HSV 1923 Pulsnitz|10km Lauf |Frauen 40-44|0:48:11|1972|DEU
+7|1|4310|Anders, Andrea|SV Grün-Weiß Elstra|10km Lauf |Frauen 50-54|0:49:03|1962|DEU
+8|1|4213|Hubrich, Ute|Neustadt|10km Lauf |Frauen 55-59|0:49:16|1957|DEU
+9|1|4376|Schuster, Kathleen|Butter- ' Bergschnecken' Bischofswerda|10km Lauf |Frauen 35-39|0:49:29|1975|DEU
+10|3|4313|Ueberfuhr, Silvia|SV Grün-Weiß Elstra|10km Lauf |Frauen 40-44|0:49:49|1970|DEU
+11|2|4468|Thomas, Marina|TV Valtenberg|10km Lauf |Frauen 50-54|0:49:57|1959|DEU
+12|2|4425|John, Corinna|Renn Gang Mädels Rothenburg|10km Lauf |Frauen 35-39|0:50:14|1977|DEU
+13|1|4361|Hoffmann, Katharina|Uhyst a.T.|10km Lauf |Frauen 30-34|0:50:38|1982|DEU
+14|1|4151|Eisold, Sarah|HSV 1923 Pulsnitz|10km Lauf |Volkssport weiblich|0:50:55|1997|DEU
+15|4|4172|Luft, Simone|Königswarthaer SV|10km Lauf |Frauen 45-49|0:51:16|1966|DEU
+16|5|4192|Kretschmer, Sabine|LG Warturm Niesky|10km Lauf |Frauen 45-49|0:51:22|1964|DEU
+17|2|4212|Zimmer, Mandy|Neukirch|10km Lauf |Frauen 30-34|0:51:25|1978|DEU
+18|3|4326|Stascheit, Cornelia|Team Erdinger Alkoholfrei|10km Lauf |Frauen 50-54|0:51:39|1962|DEU
+19|1|4069|Palfi, Edelgard|Citylaufverein Dresden|10km Lauf |Frauen 60-64|0:51:44|1952|DEU
+20|4|4344|Hesse, Petra|TuS Dippoldiswalde|10km Lauf |Frauen 50-54|0:52:32|1959|DEU
+21|3|4128|Hohlfeld, Ramona|Großdubrau|10km Lauf |Frauen 35-39|0:53:30|1973|DEU
+22|5|4474|Kaiser, Monika|Entenhausen|10km Lauf |Frauen 50-54|0:54:35|1960|DEU
+23|4|4274|Reppe, Sylvia|SG Oberlichtenau|10km Lauf |Frauen 35-39|0:54:53|1975|DEU
+24|6|4141|Hentschel, Konstanze|HSG Turbine Zittau|10km Lauf |Frauen 45-49|0:54:56|1965|DEU
+25|2|4460|Korb, Linda|SV Haberland|10km Lauf |Frauen 20-29|0:55:00|1990|DEU
+26|5|4239|Strosny, Nicolle|RAG Sport & Wettkampf|10km Lauf |Frauen 35-39|0:56:30|1975|DEU
+27|4|4057|Hofmann, Anke|Biathlonverein Ringenhain|10km Lauf |Frauen 40-44|0:57:03|1969|DEU
+28|3|4495|Hilke, Sarah|Rietschen|10km Lauf |Frauen 20-29|0:58:09|1989|DEU
+29|1|4418|Kaliske, Luisa|DLRG Görlitz|10km Lauf |weibliche Jugend U20|0:58:11|1994|DEU
+30|2|4417|Sroka, Claudia Kirsten|DLRG Görlitz|10km Lauf |weibliche Jugend U20|0:58:11|1994|DEU
+31|4|4241|Strosny, Dominique-Francoise|RAG Sport&Wettkampf|10km Lauf |Frauen 20-29|0:58:51|1987|DEU
+32|3|4103|Pogoda, Madlen|Entenhausen|10km Lauf |Frauen 30-34|0:58:55|1981|DEU
+33|6|4250|Flammiger, Steffi|Running Team Süßmann|10km Lauf |Frauen 50-54|0:59:00|1962|DEU
+34|7|4064|Märkisch, Monika|Boxberg|10km Lauf |Frauen 45-49|0:59:09|1963|DEU
+35|5|4349|Thomas, Julia|TV Valtenberg|10km Lauf |Frauen 20-29|0:59:20|1991|DEU
+36|2|4265|Nippe, Hanelore|Senftenberg|10km Lauf |Frauen 60-64|0:59:27|1952|DEU
+37|8|4067|Paul, Elke|Butter- ' Bergschnecken' Bischofswerda|10km Lauf |Frauen 45-49|0:59:28|1964|DEU
+38|4|4448|Thomas, Ina|TV Valtenberg e.V.|10km Lauf |Frauen 30-34|0:59:43|1980|DEU
+39|9|4309|Ullrich, Diana|SV Grün-Weiß Elstra|10km Lauf |Frauen 45-49|1:00:12|1966|DEU
+40|5|4500|Schölzel, Christina|SV Kauppa|10km Lauf |Frauen 30-34|1:01:03|1979|DEU
+41|6|4252|Palme, Katrin|Running Team Süßmann|10km Lauf |Frauen 20-29|1:01:38|1987|DEU
+42|6|4368|Bergemann, Katja|Weißwasser|10km Lauf |Frauen 35-39|1:01:52|1974|DEU
+43|6|4492|Weickert, Diana|Team Family Reichenbach O.L.|10km Lauf |Frauen 30-34|1:02:23|1978|DEU
+44|7|4131|Meusch, Katrin|Halle|10km Lauf |Frauen 30-34|1:03:09|1978|DEU
+45|7|4273|Ünüvar, Uta|SG Mücka|10km Lauf |Frauen 20-29|1:03:11|1984|DEU
+46|3|4497|Berndt, Gabriela|Bockschänke|10km Lauf |Frauen 60-64|1:04:11|1951|DEU
+47|10|4222|Hädicke, Bärbel|Oberlausitzer Biathlonverein Ringenhain|10km Lauf |Frauen 45-49|1:05:02|1964|DEU
+48|1|4058|Fiebag, Irene|Biketeam Oberlausitz|10km Lauf |Frauen 65-69|1:05:46|1946|DEU
+49|8|4248|Kuske, Nicole|Running Team Herzberg/Elster|10km Lauf |Frauen 30-34|1:08:30|1981|DEU
+50|11|4445|Krautz, Andrea|Neustadt/Spree|10km Lauf |Frauen 45-49|1:08:56|1966|DEU
+51|8|4478|Palacio, Lina|Almunecar|10km Lauf |Frauen 20-29|1:11:28|1983|DEU
+52|2|4010|Rasch, Gerlinde|Bautzen|10km Lauf |Frauen 65-69|1:12:41|1944|DEU
+53|9|4490|Schneider, Romy|Müller Trrimm Dich Runners|10km Lauf |Frauen 30-34|1:14:19|1978|DEU
+54|10|4383|Socher, Astrid|Kostebrau|10km Lauf |Frauen 30-34|1:15:49|1979|DEU
+0|0|5096|Guhr, Eberhard|DRV Dresden|10km Walken |Männer|1:10:00|1939|DEU
+0|0|5472|Rudoba, Anett|Bad Muskau|10km Walken |Frauen|1:22:51|1959|DEU
+0|0|5124|Stiller, Marlene|Gablenz|10km Walken |Frauen|1:25:42|1979|DEU
+0|0|5471|Kube, Michaela|Boxberg|10km Walken |Frauen|1:25:43|1974|DEU
+0|0|5125|Preuß, Sandra|Gablenz|10km Walken |Frauen|1:30:57|1975|DEU
+1|1|2005|Pötschke, Florian|Baruther SV 90|3km Familien-Lauf|männliche Jugend U14|0:11:19|1999|DEU
+2|2|2140|Hentschel, Paul|HSG Turbine Zittau|3km Familien-Lauf|männliche Jugend U14|0:11:31|2000|DEU
+3|1|2108|Kruppas, Paul|Europamarathonverein Görlitz-Zgorzelec|3km Familien-Lauf|männliche Jugend U16|0:11:31|1997|DEU
+4|1|2044|Nitschke, Pascal|Biathlonverein Ringenhain|3km Familien-Lauf|männliche Kinder U12|0:11:32|2001|DEU
+5|2|2107|Fiedler, Florian|Europamarathonverein Görlitz-Zgorzelec|3km Familien-Lauf|männliche Jugend U16|0:11:55|1998|DEU
+6|3|2307|Pluder, Alex|SV Grün-Weiß Elstra|3km Familien-Lauf|männliche Jugend U16|0:12:04|1997|DEU
+7|3|2080|Böhme, Benjamin|dresden|3km Familien-Lauf|männliche Jugend U14|0:12:08|2000|DEU
+8|2|2259|Lebelt, Justus- Franz|SC Kottmar|3km Familien-Lauf|männliche Kinder U12|0:12:12|2001|DEU
+9|4|2362|Kürten, Jonas|USV TU Dresden|3km Familien-Lauf|männliche Jugend U16|0:12:15|1997|DEU
+10|5|2245|Meichelböck, Richard|Reichwalde|3km Familien-Lauf|männliche Jugend U16|0:13:00|1997|DEU
+11|4|2160|Ueberfuhr, Paul|Kamenz|3km Familien-Lauf|männliche Jugend U14|0:13:20|2000|DEU
+12|5|2221|Hädicke, Robby|Oberlausitzer Biathlonverein Ringenhain|3km Familien-Lauf|männliche Jugend U14|0:13:21|1999|DEU
+13|6|2268|Förster, Lukas|SG Grüne Eiche Großthiemig|3km Familien-Lauf|männliche Jugend U14|0:13:33|1999|DEU
+14|3|2283|Förster, Cedrik|SGGrüne Eiche Großthiemig|3km Familien-Lauf|männliche Kinder U12|0:13:33|2001|DEU
+15|7|2197|Weickert, Simon|LSV Niesky|3km Familien-Lauf|männliche Jugend U14|0:13:50|2000|DEU
+16|1|2306|Pluder, Ronny|SV Grün-Weiß Elstra|3km Familien-Lauf|Volkssport männlich|0:13:50|1995|DEU
+17|8|2025|Krätschel, Brian|Bautzener LV 'Rot-Weiß 90'|3km Familien-Lauf|männliche Jugend U14|0:13:54|2000|DEU
+18|9|2120|Krause, Felix|Freie Schule Boxberg|3km Familien-Lauf|männliche Jugend U14|0:14:03|2000|DEU
+19|10|2226|Gehser, Tobias|OL-Team Wehrsdorf|3km Familien-Lauf|männliche Jugend U14|0:14:10|2000|DEU
+20|11|2423|Hänchen, Lukas|FC Stahl Rietschen|3km Familien-Lauf|männliche Jugend U14|0:14:14|2000|DEU
+21|2|2114|Zimmert, Maximilian|Freie Schule Boxberg|3km Familien-Lauf|Volkssport männlich|0:14:15|1996|DEU
+22|3|2006|Pötschke, Frank|Baruther SV 90|3km Familien-Lauf|Volkssport männlich|0:14:45|1963|DEU
+23|4|2046|Köhler, Lucas|Biathlonverein Ringenhain|3km Familien-Lauf|männliche Kinder U12|0:15:03|2001|DEU
+24|5|2021|Mehnert, Raphael|Bautzener LV 'Rot-Weiß 90'|3km Familien-Lauf|männliche Kinder U12|0:15:09|2002|DEU
+25|6|2118|Krupper, Jonas|Freie Schule Boxberg|3km Familien-Lauf|männliche Kinder U12|0:15:14|2001|DEU
+26|12|2119|Werner, Kai|Freie Schule Boxberg|3km Familien-Lauf|männliche Jugend U14|0:15:27|1999|DEU
+27|13|2116|Donath, Chris|Freie Schule Boxberg|3km Familien-Lauf|männliche Jugend U14|0:15:32|1999|DEU
+28|7|2045|Hofmann, Luca|Biathlonverein Ringenhain|3km Familien-Lauf|männliche Kinder U12|0:16:07|2002|DEU
+29|14|2272|Mirle, Adrian|SG Mücka|3km Familien-Lauf|männliche Jugend U14|0:16:56|2000|DEU
+30|4|2115|Wenzel, Daniel|Freie Schule Boxberg|3km Familien-Lauf|Volkssport männlich|0:17:46|1996|DEU
+31|5|2413|Quietsch, Felix|Die Zittauer flotten Karotten|3km Familien-Lauf|Volkssport männlich|0:17:51|2005|DEU
+32|15|2117|Schreiber, Jonas|Freie Schule Boxberg|3km Familien-Lauf|männliche Jugend U14|0:20:10|2000|DEU
+33|6|2427|Dönnicke, Luca-Simon|Renn Gang Mädels Rothenburg|3km Familien-Lauf|Volkssport männlich|0:20:37|2006|DEU
+34|7|2424|Brachtl, Michael|Görlitz|3km Familien-Lauf|Volkssport männlich|0:20:38|1970|DEU
+1|1|2024|Noack, Celine|Bautzener LV 'Rot-Weiß 90'|3km Familien-Lauf|weibliche Jugend U16|0:11:52|1998|DEU
+2|1|2146|Kamolz, Clara|HSV 1923 Pulsnitz|3km Familien-Lauf|weibliche Jugend U14|0:12:13|1999|DEU
+3|2|2051|Poike, Tamina|Biathlonverein Ringenhain|3km Familien-Lauf|weibliche Jugend U14|0:12:30|1999|DEU
+4|3|2410|Wagner, Jessica|LSV Pirna|3km Familien-Lauf|weibliche Jugend U14|0:12:56|1999|DEU
+5|4|2196|Weickert, Nina|LSV Niesky|3km Familien-Lauf|weibliche Jugend U14|0:13:05|1999|DEU
+6|1|2047|Glatz, Julia|Biathlonverein Ringenhain|3km Familien-Lauf|weibliche Kinder U12|0:13:24|2001|DEU
+7|2|2189|Lorek, Brunhilde|Levitikus Zentrum Großröhrsdorf|3km Familien-Lauf|weibliche Kinder U12|0:13:37|2002|DEU
+8|3|2048|Hedusch, Alina|Biathlonverein Ringenhain|3km Familien-Lauf|weibliche Kinder U12|0:13:43|2001|DEU
+
+9|1|2324|Grau, Steph|Tauer|3km Familien-Lauf|Volkssport weiblich|0:13:49|1971|DEU
+10|2|2056|Törzsök, Yvonne|Biathlonverein Ringenhain|3km Familien-Lauf|Volkssport weiblich|0:13:53|1974|DEU
+11|2|2053|Hofmann, Elena|Biathlonverein Ringenhain|3km Familien-Lauf|weibliche Jugend U16|0:13:53|1998|DEU
+12|5|2113|Bernhard, Isabell|Freie Schule Boxberg|3km Familien-Lauf|weibliche Jugend U14|0:13:58|2000|DEU
+13|4|2126|Strosny, Elisa|Gregor-Mättig Grundschule Bautzen|3km Familien-Lauf|weibliche Kinder U12|0:14:15|2002|DEU
+14|3|2190|Lorek, Charlotte|Levitikus Zentrum Großröhrsdorf|3km Familien-Lauf|weibliche Jugend U16|0:14:19|1997|DEU
+15|4|2407|Nadolny, Emma|TV 1848 Bischofswerda|3km Familien-Lauf|weibliche Jugend U16|0:14:23|1998|DEU
+16|5|2405|Just, Lucy|Leichtathletik Großröhrsdorf|3km Familien-Lauf|weibliche Jugend U16|0:14:25|1998|DEU
+17|3|2422|Hänchen, Jeannette|FC Stahl Rietschen|3km Familien-Lauf|Volkssport weiblich|0:14:30|1977|DEU
+18|6|2052|Mickan, Jasmin|Biathlonverein Ringenhain|3km Familien-Lauf|weibliche Jugend U16|0:14:36|1998|DEU
+19|5|2105|Fiedler, Pauline|Europamarathonverein Görlitz-Zgorzelec|3km Familien-Lauf|weibliche Kinder U12|0:14:50|2002|DEU
+20|6|2210|Thomas, Nadine|MSV Bautzen 04|3km Familien-Lauf|weibliche Jugend U14|0:14:57|2000|DEU
+21|6|2050|Wobst, Elisabeth|Biathlonverein Ringenhain|3km Familien-Lauf|weibliche Kinder U12|0:15:23|2002|DEU
+22|7|2435|Cwikla, Greta|Dresden|3km Familien-Lauf|weibliche Jugend U14|0:15:33|1999|DEU
+23|7|2436|Wehe, Hannah|Boxberg|3km Familien-Lauf|weibliche Kinder U12|0:15:36|2002|DEU
+24|8|2102|Redlich, Michelle|Energie Cottbus|3km Familien-Lauf|weibliche Kinder U12|0:15:42|2001|DEU
+25|8|2348|Walter, Marie|TV Valtenberg|3km Familien-Lauf|weibliche Jugend U14|0:15:43|2000|DEU
+26|7|2054|Gocht, Maria|Biathlonverein Ringenhain|3km Familien-Lauf|weibliche Jugend U16|0:15:53|1998|DEU
+27|8|2367|Schmidt, Emely|Weißwasser|3km Familien-Lauf|weibliche Jugend U16|0:15:55|1998|DEU
+28|9|2392|Wolff, Fanny|Rietschen|3km Familien-Lauf|weibliche Kinder U12|0:15:58|2001|DEU
+29|10|2022|Mehnert, Anabelle|Bautzener LV 'Rot-Weiß 90'|3km Familien-Lauf|weibliche Kinder U12|0:16:02|2001|DEU
+30|11|2049|Guhr, Emelie|Biathlonverein Ringenhain|3km Familien-Lauf|weibliche Kinder U12|0:16:05|2002|DEU
+31|4|2055|Poike, Katrin|Biathlonverein Ringenhain|3km Familien-Lauf|Volkssport weiblich|0:16:13|1971|DEU
+32|5|2412|Zweigle, Birgit|Weißwasser|3km Familien-Lauf|Volkssport weiblich|0:17:13|1969|DEU
+33|12|2416|Hennig, Anna|Sportfreunde Bärwalder See|3km Familien-Lauf|weibliche Kinder U12|0:18:29|2002|DEU
+34|13|2246|Krause, Josefa|Rothenburg|3km Familien-Lauf|weibliche Kinder U12|0:18:29|2002|DEU
+35|14|2409|Vogel, Nadine|Freie Schule Boxberg|3km Familien-Lauf|weibliche Kinder U12|0:19:34|2001|DEU
+36|6|2270|Waschnick, Astrid|SG Mücka|3km Familien-Lauf|Volkssport weiblich|0:19:44|1961|DEU
+37|7|2359|Krause, Sandra|Uhsmannsdorf|3km Familien-Lauf|Volkssport weiblich|0:20:37|1977|DEU
+38|8|2426|Dönnicke, Peggy|Renn Gang Mädels Rothenburg|3km Familien-Lauf|Volkssport weiblich|0:20:38|1973|DEU
+39|9|2434|Wehe, Elisa|Boxberg|3km Familien-Lauf|Volkssport weiblich|0:22:53|2003|DEU
+40|10|2437|Wehe, Sabine|Boxberg|3km Familien-Lauf|Volkssport weiblich|0:23:00|1979|DEU
+0|0|3388|Schinczel, Alfons|Boxberg|3km Walken|Männer|0:33:27|1948|DEU
+0|0|3095|Limbach, Diana|DRV Dresden|3km Walken|Frauen|0:17:14|1971|DEU
+0|0|3402|Maiwitz, Michaela|Sportplatz-Racing-Team|3km Walken|Frauen|0:26:19|1977|DEU
+0|0|3438|Kasper, Hannelore|Boxberg|3km Walken|Frauen|0:31:03|1953|DEU
+1|1|1346|Katzer, Adrian|TV 1848 Bischofswerda|800m|männliche Kinder U10|0:03:03|2003|DEU
+2|2|1284|Kretschmar, Jakob|Ski-Club-Sohland 1928|800m|männliche Kinder U10|0:03:04|2003|DEU
+3|3|1347|Walter, Moritz|TV Valtenberg|800m|männliche Kinder U10|0:03:07|2003|DEU
+4|4|1019|Ullrich, Florian|Bautzener LV 'Rot-Weiß 90'|800m|männliche Kinder U10|0:03:15|2004|DEU
+5|5|1219|Vogt, Wilhelm|Oberlausitzer Biathlonverein Ringenhain|800m|männliche Kinder U10|0:03:19|2004|DEU
+6|6|1328|Tutte, Niclas|Team Kottmar-Adler/SC Kottmar|800m|männliche Kinder U10|0:03:21|2004|DEU
+7|7|1040|Poike, Cedric|Biathlonverein Ringenhain|800m|männliche Kinder U10|0:03:21|2004|DEU
+8|8|1039|Rahn, Kevin|Biathlonverein Ringenhain|800m|männliche Kinder U10|0:03:30|2004|DEU
+9|1|1330|Worm, Leonard|Team Magno Cursu|800m|Volkssport männlich|0:03:30|2002|DEU
+10|9|1340|Burchert, Tom|TSV 1920 Pulsnitz|800m|männliche Kinder U10|0:03:34|2004|DEU
+11|1|1266|Lange, Luis|SG BAUTZEN NORD|800m|männliche Kinder U8|0:03:41|2005|DEU
+12|10|1076|Böhme, Sebastian|dresden|800m|männliche Kinder U10|0:03:56|2004|DEU
+13|11|1323|Gahsche, Ansgar|Tauer|800m|männliche Kinder U10|0:03:58|2004|DEU
+14|12|1286|Weißling, Yannik|Skiklub Dresden Niedersedlitz|800m|männliche Kinder U10|0:03:59|2004|DEU
+15|2|1234|Arnhold, Heiko|PSC Bautzen|800m|männliche Kinder U8|0:04:00|2005|DEU
+16|3|1195|Sommer, Luca|Lohsa|800m|männliche Kinder U8|0:04:03|2006|DEU
+17|13|1401|Maiwitz, Johannes|Sportplatz-Racing-Team|800m|männliche Kinder U10|0:04:09|2004|DEU
+18|4|1292|Strosny, Jonas|Sorbischer Kindergarten Bautzen|800m|männliche Kinder U8|0:04:16|2006|DEU
+19|5|1037|Hedusch, Marlon|Biathlonverein Ringenhain|800m|männliche Kinder U8|0:04:21|2005|DEU
+20|6|1038|Richter, Tom|Biathlonverein Ringenhain|800m|männliche Kinder U8|0:04:22|2006|DEU
+21|2|1390|Noack, Florian|Hohenmölsen|800m|Volkssport männlich|0:04:29|2002|DEU
+22|7|1329|Kellermann, Marcel|Team Magno Cursu|800m|männliche Kinder U8|0:04:35|2005|DEU
+23|8|1122|Schäfer, Nino|Fröbel Kiga Langebrück|800m|männliche Kinder U8|0:04:35|2008|DEU
+24|9|1406|Just, Kurt|Bretnig|800m|männliche Kinder U8|0:04:36|2006|DEU
+25|10|1397|Thomas, Erwin|TV - Valtenberg|800m|männliche Kinder U8|0:05:25|2007|DEU
+26|11|1009|Thomas, Henry|Bautzen|800m|männliche Kinder U8|0:05:46|2007|DEU
+27|12|1077|Weißling, Béla|Dresden|800m|männliche Kinder U8|0:08:38|2009|DEU
+1|1|1298|Mirtschink, Larissa|SV 1922 Radibor|800m|weibliche Kinder U10|0:03:20|2003|DEU
+2|2|1041|Mickan, Luise|Biathlonverein Ringenhain|800m|weibliche Kinder U10|0:03:25|2003|DEU
+3|3|1042|Thomas, Luise|Biathlonverein Ringenhain|800m|weibliche Kinder U10|0:03:26|2003|DEU
+4|1|1261|Lebelt, Klara- Huldine|SC Kottmar/ Team Kottmaradler|800m|weibliche Kinder U8|0:03:26|2005|DEU
+5|4|1104|Kruppas, Emma|Europamarathonverein Görlitz-Zgorzelec|800m|weibliche Kinder U10|0:03:30|2003|DEU
+6|5|1345|Schurz, Vivien|TV 1848 Bischofswerda|800m|weibliche Kinder U10|0:03:40|2003|DEU
+7|2|1381|Steglich, Xenia|SV Grün-Weiß Elstra|800m|weibliche Kinder U8|0:03:52|2006|DEU
+8|6|1305|Steglich, Celina|Sv Grün-Weiß Elstra|800m|weibliche Kinder U10|0:03:52|2004|DEU
+9|1|1133|Gahsche, Alrun|heidepferde|800m|Volkssport weiblich|0:03:56|2001|DEU
+10|7|1389|Behrendt, Luna|Herrnhuter SV|800m|weibliche Kinder U10|0:03:57|2004|DEU
+11|3|1211|Zimmer, Maxine|Neukirch|800m|weibliche Kinder U8|0:04:15|2006|DEU
+12|4|1285|Kretschmar, Hanna|Ski-Club-Sohland 1928|800m|weibliche Kinder U8|0:05:01|2007|DEU
+13|5|1016|Ullrich, Franziska|Bautzener LV 'Rot-Weiß 90'|800m|weibliche Kinder U8|0:05:47|2007|DEU
+14|6|1194|Sommer, Lena|Lohsa|800m|weibliche Kinder U8|0:05:58|2008|DEU
+15|7|1020|Dorn, Vanessa|Bautzener LV 'Rot-Weiß 90'|800m|weibliche Kinder U8|0:07:00|2008|DEU
+1|1|6185|Seher, Daniel|LC Cottbus|Halbmarathon-Lauf|Männer 30-34|1:16:01|1982|DEU
+2|2|6092|Sickert, Tino|Dresdner SC 1898|Halbmarathon-Lauf|Männer 30-34|1:16:08|1978|DEU
+3|3|6206|Friedrich, Danilo|Microsoft Sportclub|Halbmarathon-Lauf|Männer 30-34|1:18:34|1981|DEU
+4|1|6142|Hentschel, Torsten|HSG Turbine Zittau|Halbmarathon-Lauf|Männer 45-49|1:19:47|1964|DEU
+5|2|6244|Schäfer, Heiko|RC 1898 Radeberg|Halbmarathon-Lauf|Männer 45-49|1:22:31|1967|DEU
+6|3|6243|Dander, Bernd|RC 1898 Radeberg|Halbmarathon-Lauf|Männer 45-49|1:22:41|1965|DEU
+7|4|6455|Biastoch, Lutz|RC 1898 Radeberg|Halbmarathon-Lauf|Männer 45-49|1:23:38|1966|DEU
+8|1|6089|Wittwer, Frank|Dresden|Halbmarathon-Lauf|Männer 40-44|1:23:58|1968|DEU
+9|1|6144|Knobloch, Jörg|HSG Turbine Zittau|Halbmarathon-Lauf|Männer 50-54|1:25:21|1962|DEU
+10|1|6498|Gertel, Christian|LSV Dresden|Halbmarathon-Lauf|Männer 35-39|1:25:52|1974|DEU
+11|1|6254|Besold, Sandro|Running Team Süßmann|Halbmarathon-Lauf|Männer 20-29|1:25:56|1988|DEU
+12|2|6411|Süßmann, René|Running Team Süßmann|Halbmarathon-Lauf|Männer 35-39|1:27:43|1973|DEU
+13|5|6203|Knöfel, Detlef|Meißen|Halbmarathon-Lauf|Männer 45-49|1:27:58|1963|DEU
+14|4|6255|Papritz, Sven|Running Team Süßmann|Halbmarathon-Lauf|Männer 30-34|1:28:03|1979|DEU
+15|2|6014|Nutschan, Thomas|Bautzen|Halbmarathon-Lauf|Männer 20-29|1:28:08|1986|DEU
+16|2|6404|Merdon, Uwe|Team Erdinger Alkoholfrei|Halbmarathon-Lauf|Männer 50-54|1:28:10|1962|DEU
+17|2|6396|Henning, Udo|TSV Eisenberg / Abt. Triathlon|Halbmarathon-Lauf|Männer 40-44|1:28:41|1968|DEU
+18|6|6462|Hohlfeld, Uwe|Königswartha|Halbmarathon-Lauf|Männer 45-49|1:28:41|1967|DEU
+19|3|6470|Zimmermann, Tilo|LSV Dresden|Halbmarathon-Lauf|Männer 40-44|1:29:13|1971|DEU
+20|3|6127|Hantschick, Ricardo|Großdubrau|Halbmarathon-Lauf|Männer 35-39|1:29:18|1973|DEU
+21|3|6356|Wilde, Andreas|TV Valtenberg|Halbmarathon-Lauf|Männer 50-54|1:29:30|1958|DEU
+22|4|6334|Herrmann, Steffen|Torno|Halbmarathon-Lauf|Männer 35-39|1:29:39|1977|DEU
+
+23|3|6440|Haubold, Martin|Schleite|Halbmarathon-Lauf|Männer 20-29|1:29:53|1990|DEU
+24|4|6263|Opitz, Jochen|Schachverein Görlitz 1990|Halbmarathon-Lauf|Männer 50-54|1:30:28|1960|DEU
+25|5|6065|Bittner, René|Boxberg|Halbmarathon-Lauf|Männer 30-34|1:31:24|1980|DEU
+26|1|6138|Schwiebs, Bernd|Hoyerswerda|Halbmarathon-Lauf|Männer 55-59|1:31:28|1957|DEU
+27|5|6163|Stegmann, Frank|KC Friensteiner 08 Sebnitz|Halbmarathon-Lauf|Männer 35-39|1:31:47|1977|DEU
+28|6|6180|Busch, Stefan|Laufgruppe Dresden|Halbmarathon-Lauf|Männer 30-34|1:32:04|1981|DEU
+29|4|6135|Wolf, Michael|Helaswoelfe Bautzen|Halbmarathon-Lauf|Männer 40-44|1:32:41|1970|DEU
+30|6|6355|Walter, Mike|TV Valtenberg|Halbmarathon-Lauf|Männer 35-39|1:33:20|1973|DEU
+31|7|6093|Kürten, Christian|Dresdner Trolle|Halbmarathon-Lauf|Männer 45-49|1:33:28|1967|DEU
+32|4|6487|Stiller, Ronny|Boxberg|Halbmarathon-Lauf|Männer 20-29|1:35:42|1989|DEU
+33|5|6393|Wolff, Jörg|Rietschen|Halbmarathon-Lauf|Männer 40-44|1:35:46|1968|DEU
+34|6|6357|Darkow, Peter|TV Valtenberg|Halbmarathon-Lauf|Männer 40-44|1:35:56|1972|DEU
+35|7|6431|Hilger, Stefan|Dresden|Halbmarathon-Lauf|Männer 30-34|1:36:20|1980|DEU
+36|8|6372|Nicolai, René|www.Laufgruppe-Dresden.de|Halbmarathon-Lauf|Männer 30-34|1:36:53|1980|DEU
+37|7|6477|Paul, Marcus|Triathlon Team Niederschlesien|Halbmarathon-Lauf|Männer 40-44|1:37:40|1969|DEU
+38|8|6217|Keilwagen, René|NLLB Cottbus|Halbmarathon-Lauf|Männer 40-44|1:37:42|1972|DEU
+39|5|6191|Lorek, Alfred|Levitikus Zentrum Großröhrsdorf|Halbmarathon-Lauf|Männer 50-54|1:37:57|1962|DEU
+40|1|6029|Strosny, Wolfgang|Bautzener LV 'Rot-Weiß 90'|Halbmarathon-Lauf|Männer 60 und älter|1:38:53|1951|DEU
+41|9|6447|Thomas, Oliver|TV Valtenberg e.V.|Halbmarathon-Lauf|Männer 30-34|1:39:56|1980|DEU
+42|5|6374|John, Matthias|Zittau|Halbmarathon-Lauf|Männer 20-29|1:41:11|1987|DEU
+43|6|6030|Berg, Uwe|Bautzener LV 'Rot-Weiß 90'|Halbmarathon-Lauf|Männer 50-54|1:41:35|1961|DEU
+44|8|6296|Leich, Kersten|Stavenhagen|Halbmarathon-Lauf|Männer 45-49|1:42:28|1964|DEU
+45|7|6433|Ibscher, Ralf|Ottobrunn|Halbmarathon-Lauf|Männer 35-39|1:42:30|1973|DEU
+46|8|6421|Schmidt, Andreas|Bad Nauheim|Halbmarathon-Lauf|Männer 35-39|1:43:34|1973|DEU
+47|6|6482|Kern, Andreas|Neugersdorf|Halbmarathon-Lauf|Männer 20-29|1:43:38|1987|DEU
+48|7|6369|Tessner, Pascal|Weißwasser|Halbmarathon-Lauf|Männer 20-29|1:43:38|1989|DEU
+49|10|6153|Scholze, Christoph|Inge Allstars|Halbmarathon-Lauf|Männer 30-34|1:43:54|1980|DEU
+50|7|6458|Haberland, Jörg|Kraft & Figur|Halbmarathon-Lauf|Männer 50-54|1:44:17|1961|DEU
+51|9|6275|Burkhardt, Jörn|SG Oßling/Skaska|Halbmarathon-Lauf|Männer 40-44|1:44:19|1972|DEU
+52|9|6209|Stenzel, Ingo|Motor Saspow|Halbmarathon-Lauf|Männer 45-49|1:44:27|1967|DEU
+53|9|6003|Link, Stefan|AWO Bautzen|Halbmarathon-Lauf|Männer 35-39|1:46:14|1977|DEU
+54|10|6325|Schneider, Swen|Team Erdinger Alkoholfrei|Halbmarathon-Lauf|Männer 35-39|1:46:14|1973|DEU
+55|8|6201|Wonneberger, Uwe|Malchower Grashüpfer Berlin|Halbmarathon-Lauf|Männer 50-54|1:46:47|1959|DEU
+56|8|6370|Gersdorf, Eric|Weißwasser|Halbmarathon-Lauf|Männer 20-29|1:46:51|1989|DEU
+57|10|6253|Weniger, Olaf|Running Team Süßmann|Halbmarathon-Lauf|Männer 45-49|1:46:59|1963|DEU
+58|11|6485|Schönfeld, Thomas|Pulsnitz|Halbmarathon-Lauf|Männer 30-34|1:48:01|1978|DEU
+59|11|6335|Kramer, Meino|Trebendorf|Halbmarathon-Lauf|Männer 45-49|1:48:30|1963|DEU
+60|2|6442|Arnold, Dieter|TV 1848 Bischofswerda|Halbmarathon-Lauf|Männer 55-59|1:48:46|1955|DEU
+61|9|6419|Müller, Peter|Stadt Wehlen|Halbmarathon-Lauf|Männer 50-54|1:49:03|1962|DEU
+62|10|6336|Horter, Andre|Triathlon Team Niederschlesien|Halbmarathon-Lauf|Männer 40-44|1:49:15|1971|DEU
+63|12|6167|Hensel, Alexander|Kleinpostwitz|Halbmarathon-Lauf|Männer 45-49|1:49:28|1967|DEU
+64|10|6188|Köllner, Ronald|Leisnig|Halbmarathon-Lauf|Männer 50-54|1:49:49|1961|DEU
+65|9|6007|Kittan, Michael|Bärwalde|Halbmarathon-Lauf|Männer 20-29|1:52:29|1988|DEU
+66|2|6338|Zosel, Armin|TSV 1862 Radeburg|Halbmarathon-Lauf|Männer 60 und älter|1:52:34|1934|DEU
+67|11|6015|Woelke, Burkhard|Bautzen|Halbmarathon-Lauf|Männer 40-44|1:54:02|1971|DEU
+68|12|6391|Metag, Stephan|Die Lauf ABCler|Halbmarathon-Lauf|Männer 30-34|1:54:11|1980|DEU
+69|3|6229|Krohe, Christfried|OSC Löbau|Halbmarathon-Lauf|Männer 55-59|1:54:30|1957|DEU
+70|13|6461|Pfennig, Matthias|avono|Halbmarathon-Lauf|Männer 30-34|1:56:07|1982|DEU
+71|4|6363|Scheibe, Siegfried|VfB Hellerau-Klotzsche|Halbmarathon-Lauf|Männer 55-59|1:56:47|1955|DEU
+72|12|6168|Simon, Uwe|Kleinpostwitz|Halbmarathon-Lauf|Männer 40-44|1:57:42|1972|DEU
+73|10|6061|Engmann, Marco|Blau Weiß Kromlau|Halbmarathon-Lauf|Männer 20-29|1:58:04|1984|DEU
+74|3|6002|Bremer, Bernd|ASC Grün Weiß Finsterwalde|Halbmarathon-Lauf|Männer 60 und älter|1:58:45|1943|DEU
+75|11|6386|Menschel, Jens|Herrnhuter SV|Halbmarathon-Lauf|Männer 35-39|1:59:25|1975|DEU
+76|13|6443|Werner, Tilo|MSC Meusegast|Halbmarathon-Lauf|Männer 40-44|2:01:03|1968|DEU
+77|14|6353|Thomas, Ralf|TV Valtenberg|Halbmarathon-Lauf|Männer 40-44|2:01:56|1968|DEU
+78|15|6354|Kothe, Christoph|TV Valtenberg|Halbmarathon-Lauf|Männer 40-44|2:01:56|1972|DEU
+79|4|6237|Lau, Christian|Pulsnitz|Halbmarathon-Lauf|Männer 60 und älter|2:02:24|1952|DEU
+80|14|6181|Skopi, Harald|Lausitzer Laufpiraten|Halbmarathon-Lauf|Männer 30-34|2:02:33|1978|DEU
+81|13|6187|Rettig, Andreas|LC Cottbus|Halbmarathon-Lauf|Männer 45-49|2:03:19|1964|DEU
+82|5|6314|Anders, Roland|SV Grün-Weiß Elstra|Halbmarathon-Lauf|Männer 55-59|2:07:22|1956|DEU
+83|15|6166|Woidt, Maik|Kiebitzstampfer Dresden|Halbmarathon-Lauf|Männer 30-34|2:08:27|1978|DEU
+84|16|6257|Seidel, René|Running Team Süßmann|Halbmarathon-Lauf|Männer 30-34|2:10:55|1981|DEU
+85|11|6130|Persicke, Amadeus|Großschönau|Halbmarathon-Lauf|Männer 20-29|2:15:45|1988|DEU
+86|17|6366|Linke, Marcel|Weißkeißel|Halbmarathon-Lauf|Männer 30-34|2:16:46|1981|DEU
+87|12|6403|Maiwitz, Ronny|Sportplatz-Racing-Team|Halbmarathon-Lauf|Männer 35-39|2:20:50|1977|DEU
+88|11|6337|Mühle, Uwe|TSG Kraftwerk Boxberg/Weißwasser|Halbmarathon-Lauf|Männer 50-54|2:24:06|1959|DEU
+1|1|6224|Kranich, Franziska|OL Görlitz|Halbmarathon-Lauf|Frauen 20-29|1:31:44|1984|DEU
+2|1|6430|Mönch, Sabine|Krauschwitz|Halbmarathon-Lauf|Frauen 45-49|1:32:13|1963|DEU
+3|2|6364|Hänsel, Heike|Vfl Dresden Bühlau|Halbmarathon-Lauf|Frauen 45-49|1:33:09|1963|DEU
+4|2|6454|Reichstein, Anne|SV Monte Mare Neustadt e.V.|Halbmarathon-Lauf|Frauen 20-29|1:39:47|1991|DEU
+5|1|6204|Zange, Andrea|Meißen|Halbmarathon-Lauf|Frauen 50-54|1:42:27|1962|DEU
+6|3|6070|Korb, Heike|Cranzahl|Halbmarathon-Lauf|Frauen 45-49|1:44:17|1964|DEU
+7|1|6179|Rüger, Konstanze|Laufgruppe Dresden|Halbmarathon-Lauf|Frauen 30-34|1:45:29|1982|DEU
+8|1|6028|Mehnert, Katrin|Bautzener LV 'Rot-Weiß 90'|Halbmarathon-Lauf|Frauen 35-39|1:47:29|1973|DEU
+9|2|6342|Putzger, Simone|TSV Dresden|Halbmarathon-Lauf|Frauen 50-54|1:50:38|1961|DEU
+10|3|6075|Altmann, Martina|Dippoldiswalde|Halbmarathon-Lauf|Frauen 50-54|1:51:06|1961|DEU
+11|2|6262|Jendro, Stefanie|SCC Skating/ GDRT/ Cado motus|Halbmarathon-Lauf|Frauen 30-34|1:51:29|1980|DEU
+12|3|6377|Liehr, Henriette|Radsportverein Bautzen|Halbmarathon-Lauf|Frauen 30-34|1:53:18|1979|DEU
+13|3|6444|Krautz, Maria|Neustadt/Spree|Halbmarathon-Lauf|Frauen 20-29|1:59:43|1989|DEU
+14|1|6208|Stenzel, Gritt|Motor Saspow|Halbmarathon-Lauf|Frauen 40-44|2:00:05|1968|DEU
+15|4|6214|Blankertz-Teichert, Antje|Neustadt|Halbmarathon-Lauf|Frauen 45-49|2:00:40|1967|DEU
+16|4|6165|Daoudi, Malika|Kiebitzstampfer Dresden|Halbmarathon-Lauf|Frauen 20-29|2:02:23|1984|DEU
+17|5|6420|Müller, Cornelia|Stadt Wehlen|Halbmarathon-Lauf|Frauen 45-49|2:03:04|1963|DEU
+18|6|6186|Kasprick, Petra|LC Cottbus|Halbmarathon-Lauf|Frauen 45-49|2:03:19|1966|DEU
+19|4|6264|Werner, Petra|Schirgiswalde-Kirschau|Halbmarathon-Lauf|Frauen 50-54|2:04:38|1961|DEU
+20|2|6429|Wonde, Kerstin|Krauschwitz|Halbmarathon-Lauf|Frauen 40-44|2:09:31|1969|DEU
+21|7|6456|Biastoch, Gabriele|SG Großröhrsdorf|Halbmarathon-Lauf|Frauen 45-49|2:10:14|1967|DEU
+22|3|6099|Dehlitsch, Ulrike|Hoyerswerda SV 1919|Halbmarathon-Lauf|Frauen 40-44|2:11:11|1970|DEU
+23|5|6004|Seher, Aline|Bad Muskau|Halbmarathon-Lauf|Frauen 20-29|2:15:18|1985|DEU
+24|4|6371|Schmidt, Anett|Weißwasser|Halbmarathon-Lauf|Frauen 40-44|2:17:01|1971|DEU
+25|8|6091|Dander, Lydia|Dresden-Weixdorf|Halbmarathon-Lauf|Frauen 45-49|2:21:36|1965|DEU
+26|5|6129|Persicke, Birgit|Großschönau|Halbmarathon-Lauf|Frauen 50-54|2:23:00|1962|DEU
+27|6|6090|Dander, Elisabeth|Dresden Weixdorf|Halbmarathon-Lauf|Frauen 20-29|2:27:29|1989|DEU
+28|4|6085|Mießner, Mandy|Dresden|Halbmarathon-Lauf|Frauen 30-34|2:28:39|1978|DEU
+0|0|7132|Röder, Ulrich|Hamburg|Halbmarathon-Walken|Männer|3:00:50|1935|DEU
+1|1|8511|Vasek, Petr|Inlajn.CZ|Inlineskate-Halbmarathon|Männer AK 40|0:38:02|1971|DEU
+2|2|8512|Choc, Petr|Inlajn.CZ|Inlineskate-Halbmarathon|Männer AK 40|0:38:26|1964|DEU
+3|3|8157|Pulda, Václav|Inlajn cz|Inlineskate-Halbmarathon|Männer AK 40|0:38:34|1969|CZE
+4|4|8506|Rudolph, Dirk|Speed-Team-Franken|Inlineskate-Halbmarathon|Männer AK 40|0:38:38|1966|DEU
+5|5|8514|von Danckelman, Sven|Skiclub Cottbus|Inlineskate-Halbmarathon|Männer AK 40|0:43:38|1970|DEU
+
+6|1|8509|Sachon, Roman|Dresden|Inlineskate-Halbmarathon|Männer AK 30|0:43:49|1978|DEU
+7|2|8491|Lindwedel, Daniel|GDRT Cado Motus|Inlineskate-Halbmarathon|Männer AK 30|0:45:17|1979|DEU
+8|1|8139|Busch, Dietrich|Hoyerswerda|Inlineskate-Halbmarathon|Männer AK 60|0:45:20|1943|DEU
+9|1|8158|Nothing, Frank|Inselsport Wiednitz|Inlineskate-Halbmarathon|Männer AK 50|0:45:20|1960|DEU
+10|1|8319|Pakoßnick, Gernot|SV Kubschütz|Inlineskate-Halbmarathon|Männer AK 70|0:45:21|1942|DEU
+11|6|8510|Bärsch, Holger|Hoyerswerda|Inlineskate-Halbmarathon|Männer AK 40|0:45:22|1963|DEU
+12|2|8515|Sonnek, Hagen|Skiclub Cottbus|Inlineskate-Halbmarathon|Männer AK 50|0:45:25|1957|DEU
+13|7|8479|Führ, Eike|Berlin|Inlineskate-Halbmarathon|Männer AK 40|0:45:31|1969|DEU
+14|8|8218|Barthe, Enrico|Nochten|Inlineskate-Halbmarathon|Männer AK 40|0:45:33|1968|DEU
+15|9|8503|Kolar, Petr|Ducks|Inlineskate-Halbmarathon|Männer AK 40|0:45:50|1970|CZE
+16|2|8505|Krcmar, Zedenek|Ducks|Inlineskate-Halbmarathon|Männer AK 60|0:45:53|1946|CZE
+17|10|8156|Hanzlicek, Jaroslav|Inlajn cz|Inlineskate-Halbmarathon|Männer AK 40|0:48:25|1965|CZE
+18|11|8464|Altmann, Jörg|Unwürde|Inlineskate-Halbmarathon|Männer AK 40|0:49:42|1968|DEU
+19|12|8202|Birkholz, Jörg|Meeraner-Skate-Team|Inlineskate-Halbmarathon|Männer AK 40|0:50:41|1965|DEU
+20|2|8034|Mandel, Peter|Berlin|Inlineskate-Halbmarathon|Männer AK 70|0:50:44|1942|DEU
+21|3|8035|Heuer, Sylvio|Berlin|Inlineskate-Halbmarathon|Männer AK 30|0:50:58|1978|DEU
+22|13|8502|Lauke, Frank|AC Sohland|Inlineskate-Halbmarathon|Männer AK 40|0:51:18|1967|DEU
+23|4|8516|Winkler, Maik|Feuerwehr Niesky Stadt|Inlineskate-Halbmarathon|Männer AK 30|0:52:13|1982|DEU
+24|3|8501|Schlenstedt, Manfred|SCC XSpeed Team Berlin|Inlineskate-Halbmarathon|Männer AK 60|0:53:21|1944|DEU
+25|5|8289|Güttler, Markus|Slow Motion Express|Inlineskate-Halbmarathon|Männer AK 30|0:53:22|1976|DEU
+26|3|8517|Kupke, Uwe|Bautzen|Inlineskate-Halbmarathon|Männer AK 50|0:53:49|1962|DEU
+27|14|8508|Waschull, Mike|SCC Skating|Inlineskate-Halbmarathon|Männer AK 40|0:53:56|1963|DEU
+28|1|8317|Petzold, Oliver|SV Grün-Weiß Elstra|Inlineskate-Halbmarathon|Aktive Männer|0:56:38|1993|DEU
+29|1|8315|Pluder, Alex|SV Grün-Weiß Elstra|Inlineskate-Halbmarathon|Junioren B|1:03:59|1997|DEU
+30|1|8316|Pluder, Ronny|SV Grün-Weiß Elstra|Inlineskate-Halbmarathon|Junioren A|1:04:30|1995|DEU
+31|15|8178|Hojka, Michael|Kreba|Inlineskate-Halbmarathon|Männer AK 40|1:05:42|1970|DEU
+1|1|8513|von Danckelman, Sybille|Skiclub Cottbus|Inlineskate-Halbmarathon|Frauen AK 40|0:45:29|1967|DEU
+2|1|8318|Anders, Andrea|SV Grün-Weiß Elstra|Inlineskate-Halbmarathon|Frauen AK 50|0:45:58|1962|DEU
+3|1|8320|Ritzrow, Janina|SV Lok Engelsdorf|Inlineskate-Halbmarathon|Aktive Frauen|0:50:54|1987|DEU
+4|1|8520|Kasper, Madlen|Eissport WSW|Inlineskate-Halbmarathon|Frauen AK 30|0:51:17|1973|DEU
+5|2|8101|Gottwald, Susan|EM Skate Team Görlitz|Inlineskate-Halbmarathon|Aktive Frauen|0:53:22|1987|DEU
+6|2|8215|Mann, Michaela|Niesky|Inlineskate-Halbmarathon|Frauen AK 30|0:57:46|1979|DEU
+7|2|8504|Bazantova, Zora|Ducks|Inlineskate-Halbmarathon|Frauen AK 50|1:00:58|1962|CZE
+8|3|8063|Ladusch, Nicole|Böhlen|Inlineskate-Halbmarathon|Aktive Frauen|1:03:57|1989|DEU
+9|3|8518|Wittig, Juliane|Kliingewalde|Inlineskate-Halbmarathon|Frauen AK 30|1:05:50|1980|DEU
+10|2|8519|Karbaum, Christine|Görlitz|Inlineskate-Halbmarathon|Frauen AK 40|1:05:56|1968|DEU
+11|3|8100|Gottwald, Monika|EM Skate Team Görlitz|Inlineskate-Halbmarathon|Frauen AK 50|1:06:06|1960|DEU
+12|4|8177|Ladusch, Petra|Krauschwitz|Inlineskate-Halbmarathon|Frauen AK 50|1:07:29|1958|DEU
+13|4|8521|Slivka, Daria|Bautzen|Inlineskate-Halbmarathon|Frauen AK 30|1:10:16|1978|DEU
+14|5|8238|Linke, Sandra|Radebeul|Inlineskate-Halbmarathon|Frauen AK 30|1:13:58|1980|DEU

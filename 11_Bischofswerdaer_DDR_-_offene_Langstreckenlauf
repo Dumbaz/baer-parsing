@@ -1,0 +1,403 @@
+To.|Ak.|Stnr.|Name, Vorname|Verein|Strecke|AK|Bruttozeit||Nat
+
+0|1|0|Albrecht, Danny|SC Cottbus|10,0km||0:34:59|1972|
+0|1|0|May, Michael|SCE Dresden|10,0km||0:35:41|1973|
+0|2|0|Schubert, Patrick|SCE Dresden|10,0km||0:36:26|1973|
+0|3|0|Biesold, Ronny|SCE Dresden|10,0km||0:37:20|1973|
+0|4|0|Egg, Stefan|SCE Dresden|10,0km||0:37:29|1973|
+0|5|0|Pellmann, Danny|SCE Dresden|10,0km||0:37:39|1974|
+0|2|0|Hesse, Markus|BSG Fortschritt Pirna|10,0km||0:38:45|1972|
+0|3|0|Schulz, Michael|SCE Dresden|10,0km||0:38:53|1972|
+0|4|0|Weber, Thomas|BSG Fortschritt Pirna|10,0km||0:39:26|1972|
+0|5|0|Buschbeck, Sven|BSG Motor Freital|10,0km||0:40:04|1973|
+0|6|0|Gocht, Sven|BSG Planeta Radebeul|10,0km||0:40:35|1972|
+0|1|0|Müller, Werner|BSG Albert Funk Freiberg|10,0km||0:42:34|1928|
+0|7|0|Ubel, Alexander|BSG Fortschritt Pirna|10,0km||0:42:39|1972|
+0|8|0|Brunner, Dirk|BSG Fortschritt Pirna|10,0km||0:42:43|1972|
+0|6|0|Ehrlich, Sven|SG Großröhrsdorf|10,0km||0:43:10|1973|
+0|2|0|Engelbrecht, Gunter|BSG Stahl Riesa|10,0km||0:43:54|1928|
+0|9|0|Siegel, Konrad|BSG Fortschritt Pirna|10,0km||0:44:11|1972|
+0|3|0|Rößler, Ernst|WSG Neueibau|10,0km||0:44:28|1926|
+0|7|0|Mann, Michael|BSG Fortschritt Pirna|10,0km||0:45:25|1974|
+0|8|0|Gersdorf, Ronny|SG Großröhrsdorf|10,0km||0:47:58|1973|
+0|4|0|Vetter, Joachim|BSG Planeta Radebeul|10,0km||0:48:51|1925|
+0|5|0|Wuschick, Werner|BSG Aufbau Dresden Nord|10,0km||0:50:06|1925|
+0|1|0|Fritzsche, Artur|BSG Lok Görlitz|10,0km||0:56:08|1915|
+0|2|0|Näther, Heinz|BSG Fortschritt Neukirch|10,0km||1:01:06|1922|
+0|3|0|Regel, Siegmund|TSG Blau-Weiß Dresden-Zschachw|10,0km||1:04:32|1913|
+0|1|0|Wolf, Kathrin|SCE Dresden|10,0km||0:37:42|1966|
+0|2|0|Otto, Anke|Bergmann-Borsig Berlin|10,0km||0:38:47|1967|
+0|3|0|Kühner, Sabine|BSG Robotron Dresden|10,0km||0:39:44|1965|
+0|1|0|Jahns, Karen|Motor Wernigerode|10,0km||0:40:44|1940|
+0|4|0|Tanzmann, Katrin|Medizin Crostau|10,0km||0:41:42|1969|
+0|1|0|Hördler, Elke|SG Dynamo Dresden|10,0km||0:41:47|1948|
+0|5|0|Ehm, Birgit|BSG Motor Freital|10,0km||0:42:13|1968|
+0|1|0|Otto, Heide|Lok Dresden|10,0km||0:43:11|1938|
+0|1|0|Gocht, Dagmar|BSG Planeta Radebeul|10,0km||0:45:51|1952|
+0|6|0|Otto, Annett|BSG Empor Dresden-West|10,0km||0:46:50|1969|
+0|2|0|Harzbecker, Rosmarie|Traktor Reichenbach|10,0km||0:47:26|1941|
+0|7|0|Lüdecke, Monika|Stahl Riesa|10,0km||0:47:48|1966|
+0|1|0|Wittig, Sigrid|SG Dynamo Leipzig Nord|10,0km||0:48:19|1954|
+0|2|0|Roitzsch, Angela|BSV 68 Sebnitz|10,0km||0:49:23|1957|
+0|8|0|Winkler, Annegret|Rotation Dresden|10,0km||0:50:39|1970|
+0|3|0|Ebert, Monika|Dresden|10,0km||0:51:22|1955|
+0|9|0|Saupe, Christina|BSG Einheit Dresden-Ring|10,0km||0:52:04|1969|
+0|10|0|Haufe, Cornelia|ISG Getriebe Ohorn|10,0km||0:52:16|1965|
+0|11|0|Wittrock, Steffi|Stahl Riesa|10,0km||0:52:18|1966|
+0|1|0|Schwinge, Sigrid|BSG KOSORA Dresden|10,0km||0:52:30|1929|
+0|2|0|Gerlach, Martina|BSG Einheit Zittau|10,0km||0:53:12|1952|
+0|2|0|Garbe, Erika|KWV Görlitz LG Landeskrone|10,0km||0:54:00|1948|
+0|12|0|Hering, Kerstin|BSG Empor Dresden-West|10,0km||0:55:04|1966|
+0|3|0|Schubert, Helga|Lok Bautzen|10,0km||0:55:57|1946|
+0|4|0|Zosel, Sigrid|BSG Empor Sohland|10,0km||0:56:10|1944|
+0|3|0|Ulbricht, Edeltraud|BSG Fortschritt Neustadt|10,0km||0:57:38|1941|
+0|4|0|Zschiedrich, Anke|BSG Robotron Dresden|10,0km||0:58:40|1956|
+0|2|0|Wegner, Helgard|BSG Fortschritt Neustadt|10,0km||1:00:33|1938|
+0|1|0|Otto, Jörg|TU Dresden|20,0km||1:03:57|1964|
+0|2|0|Rosenow, Wolfram|TU Dresden|20,0km||1:04:06|1958|
+0|3|0|Holstein, Iven|HSG TH Ilmenau|20,0km||1:04:51|1964|
+0|4|0|Schlicke, Lars|SCE Dresden|20,0km||1:05:53|1966|
+0|1|0|Melzer, Lutz|SCE Dresden|20,0km||1:06:20|1970|
+0|5|0|Zimmermann, Gerd|BSG Planeta Radebeul|20,0km||1:06:46|1961|
+0|1|0|Henzel, Gerald|Dynamo Zentral Dresden|20,0km||1:06:49|1948|
+0|6|0|Jähnigen, Matthias|HSG TU Dresden|20,0km||1:07:48|1958|
+0|2|0|Schlicke, Eric|FSG Einheit Nossen|20,0km||1:07:58|1970|
+0|7|0|Dittes, Andreas|BSG Robotron Dresden|20,0km||1:08:31|1963|
+0|1|0|Böhmer, Winfried|BSG Lok Görlitz|20,0km||1:08:36|1942|
+0|8|0|Simon, Henrik|BSV 68 Sebnitz|20,0km||1:08:54|1962|
+0|2|0|Hilger, Rainer|BSV 68 Sebnitz|20,0km||1:09:15|1945|
+0|9|0|Müller, Mattias|TSG Bühlau|20,0km||1:09:16|1959|
+0|10|0|Kleider, Bernd|Robotron Dresden|20,0km||1:09:20|1957|
+0|11|0|Posselt, Hubertus|Einheit Zittau|20,0km||1:09:47|1956|
+0|12|0|Gnauck, Dick|ASG Vorwärts Kamenz Nord|20,0km||1:10:17|1963|
+0|13|0|Zeuke, Carsten|DHfK Leipzig|20,0km||1:11:08|1962|
+0|14|0|Lasch, Thoralf|BSG Planeta Radebeul|20,0km||1:11:19|1968|
+0|1|0|Tillig, Frank|BSG Lok Görlitz|20,0km||1:11:19|1955|
+0|3|0|Gerle, Frank|BSG Lok Görlitz|20,0km||1:11:59|1948|
+0|15|0|Lorke, Steffen|BSG Robotron Radeberg|20,0km||1:12:01|1956|
+0|16|0|Senftleben, Heiko|Chemie Manebach|20,0km||1:12:23|1965|
+0|17|0|Pietsch, Uwe|BSV 68 Sebnitz|20,0km||1:12:36|1958|
+0|3|0|Hollerung, Frank|SCE Dresden|20,0km||1:12:40|1970|
+0|2|0|Müller, Bernd|Robotron Dresden|20,0km||1:12:45|1951|
+0|18|0|Kaul, Michael|SCE Dresden|20,0km||1:13:13|1969|
+0|19|0|Stölzel, Alexander|BSG Robotron Dresden|20,0km||1:13:15|1970|
+0|20|0|Radke, Jens|Traktor Struppen|20,0km||1:13:33|1964|
+0|4|0|Jäckel, Jens|SCE Dresden|20,0km||1:13:58|1971|
+0|3|0|Reichel, Jörg|Stahl Schmiedeberg|20,0km||1:14:04|1950|
+0|2|0|Pump, Uwe|BSG Mikroelektronik Dresden|20,0km||1:14:20|1943|
+0|21|0|Schlegel, Bernhard|BSG Lok Cottbus|20,0km||1:14:21|1962|
+0|4|0|Eschler, Siegfried|Motor Bautzen|20,0km||1:14:21|1952|
+0|22|0|Hanusch, Torsten|WSG Gesundbrunnen Bautzen|20,0km||1:14:31|1959|
+0|23|0|Umlauf, Steffen|DW Hellerau|20,0km||1:14:44|1961|
+0|3|0|Läntzsch, Siegmar|Stahl Schmiedeberg|20,0km||1:14:55|1943|
+0|5|0|Seifert, Sven|SCE Dresden|20,0km||1:15:09|1971|
+0|6|0|Gasse, Maik|BSG Lok Görlitz|20,0km||1:15:35|1971|
+0|5|0|Venus, Gunter|BSG Robotron Dresden|20,0km||1:15:39|1955|
+0|4|0|Rost, Michael|BSG Blaue Schwerter Meißen|20,0km||1:15:42|1948|
+0|6|0|Nüske, Lutz|BSG Mikroelektronik Dresden|20,0km||1:15:44|1954|
+0|4|0|Hönicke, Claus|Traktor Zabeltitz|20,0km||1:15:49|1942|
+0|7|0|Georgi, Dirk|SCE Dresden|20,0km||1:15:57|1971|
+0|2|0|Erhard, Günter|BSG Fo Biw.|20,0km||1:16:01|1936|
+0|5|0|Staske, Manfre|BSG Verkehrsbetriebe|20,0km||1:16:36|1942|
+0|6|0|Häcker, Fritz|BSV 68 Sebnitz|20,0km||1:16:38|1943|
+
+0|7|0|Trapp, Bernhard|Wismut Pirna|20,0km||1:16:39|1941|
+0|8|0|Rupprecht, Herbert|BSG KWV Görlitz|20,0km||1:16:41|1939|
+0|24|0|Weber, Matthias|Lok Dresden|20,0km||1:16:45|1958|
+0|5|0|Polleschner, Roland|BSG Mikroelektronik Dresden|20,0km||1:16:54|1945|
+0|25|0|Paul, Gunter|Burkau|20,0km||1:16:56|1963|
+0|6|0|Koch, Hans-Peter|Motor  Niesky|20,0km||1:17:01|1944|
+0|3|0|Paul, Wilhelm|BSG Fortschritt Neustadt|20,0km||1:17:19|1934|
+0|7|0|Gocht, Hartmut|BSG Planeta Radebul|20,0km||1:17:20|1947|
+0|9|0|Hellmann, Uwe|BSG Obstproduktion Borten|20,0km||1:17:24|1943|
+0|8|0|Kühn, Gerald|BSG Stahl Riesa|20,0km||1:17:29|1944|
+0|8|0|Lange, Rene|BSG Lok Dresden|20,0km||1:17:33|1971|
+0|10|0|Melzer, Rüdiger|BSG Robotron Radeberg|20,0km||1:17:35|1940|
+0|11|0|Harzbecker, Gerhard|Traktor Reichenbach|20,0km||1:17:43|1941|
+0|7|0|Kirst, Frank|FES Dresden|20,0km||1:17:46|1953|
+0|12|0|Ewers, Dietrich|Robotron Dresden Mitte|20,0km||1:17:50|1939|
+0|8|0|Papst, Thomas|BSG Obstproduktion Dresden|20,0km||1:17:58|1952|
+0|26|0|Zocher, Frank|BSG Wissenschaft Kreischa|20,0km||1:18:00|1969|
+0|13|0|Wolf, Hartmut|BSG Einheit Dresden Ring|20,0km||1:18:00|1942|
+0|27|0|Bölter, Dirk|SG Dynamo Artur Becker|20,0km||1:18:05|1961|
+0|28|0|Böhmer, Matthias|TU Dresden|20,0km||1:18:16|1966|
+0|29|0|Hoffmann, Karsten|LG Burkau|20,0km||1:18:30|1961|
+0|9|0|Jancker, Hans-Dieter|HSG TU Dresden|20,0km||1:18:41|1952|
+0|14|0|Hänel, Bernd|TU Dresden|20,0km||1:18:44|1942|
+0|9|0|Mietzsch, Gerald|Dynamo Meißen|20,0km||1:18:47|1945|
+0|30|0|Hauffe, Bert|BSG Wismut Pirna-Copitz|20,0km||1:19:12|1966|
+0|31|0|Hensel, Stefan|BSG Obstproduktion Borten|20,0km||1:19:18|1960|
+0|15|0|Löffler, Wilfried|BSG Fortschritt Neustadt|20,0km||1:19:23|1939|
+0|16|0|Friedrich, Horst|Wismut Pirna|20,0km||1:19:38|1940|
+0|9|0|Patzig, Daniel|BSG Motor Freital|20,0km||1:19:54|1972|
+0|32|0|Runge, Kai|HSG KMU Leipzig|20,0km||1:19:56|1965|
+0|10|0|Hüttig, Matthias|BSG Lok Görlitz|20,0km||1:20:01|1971|
+0|10|0|Genzel, Hartmut|WSG Gesundbrunnen Bautzen|20,0km||1:20:12|1949|
+0|17|0|Schiepek, Dieter|Empor Heidenau|20,0km||1:20:21|1939|
+0|10|0|Gerlach, Klaus|ASG OHS Zittau|20,0km||1:20:25|1945|
+0|11|0|Rössel, Günther|BSG Wissenschaft Kreischa|20,0km||1:20:42|1944|
+0|18|0|Gaube, Horst|BSG Wismut Pirna-Copitz|20,0km||1:20:47|1941|
+0|33|0|Wobst, Jens|SCE Dresden|20,0km||1:20:49|1969|
+0|19|0|Pakossnik, Gernot|Motor Bautzen|20,0km||1:21:00|1942|
+0|4|0|Walther, Henry|BSG Aufbau Dresden Mitte|20,0km||1:21:02|1937|
+0|20|0|Lipp, Dieter|Motor Heidenau|20,0km||1:21:09|1941|
+0|12|0|Dühring, Ralf|Robotron Dresden|20,0km||1:21:12|1947|
+0|11|0|Hapatzky, Rolf|ISG Getriebe Ohorn|20,0km||1:21:15|1955|
+0|34|0|Kessler, Thomas|BSG Einheit Ring Dresden|20,0km||1:21:36|1962|
+0|35|0|Nowak, Gustlik|Fortschritt Ostritz|20,0km||1:21:39|1958|
+0|13|0|Haupt, Jürgen|BSG Wismut Pirna Copitz|20,0km||1:21:42|1945|
+0|21|0|Erhardt, Klaus|BSG Motor Hainichen|20,0km||1:21:47|1940|
+0|14|0|Träber, Jürgen|BSG Robotron Radeberg|20,0km||1:21:49|1945|
+0|12|0|Märker, Günther|BSG Einheit Ring Dresden|20,0km||1:21:51|1951|
+0|15|0|Deck, Gerd-Erich|TU Dresden|20,0km||1:21:55|1944|
+0|36|0|Werther, Gunnar|HSG DHfK Leipzig|20,0km||1:22:03|1962|
+0|16|0|Hebestreit, Werner|DG Dynamo Dzierzynski|20,0km||1:22:04|1947|
+0|5|0|Fischer, Klaus|SG Dynamo Elbe Dresden|20,0km||1:22:06|1934|
+0|37|0|Bak, Josef|BSV 68 Sebnitz|20,0km||1:22:13|1956|
+0|22|0|Börner, Bernd|BSG Einheit Dresden Ring|20,0km||1:22:14|1941|
+0|13|0|Burow, Andreas|BSG Obstproduktion Borten|20,0km||1:22:20|1953|
+0|17|0|Niemz, Hans-Jochen|Rotation Dresden|20,0km||1:22:23|1944|
+0|14|0|Kunath, Christian|SG Oberlichtenau|20,0km||1:22:25|1953|
+0|15|0|Schäfer, Gerald|BSG Fo Biw.|20,0km||1:22:26|1955|
+0|23|0|Morchner, Werner|TSG Blau-Weiß Reichenbach/V.|20,0km||1:22:29|1941|
+0|6|0|Menzel, Gottfried|BSG Hochvakuum Dresden|20,0km||1:22:37|1934|
+0|38|0|Wegner, Torsten|BSG Lok Görlitz|20,0km||1:22:51|1966|
+0|16|0|Weidmann, Wolfgang|BSG Robotron Radeberg|20,0km||1:22:53|1954|
+0|7|0|Bartel, Manfred|Motor Niesky|20,0km||1:22:54|1934|
+0|17|0|Laudeley, Frank|BSG Motor Hainichen|20,0km||1:23:00|1917|
+0|8|0|Rittmeyer, Immo|BSG Wismut Pirna Copitz|20,0km||1:23:19|1936|
+0|24|0|Blei, Gernot|Wismut Pirna|20,0km||1:23:22|1942|
+0|18|0|Kurze, Bernd|BSV 68 Sebnitz|20,0km||1:23:24|1949|
+0|39|0|Kühn, Heiko|BSG Verkehrsbetriebe Dresden|20,0km||1:23:29|1968|
+0|9|0|Voigt, Johannes|BSG Einheit Zittau|20,0km||1:23:43|1936|
+0|11|0|Borstnitz, Frank|Traktor Zabeltitz|20,0km||1:23:50|1971|
+0|40|0|Umlauf, Holger|BSG Chemie Ottendorf-Okrilla|20,0km||1:23:51|1959|
+0|41|0|Pissarius, Rico|BSG Lok Eberswalde|20,0km||1:24:14|1967|
+0|18|0|Adolphi, Joachim|Messelektronik Dresden|20,0km||1:24:25|1948|
+0|10|0|Krausch, Gottfried|BSG Lautex Neugersdorf|20,0km||1:24:31|1934|
+0|25|0|Guhr, Dietmar|BSG Robotron Radeberg|20,0km||1:24:33|1943|
+0|26|0|Junge, Klaus|ISG Oberoderwitz|20,0km||1:24:42|1939|
+0|12|0|Partzsch, Hendrik|ASG Vorwärts Dresden|20,0km||1:25:25|1972|
+0|42|0|Polte, Frank|SG Blasewitz Dresden|20,0km||1:25:29|1970|
+0|11|0|Brahn, Lothar|Empor Heidenau|20,0km||1:25:30|1936|
+0|43|0|Hielscher, Andreas|HSG DHfK Leipzig|20,0km||1:25:53|1962|
+0|44|0|Voigt, Peter|BSG Obstproduktion Borten|20,0km||1:25:57|1960|
+0|27|0|Winkler, Peter|BSG Mikroelektronik Dresden|20,0km||1:25:58|1940|
+0|12|0|Scholze, Eberhard|BSG Empor Löbau|20,0km||1:26:37|1937|
+0|45|0|Schulze, Heiko|Robotron Dresden|20,0km||1:26:44|1964|
+0|13|0|Böhme, Kai|Textilv. Großßenhain|20,0km||1:26:51|1970|
+0|28|0|Märmann, Albert|SG KWV Görlitz|20,0km||1:27:02|1943|
+0|29|0|Eichler, Klaus|BSG Pentacon Dresden|20,0km||1:27:06|1941|
+0|19|0|Grafe, Bernd|Pneumant Dresden|20,0km||1:27:14|1944|
+0|19|0|Borkert, Wolfgang|BSG Motor Meißen|20,0km||1:27:16|1954|
+0|13|0|Schmidt, Hans-Georg|BSG Obstbau Borthen|20,0km||1:27:20|1938|
+0|14|0|Wandelt, Ulrich|BSG Einheit Ring Dresden|20,0km||1:27:24|1934|
+0|20|0|Ronatschk, Ulrich|ISG Getriebe Ohorn|20,0km||1:27:30|1950|
+0|20|0|Richter, Hans-Jürgen|LG Burkau|20,0km||1:27:31|1947|
+0|15|0|Lange, Wolfgang|BSG HO-Industrie Dresden|20,0km||1:27:42|1938|
+0|21|0|Müller, Klaus-Dieter|BSG Motor Bautzen|20,0km||1:28:10|1944|
+0|22|0|Winter, Jürgen|LG Weinböhla|20,0km||1:28:15|1948|
+0|16|0|Stachowiak, Heinz|ASG Militärakademie Dresden|20,0km||1:28:19|1936|
+0|30|0|Wittig, Jörg|SG Dynamo Leipzig Mitte|20,0km||1:28:40|1942|
+0|17|0|Niemetz, Gustav|LG Landeskrone Görlitz|20,0km||1:28:45|1938|
+0|23|0|Schneider, Ulrich|VS Dresden|20,0km||1:28:55|1946|
+
+0|24|0|Schreiber, Hartmut|BSG Sachsenwerk Dresden|20,0km||1:28:56|1944|
+0|31|0|Zosel, Hans|BSG Fortschritt Eibau|20,0km||1:29:07|1939|
+0|32|0|Rothe, Siegfried|SG Oberlichtenau|20,0km||1:29:11|1943|
+0|18|0|Arndt, Horst|TSG Dresden Bühlau|20,0km||1:29:14|1937|
+0|25|0|Steuck, Ekkehard|BSG Stahl Coswig|20,0km||1:29:16|1944|
+0|46|0|Weidensdorfer, Jörg|EBT Berlin|20,0km||1:29:22|1956|
+0|33|0|Lukas, Wolfgang|Rat d. Kreises Hoyerswerda|20,0km||1:29:39|1941|
+0|26|0|Berge, Burkhard|BSG Fortschritt Neustadt|20,0km||1:29:56|1944|
+0|34|0|Schulze, Günter|BSG Fortschritt Neustadt|20,0km||1:29:57|1940|
+0|25|0|Müller, Ulf|Lok Freiberg|20,0km||1:30:06|1950|
+0|27|0|Klett, Dieter|BSG Verkehrsbetriebe|20,0km||1:30:14|1945|
+0|28|0|Garbe, H-Joachim|KWV Görlitz Landeskrone|20,0km||1:30:15|1945|
+0|19|0|Berge, Rudolf|SG Großrörhsdorf|20,0km||1:31:27|1936|
+0|35|0|Schmidt, Fred|Einheit Ring Dresden|20,0km||1:31:36|1941|
+0|47|0|Wildner, Mario|HSG TU Dresden|20,0km||1:31:55|1960|
+0|21|0|Haubold, Rainer|SG Dynamo Dzierzynski|20,0km||1:32:10|1950|
+0|36|0|Werner, Hansjürgen|BSV 68 Sebnitz|20,0km||1:32:31|1943|
+0|48|0|Homann, Werner|BSG Stahl Riesa|20,0km||1:32:37|1957|
+0|37|0|Karneth, Siegfried|BSG Pädagogik Hoyerswerda|20,0km||1:32:41|1941|
+0|20|0|Marks, Harald|BSG Einheit Ring Dresden|20,0km||1:32:55|1936|
+0|1|0|Grünler, Armin|Stahl Freital|20,0km||1:33:03|1929|
+0|38|0|Scheibner, Manfred|BSG Rotation 50 Leipzig|20,0km||1:33:04|1939|
+0|29|0|Arnold, Hans-Rainer|BSG Einheit Dresden Süd|20,0km||1:33:51|1944|
+0|22|0|Fleischer, Peter|BSG Robotron Dresden Mitte|20,0km||1:34:07|1950|
+0|23|0|Hausmann, Karsten|BSG Einheit Zittau|20,0km||1:34:37|1953|
+0|2|0|Rode, Gerhard|Motor Großenhain|20,0km||1:34:47|1933|
+0|39|0|Berndt, Helfried|SG Dynamo Elbe Dresden|20,0km||1:34:51|1942|
+0|49|0|Tomisch, Andreas|Langebrück|20,0km||1:35:07|1965|
+0|50|0|Rottenau, Harry|HSG DHfK Leipzig|20,0km||1:35:08|1962|
+0|24|0|Neumann, Bernd|SG Dynamo Dzierzynski|20,0km||1:35:22|1953|
+0|21|0|Munke, Gerhard|BSG Lok Dresden|20,0km||1:35:54|1934|
+0|40|0|Hohenstein, Gert|Traktor Berthelsdorf|20,0km||1:36:46|1939|
+0|22|0|Klugert, Eberhard|BSG Sachsenwerk Dresden|20,0km||1:37:01|1938|
+0|41|0|Wegner, Manfred|BSG Lok Görlitz|20,0km||1:37:56|1940|
+0|42|0|Gluck, Gerhard||20,0km||1:38:00|1943|
+0|43|0|Kraft, Siegfried|Empor Tabak Dresden|20,0km||1:38:29|1943|
+0|30|0|Hanschk, Hans-Gerd|BSG Lok Bautzen|20,0km||1:39:24|1946|
+0|26|0|Bräuer, Helfried|BSG Fortschritt Neustadt|20,0km||1:39:47|1949|
+0|27|0|Pahler, Werner|KWV Görlitz Landeskrone|20,0km||1:40:13|1949|
+0|28|0|Damme, Eckhard|LG Weinböhla|20,0km||1:40:28|1949|
+0|3|0|Preuß, Karl|BSG Hochvakuum Dresden|20,0km||1:40:38|1933|
+0|29|0|Wallasch, Stephan|Lok Bautzen|20,0km||1:40:42|1955|
+0|1|0|Werrmann, Günter|Fortschritt Pirna|20,0km||1:41:22|1938|
+0|23|0|Hoffmann, Werner|Fortschritt Coswig|20,0km||1:41:46|1935|
+0|44|0|Sommer, Hartmut|SG DEynamo Dzierzynski|20,0km||1:41:58|1940|
+0|51|0|Riedel, Jörg|Albert Funk Freiberg|20,0km||1:42:00|1958|
+0|4|0|Lachmann, Werner|BSG Medizin Dresden|20,0km||1:44:24|1930|
+0|45|0|Rost, Ekkehard|BSG Einheit Zittau|20,0km||1:45:14|1942|
+0|30|0|Hüsni, Mathias|LG Burkau|20,0km||1:51:46|1954|
+0|5|0|Moskal, Günter|Motor Freital|20,0km||1:55:47|1929|
+0|6|0|Schaar, Heinz|Lok Dresden|20,0km||2:00:30|1929|
+0|1|0|Friedrich, Maik|BSG Fortschritt Pirna|5,0km||0:17:42|1966|
+0|2|0|Schreiber, Heiko|SG Bretnig|5,0km||0:17:43|1963|
+0|1|0|Lehmann, Frank|SCE Dresden|5,0km||0:17:45|1974|
+0|2|0|Hering, Tilo|Fortschritt Pirna|5,0km||0:17:58|1975|
+0|3|0|Hermann, Heinz|BSG Fo Biw.|5,0km||0:18:03|1949|
+0|3|0|Pflücke, Torsten|SCE Dresden|5,0km||0:18:08|1974|
+0|4|0|Melletin, Holm||5,0km||0:18:29|1970|
+0|4|0|Fischer, Björn|SC Cottbus|5,0km||0:18:30|1975|
+0|1|0|Pump, Carsten|BSG Mikroelektronik Dresden|5,0km||0:18:30|1976|
+0|2|0|Ender, Maik|HSG Turbine Zittau|5,0km||0:19:11|1976|
+0|6|0|Bär, Armin|BSG Fo Biw.|5,0km||0:19:14|1948|
+0|7|0|Böhmer, Robert|BSG Motor Bautzen|5,0km||0:19:16|1972|
+0|1|0|Vogt, Hagen|BSG Motor Bautzen|5,0km||0:19:22|1975|
+0|2|0|Hantzsch, Sven|Stahl Schmiedeberg|5,0km||0:19:42|1975|
+0|8|0|Frintert, Jan|ASG Vorwärts Dresden|5,0km||0:19:48|1972|
+0|5|0|Lengl, Pierre|HSG Turbine Zittau|5,0km||0:19:49|1975|
+0|6|0|Bär, Matthias|BSG Fo Biw.|5,0km||0:19:59|1974|
+0|3|0|Mauersberger, Thomas|HSG Turbine Zittau|5,0km||0:20:04|1976|
+0|9|0|Rutsch, Oliver|BSG Motor Bautzen|5,0km||0:20:05|1973|
+0|4|0|Zschiedrich, Sven|SG Großröhrsdorf|5,0km||0:20:11|1976|
+0|10|0|Haufe, Mike|SG Großröhrsdorf|5,0km||0:20:14|1973|
+0|11|0|Schäfer, Andre|BSG Fo Biw.|5,0km||0:20:14|1968|
+0|5|0|Kerber, Andreas|Bau Dresden West|5,0km||0:20:37|1975|
+0|12|0|Riedel, Wolfgang|Robotron Dresden|5,0km||0:20:40|1941|
+0|6|0|Nobleaux, Andre|Fortschritt Pirna|5,0km||0:20:46|1975|
+0|13|0|Brunner, Harry|Fortschritt Pirna|5,0km||0:20:57|1947|
+0|7|0|Hirsch, Ronny|BSG Stahl Riesa|5,0km||0:20:58|1974|
+0|7|0|Mayer, Ronald|HSG Turbine Zittau|5,0km||0:20:59|1975|
+0|8|0|Löb, Patrick|BSG Motor Freital|5,0km||0:21:04|1976|
+0|8|0|Güttel, Jörg|Planeta Radebeul|5,0km||0:21:04|1975|
+0|9|0|Reiche, Sebastian|BSG Motor Bautzen|5,0km||0:21:05|1975|
+0|3|0|Lerche, Mario|Stahl Schmiedeberg|5,0km||0:21:16|1976|
+0|14|0|Schäfer, Knut|Post Dresden|5,0km||0:21:21|1947|
+0|9|0|Voigt, Michael|HSG Turbine Zittau|5,0km||0:21:43|1975|
+0|10|0|Fraulob, Sebastian|BSG Robotron Dresden|5,0km||0:21:47|1976|
+0|10|0|Laudeley, Rene|BSG Motor Hainichen|5,0km||0:21:48|1975|
+0|15|0|Hebestreit, Enrico|BBS d. DP Dresden|5,0km||0:21:53|1970|
+0|4|0|Müller, Andre|HSG Turbine Zittau|5,0km||0:21:55|1976|
+0|11|0|Heselicht, Karsten|TSG Gröditz|5,0km||0:22:22|1974|
+0|12|0|Heger, Jens|BSG Fo Biw.|5,0km||0:22:27|1974|
+0|16|0|Arnold, Gottfried||5,0km||0:22:29|1938|
+0|17|0|Haasner, Frank|Motor Bautzen|5,0km||0:22:31|1970|
+0|18|0|Berthold, Dieter|Schuhfabrik Dresden|5,0km||0:22:43|1933|
+0|19|0|Hanisch, Gerd|TSG Gröditz|5,0km||0:22:49|1977|
+0|20|0|Schreiber, Steffen|BSG Fo Biw.|5,0km||0:22:53|1961|
+0|11|0|Haselicht, Falk|TSG Gröditz|5,0km||0:23:01|1976|
+0|13|0|Koch, Peter|Motor Niesky|5,0km||0:23:03|1975|
+0|12|0|Kirst, Mario|BSG Motor Dresden Neustadt|5,0km||0:23:26|1975|
+0|21|0|Schreiber, Lothar|BSG Fo Biw.|5,0km||0:23:43|1949|
+
+0|22|0|Rüger, Klaus|BSG Einheit Dresden Süd|5,0km||0:24:01|1946|
+0|23|0|Fleischer, Andrej|Robotron Dresden Mitte|5,0km||0:24:52|1978|
+0|24|0|Petzold, Sandro|SSG Burkau|5,0km||0:24:56|1978|
+0|25|0|Rößel, Nico|Wissenschaft Kreischa|5,0km||0:25:12|1978|
+0|26|0|Pietsch, Jan|POS Burkau|5,0km||0:25:46|1955|
+0|5|0|Bönisch, Kai|HSG Gröditz|5,0km||0:26:04|1977|
+0|14|0|Burow, Falk|Obstproduktion Birthen|5,0km||0:26:32|1974|
+0|15|0|Borrmann, Frank|SCE Dredsen|5,0km||0:26:37|1974|
+0|27|0|Prinz, Holger||5,0km||0:27:09|1965|
+0|28|0|Drechsel, Marcus|POS Burkau|5,0km||0:27:24|1978|
+0|29|0|Hüsni, Marcel|SSG Burkau|5,0km||0:27:28|1979|
+0|13|0|Buckan, Andre|POS Burkau|5,0km||0:29:24|1975|
+0|14|0|Niepelt, Sandy|POS Burkau|5,0km||0:29:24|1976|
+0|16|0|Westermann, Daniel|POS Burau|5,0km||0:30:13|1975|
+0|30|0|Tanzmann, Hubertus|BSG Medizin Crostau|5,0km||0:30:41|1943|
+0|31|0|Berndt, Stefan|Dynamo Elbe Dresden|5,0km||0:31:19|1979|
+0|32|0|Voigt, Daniel|POS Burkau|5,0km||0:33:29|1980|
+0|33|0|Eisold, Silko|POS Burkau|5,0km||0:33:32|1979|
+0|34|0|Berndt, Sandro|POS Burkau|5,0km||0:34:05|1979|
+0|1|0|Grießbach, Katrin|SCE Dresden|5,0km||0:17:25|1972|
+0|1|0|Schröder, Sandra|SC Cottbus|5,0km||0:18:35|1972|
+0|2|0|Dost, Kathrin|SCE Dresden|5,0km||0:18:37|1971|
+0|2|0|Schneider, Heike|SCE Dresden|5,0km||0:18:40|1973|
+0|3|0|Naumburger, Antje|SC Cottbus|5,0km||0:18:47|1972|
+0|4|0|Reuter, Kristin|SCE Dresden|5,0km||0:18:49|1972|
+0|1|0|Kalus, Antje|SCE Dresden|5,0km||0:18:50|1975|
+0|5|0|Wenzel, Sandra|SC Cottbus|5,0km||0:18:59|1973|
+0|3|0|Neumann, Ramona|SCE Dresden|5,0km||0:19:14|1971|
+0|2|0|Bauer, Berit|BSG Motor Freital|5,0km||0:19:22|1975|
+0|3|0|Heide, Dana|SC Cottbus|5,0km||0:19:29|1974|
+0|6|0|Stiebel, Anja|SC Cottbus|5,0km||0:19:44|1972|
+0|4|0|Garamszegi, Ines|SCE Dresden|5,0km||0:19:47|1971|
+0|7|0|Riedel, Jana|BSG Robotron Dresden|5,0km||0:19:48|1972|
+0|1|0|Liebich, Kristin|BSG Lok Görlitz|5,0km||0:19:49|1974|
+0|2|0|Heinicke, Anja|SCE Dresden|5,0km||0:19:52|1973|
+0|4|0|Rex, Birgit|SC Cottbus|5,0km||0:20:06|1975|
+0|5|0|Bolyi, Susann|SC Cottbus|5,0km||0:20:18|1974|
+0|1|0|Bräuer, Ivonne|Fortschritt Pirna|5,0km||0:20:21|1975|
+0|5|0|Berger, Manuela|SCE Dresden|5,0km||0:20:23|1972|
+0|3|0|Schaffrath, Anke|SG Großröhrsdorf|5,0km||0:20:31|1974|
+0|6|0|Vetter, Elke|SC Cottbus|5,0km||0:20:47|1975|
+0|8|0|Liebich, Annett|ASG Vorwärts Dresden|5,0km||0:21:03|1973|
+0|4|0|Knötig, Sandra|Fortschritt Pirna|5,0km||0:21:05|1973|
+0|2|0|Schenk, Susann|BSG Motor Bautzen|5,0km||0:21:06|1976|
+0|6|0|Lange, Ina|HSG Turbine Zittau|5,0km||0:21:11|1970|
+0|1|0|Otto, Claudia|Stahl Schmiedeberg|5,0km||0:21:17|1976|
+0|7|0|Hänel, Anja|SCE Dresden|5,0km||0:21:22|1974|
+0|3|0|Kern, Manuela|BSG Stahl Riesa|5,0km||0:21:33|1975|
+0|2|0|Apitz, Mandy|TSG Gröditz|5,0km||0:21:46|1977|
+0|9|0|Bauch, Simone|BSG Chemie Dohna/Heidenau|5,0km||0:21:58|1972|
+0|7|0|Schneider, Elke|BSG Stahl Riesa|5,0km||0:22:01|1972|
+0|8|0|Riedel, Anja|BSG Stahl Riesa|5,0km||0:22:10|1974|
+0|4|0|Lesche, Kathrin|ASG Vorwärts Kamenz|5,0km||0:22:36|1976|
+0|3|0|Weide, Sandra|BSG Stahl Riesa|5,0km||0:22:39|1977|
+0|5|0|Dörschel, Ute|BSG Stahl Riesa|5,0km||0:22:39|1975|
+0|10|0|Goltsch, Aline|LG Burkau|5,0km||0:23:06|1973|
+0|1|0|Burow, Katja|Obstproduktion Borthen|5,0km||0:23:07|1977|
+0|5|0|Leege, Kristin|ASG Vorwärts Dresden|5,0km||0:23:15|1974|
+0|8|0|Pittas, Rita|BSG Pentacon Görlitz|5,0km||0:23:47|1972|
+0|6|0|Wend, Cornelia|Fortschritt Pirna|5,0km||0:23:54|1973|
+0|11|0|Gräf, Anja|BSG Chemie Dohna/Heidenau|5,0km||0:24:03|1972|
+0|2|0|Miersch, Ina|SG Großröhrsdorf|5,0km||0:24:43|1969|
+0|12|0|Lange, Anja|LG Burkau|5,0km||0:25:00|1972|
+0|13|0|Hentschke, Evelyn|HSG Turbine Zittau|5,0km||0:25:15|1973|
+0|3|0|Schreiber, Carla|Fo Biw.|5,0km||0:26:06|1978|
+0|4|0|Zaunick, Sandra|BSG Fo Biw.|5,0km||0:26:45|1976|
+0|6|0|Wandelt, Corinna|LG Burkau|5,0km||0:26:50|1975|
+0|7|0|Herrmann, Antje|Fo Biw.|5,0km||0:26:54|1976|
+0|8|0|Rarisch, Manuela|POS Burkau|5,0km||0:26:54|1976|
+0|4|0|Obschonka, Kati|Fo Biw.|5,0km||0:26:54|1977|
+0|7|0|Schäfer, Jeannine|BSG Fo Biw.|5,0km||0:27:09|1974|
+0|5|0|Hebestreit, Tina|Dynamo F.E. Dzierzynsky|5,0km||0:27:19|1977|
+0|9|0|Ziesch, Manuela|LG Burkau|5,0km||0:27:42|1975|
+0|8|0|Bischoff, Michaela|BSG Pentacon Görlitz|5,0km||0:27:45|1974|
+0|9|0|Auerswald, Katrin|HSG Turbine Zittau|5,0km||0:28:32|1971|
+0|6|0|Fenske, Erika||5,0km||0:28:56|1956|
+0|7|0|Mechelk, Katja|POS Burkau|5,0km||0:29:28|1979|
+0|8|0|Fritsche, Nicole|POS Burkau|5,0km||0:29:28|1979|
+0|10|0|Müller, Michaela|POS Burkau|5,0km||0:29:33|1975|
+0|10|0|Wolf, Yvonne|LG Burkau|5,0km||0:29:40|1971|
+0|11|0|Geßwein, Katrin|LG Burkau|5,0km||0:29:41|1971|
+0|11|0|Hellebrandt, Jaqueline|POS Burkau|5,0km||0:30:30|1975|
+0|9|0|Hantusch, Susan|POS Burkau|5,0km||0:30:33|1974|
+0|10|0|Pallmer, Doreen|LG Burkau|5,0km||0:30:49|1974|
+0|11|0|Kuban, Antje|POS Burkau|5,0km||0:30:59|1974|
+0|9|0|Hartmann, Isabel|SSG Burkau|5,0km||0:31:18|1975|
+0|10|0|Menzel, Peggy|SSG Burkau|5,0km||0:31:18|1974|
+0|9|0|Drechsel, Ricarda|POS Burkau|5,0km||0:31:19|1977|
+0|5|0|Leubert, Yvonne|SSG Burkau|5,0km||0:31:20|1976|
+0|6|0|Pötschke, Gabriele|POS Burkau|5,0km||0:31:58|1976|
+0|12|0|Winkler, Cathleen|LG Burkau|5,0km||0:32:05|1975|
+0|13|0|Leubert, Yvonne|LG Burkau|5,0km||0:32:21|1976|
+0|12|0|Berndt, Kerstin|POS Burkau|5,0km||0:33:27|1974|
+0|10|0|Lädrich, Anja|POS Burkau|5,0km||0:33:59|1980|
+0|13|0|Marticke, Viola|POS Burkau|5,0km||0:34:00|1973|
+0|14|0|Ssyckow, Kirsten|POS Burkau|5,0km||0:34:01|1973|
+0|11|0|Hohlfeld, Janine|POS Burkau|5,0km||0:34:02|1981|
+0|12|0|Winkler, Nicoletta|POS Burkau|5,0km||0:34:02|1979|

@@ -1,0 +1,138 @@
+To.|Ak.|Stnr.|Name, Vorname|Verein|Strecke|AK|Bruttozeit||Nat
+
+1|1|256|Aßmann, Tom|Elstra|15 Minuten|Jungen|3420|2001|
+2|2|249|Heiduschka, Fabian|GS Crostwitz|15 Minuten|Jungen|3125|2000|
+3|3|334|Huml, Dominik|Mittelschule Cunewalde|15 Minuten|Jungen|2850|1997|
+4|4|335|Pietschmann, Jan|Mittelschule Cunewalde|15 Minuten|Jungen|2650|1997|
+5|5|245|Vogt, Wilhelm|OL-Biathlon-Verein Ringenhain|15 Minuten|Jungen|2580|2004|
+6|6|261|Köhler, Lucas|OL-Biathlon-Verein Ringenhain|15 Minuten|Jungen|2490|2001|
+7|7|272|Scholze, Adrian|OL-Biathlon-Verein Ringenhain|15 Minuten|Jungen|2460|2003|
+8|8|277|Förster, Tim|SV Grün-Weiß Elstra|15 Minuten|Jungen|2430|2001|
+9|9|279|Pietsch, Lucas|SV Grün-Weiß Elstra|15 Minuten|Jungen|2420|2004|
+10|10|321|Schäfer, Max|GS Großhartau|15 Minuten|Jungen|2420|2002|
+11|11|250|Werner, Adrian|GS Crostwitz|15 Minuten|Jungen|2400|2002|
+12|12|242|Hofmann, Luca|OL-Biathlon-Verein Ringenhain|15 Minuten|Jungen|2350|2002|
+13|13|278|Pietsch, Jonas|SV Grün-Weiß Elstra|15 Minuten|Jungen|2330|2001|
+14|14|285|Hultsch, Linus|OL-Biathlon-Verein Ringenhain|15 Minuten|Jungen|2140|2004|
+15|15|284|Opitz, Max|OL-Biathlon-Verein Ringenhain|15 Minuten|Jungen|2070|2005|
+16|16|273|Scholze, Florian|OL-Biathlon-Verein Ringenhain|15 Minuten|Jungen|2020|2008|
+17|17|270|Poike, Cedric|OL-Biathlon-Verein Ringenhain|15 Minuten|Jungen|2010|2004|
+18|18|292|Hadamus, Kurt|TV 1848 Bischofswerda|15 Minuten|Jungen|2000|2002|
+19|19|299|Vetter, Albrecht|GS Kirchstraße Bischofswerdea|15 Minuten|Jungen|2000|2003|
+20|20|326|Müller, Max|KiGa Märchenland|15 Minuten|Jungen|2000|2005|
+21|21|323|Wacker, Collin|Grundschule Süd|15 Minuten|Jungen|1850|2004|
+22|22|294|Hadamus, Fred|TV 1848 Bischofswerda|15 Minuten|Jungen|1600|2005|
+23|23|324|Schröder, Ben|KiGa Märchenland|15 Minuten|Jungen|1600|2004|
+24|24|325|Messing, Pepe|KiGa Märchenland|15 Minuten|Jungen|1600|2004|
+1|1|244|Vogt, Johanna|OL-Biathlon-Verein Ringenhain|15 Minuten|Mädchen|3310|1999|
+2|2|247|Büchner, Magdalena|SV Einheit Kamenz|15 Minuten|Mädchen|3170|1998|
+3|3|248|Heiduschka, Helena|GS Crostwitz|15 Minuten|Mädchen|2800|2001|
+4|4|289|Gerbert, Anne|TV 1848 Bischofswerda|15 Minuten|Mädchen|2800|2001|
+5|5|282|Bieneck, Natalie|Schmölln|15 Minuten|Mädchen|2750|1999|
+6|6|241|Hofmann, Elena|Steinigtwolmsdorf|15 Minuten|Mädchen|2725|1998|
+7|7|333|Thiel, Luisa|Mittelschule Cunewalde|15 Minuten|Mädchen|2650|1997|
+8|8|287|Rogalla, Pauline|TV 1848 Bischofswerda|15 Minuten|Mädchen|2630|2001|
+9|9|331|Matthes, Belinda|Mittelschule Cunewalde|15 Minuten|Mädchen|2600|1994|
+10|10|297|Kuhn, Anna Lena|GS Gaußig|15 Minuten|Mädchen|2550|2002|
+11|11|274|Mickan, Luise|OL-Biathlon-Verein Ringenhain|15 Minuten|Mädchen|2520|2003|
+12|12|266|Guhr, Vivien|OL-Biathlon-Verein Ringenhain|15 Minuten|Mädchen|2480|2001|
+13|13|267|Opitz, Michelle|OL-Biathlon-Verein Ringenhain|15 Minuten|Mädchen|2480|2001|
+14|14|288|Rogalla, Johanna|TV 1848 Bischofswerda|15 Minuten|Mädchen|2480|2000|
+15|15|262|Israel, Berta|OL-Biathlon-Verein Ringenhain|15 Minuten|Mädchen|2470|2000|
+16|16|268|Hedusch, Alina|OL-Biathlon-Verein Ringenhain|15 Minuten|Mädchen|2460|2001|
+17|17|286|Glatz, Julia|OL-Biathlon-Verein Ringenhain|15 Minuten|Mädchen|2460|2001|
+18|18|280|Unger, Cora|SV Grün-Weiß Elstra|15 Minuten|Mädchen|2430|2001|
+19|19|322|Schäfer, Anna|GS Großhartau|15 Minuten|Mädchen|2420|2002|
+20|20|316|Hartmann, Julia|Bischofswerda|15 Minuten|Mädchen|2400|2001|
+21|21|336|Tanzmann, Maria|Mittelschule Cunewalde|15 Minuten|Mädchen|2400|2000|
+22|22|281|Ullrich, Katharina|SV Grün-Weiß Elstra|15 Minuten|Mädchen|2320|2003|
+23|23|260|Hartmann, Manuela|Bischofswerda|15 Minuten|Mädchen|2300|2000|
+24|24|332|Hauptmann, Frauke|Mittelschule Cunewalde|15 Minuten|Mädchen|2300|1998|
+25|25|257|Thomschke, Marie-Jose|OL-Biathlon-Verein Ringenhain|15 Minuten|Mädchen|2290|2001|
+26|26|271|Scholze, Carolin|OL-Biathlon-Verein Ringenhain|15 Minuten|Mädchen|2290|1999|
+27|27|258|Lebelt, Lucie|OL-Biathlon-Verein Ringenhain|15 Minuten|Mädchen|2260|2001|
+28|28|290|Gerbert, Marlene|TV 1848 Bischofswerda|15 Minuten|Mädchen|2170|2004|
+29|29|264|Jahn, Vanessa|OL-Biathlon-Verein Ringenhain|15 Minuten|Mädchen|2060|1999|
+30|30|265|Guhr, Emelie|OL-Biathlon-Verein Ringenhain|15 Minuten|Mädchen|2020|2002|
+31|31|254|Müller, Fabienne|Steinigtwolsdorf|15 Minuten|Mädchen|2000|2001|
+32|32|328|Bergemann, Anna Marie|Neustadt|15 Minuten|Mädchen|2000|2004|
+33|33|263|Jahn, Lisa|OL-Biathlon-Verein Ringenhain|15 Minuten|Mädchen|1890|2004|
+34|34|276|Förster, Josephine|SV Grün-Weiß Elstra|15 Minuten|Mädchen|1890|2003|
+35|35|251|Wessela, Antonia|GS Radibor|15 Minuten|Mädchen|1600|2002|
+36|36|298|Hillig, Lilly Pauline|KIGA Regenbogen|15 Minuten|Mädchen|1600|2006|
+37|37|327|Bergemann, Julia|Neustadt|15 Minuten|Mädchen|1600|1999|
+38|38|329|Müller, Helen|TV 1848 Bischofswerda|15 Minuten|Mädchen|1600|2002|
+39|39|330|Peschke, Luisa|Butterbergwichtel|15 Minuten|Mädchen|1430|2005|
+40|40|293|Hadamus, Thea|TV 1848 Bischofswerda|15 Minuten|Mädchen|1200|2003|
+41|41|252|Wessela, Johanna|Sorbischer Kindergarten Radibo|15 Minuten|Mädchen|400|2009|
+1|1|9|Lehmann, Heiko|Obergurig|30 Minuten|Männer|7220|1965|
+2|2|91|Gerbert, Michael|TV 1848 Bischofswerda|30 Minuten|Männer|7060|1968|
+3|3|8|Kother, Jörg|Bischofswerda|30 Minuten|Männer|6860|1969|
+4|4|19|Matthäus, Vait|Bautzener LV 'Rot Weiß' 90|30 Minuten|Männer|6820|1973|
+5|5|36|Link, Stefan|AWO Bautzen|30 Minuten|Männer|6820|1977|
+6|6|107|Nuck, Andreas|SSV Planeta Radebeul|30 Minuten|Männer|6800|1978|
+8|8|13|Strosny, Wolfgang|BLV 'Rot-Weiß 90'|30 Minuten|Männer|6600|1951|
+9|9|38|Wemme, Steffen|Bischofswerda|30 Minuten|Männer|6520|1963|
+10|10|104|Arnold, Dieter|TV 1848 Bischofswerda|30 Minuten|Männer|6480|1955|
+11|11|105|Nitsche, Steffen|TSV 1990 Putzkau|30 Minuten|Männer|6400|1964|
+12|12|46|Böhmak, Andreas|Bautzen|30 Minuten|Männer|6300|1964|
+13|13|5|Herrmann, Daniel|St. Petri Bautzen|30 Minuten|Männer|6230|1995|
+14|14|112|Kayn, Uwe|Arnsdorf|30 Minuten|Männer|6200|1966|
+15|15|32|Jenak, Cornelius|TV1848 Bischofswerda|30 Minuten|Männer|6160|1997|
+16|16|96|Vetter, Tillmann|TV 1848 Bischofswerda|30 Minuten|Männer|6160|2000|
+17|17|108|Schäfer, André|TV1848 Bischofswerda|30 Minuten|Männer|6140|2000|
+18|18|39|Maletti, Rainer|Bischofswerda|30 Minuten|Männer|6080|1951|
+19|19|59|Hädicke, Robby|OL-Biathlon-Verein Ringenhain|30 Minuten|Männer|6050|1999|
+20|20|114|Kayn, Max|Arnsdorf|30 Minuten|Männer|6030|1997|
+21|21|12|Stark, Freddy|SV Gesundbrunnen Bautzen|30 Minuten|Männer|6000|1964|
+22|22|15|Wacker, Lutz|Bischofswerda|30 Minuten|Männer|6000|1973|
+23|23|16|Zumpe, Thomas|TV 1848 Bischofswerda|30 Minuten|Männer|6000|1962|
+24|24|43|Mrosowski, Frank|TV 1848 Bischofswerda|30 Minuten|Männer|6000|1981|
+25|25|83|Bieneck, Henry|Schmölln|30 Minuten|Männer|6000|1960|
+26|26|119|Nowotny, Rico|Bischofswerda|30 Minuten|Männer|6000|1974|
+27|27|75|Nitsche, Felix|OL-Biathlon-Verein Ringenhain|30 Minuten|Männer|5950|1998|
+28|28|10|Pakoßnick, Gernot|FSG Bautzen|30 Minuten|Männer|5840|1942|
+29|29|120|Hetmank, Reiner|SG Großröhrsdorf|30 Minuten|Männer|5840|1950|
+30|30|11|Schäfer, Werner|TV 1848 Bischofswerda|30 Minuten|Männer|5600|1938|
+31|31|1|Bär, Armin|TV 1848 Bischofswerda|30 Minuten|Männer|5530|1948|
+32|32|6|Herrmann, Heinz|TV 1848 Bischofswerda|30 Minuten|Männer|5500|1949|
+33|33|17|Schindler, Hartmut|OSC Löbau|30 Minuten|Männer|5360|1945|
+34|34|4|Herrmann, Christian|St. Petri Bautzen|30 Minuten|Männer|5220|1967|
+35|35|53|Zosel, Hans|OSC Löbau|30 Minuten|Männer|5200|1939|
+36|36|35|Dreier, Peter|Burkau|30 Minuten|Männer|5000|1999|
+
+37|37|20|Gähler, Johann|St. Petri Bautzen|30 Minuten|Männer|4990|1999|
+38|38|55|Große, Holm|Oberlausitz|30 Minuten|Männer|4580|1966|
+39|39|21|Wolf, Siegfried|MSV Blau-Weiß Kreckwitz|30 Minuten|Männer|4430|1939|
+40|40|103|Hemedinger, Marvin|Schönbrunn|30 Minuten|Männer|4400|2002|
+41|41|118|Schurig, Tobias|Bischofswerda|30 Minuten|Männer|4000|1998|
+42|42|34|Lieback, Bernd|Wolf-Haus-Pirna|30 Minuten|Männer|3980|1951|
+43|43|95|Vetter, Tillmann|TV 1848 Bischofswerda|30 Minuten|Männer|3780|2000|
+1|1|24|Heiduschka, Claudia|SG Crostwitz 1981|30 Minuten|Frauen|7110|1974|
+2|2|22|Dreier, Grit|Burkau|30 Minuten|Frauen|6470|1971|
+3|3|25|Paschke, Manuela|SG Crostwitz 1981|30 Minuten|Frauen|6070|1984|
+4|4|2|Büchner-Reuter, Carola|SV Einheit Kamenz|30 Minuten|Frauen|6020|1966|
+5|5|69|Poike, Tamina|OL-Biathlon-Verein Ringenhain|30 Minuten|Frauen|6020|1999|
+6|6|27|Vogt, Anja|OL-Biathlon-Verein Ringenhain|30 Minuten|Frauen|5890|1969|
+7|7|28|Langanki, Annett|TSG Bretnig-Hauswalde|30 Minuten|Frauen|5890|1966|
+8|8|31|Nadolny, Emma|TV 1848 Bischofswerda|30 Minuten|Frauen|5600|1998|
+9|9|33|Schneider, Laura|TV1848 Bischofswerda|30 Minuten|Frauen|5600|1997|
+10|10|102|Müller, Annett|TV 1848 Bischofswerda|30 Minuten|Frauen|5600|1972|
+11|11|111|Marx, Sandra|HSG Turbine|30 Minuten|Frauen|5580|1988|
+12|12|26|Pötschke, Kristina|TV 1848 Bischofswerda|30 Minuten|Frauen|5470|1951|
+13|13|109|Schäfer, Yvonne|TV1848 Bischofswerda|30 Minuten|Frauen|5460|2000|
+14|14|29|Aßmann, Elisabeth|SV 'Grün-Weiß' Elstra|30 Minuten|Frauen|5220|1996|
+15|15|37|Jenak, Elisabeth|TV1848 Bischofswerda|30 Minuten|Frauen|5220|1993|
+16|16|14|Ullrich, Diana|SV Grün-Weiß Elstra|30 Minuten|Frauen|5130|1966|
+17|17|40|Hofmann, Anke|Steinigtwolmdorf|30 Minuten|Frauen|5070|1969|
+18|18|117|Jenak, Deborah|TV 1848 Bischofswerda|30 Minuten|Frauen|5000|2001|
+19|19|18|Schröder, Yvonne|Bischofswerda|30 Minuten|Frauen|4920|1973|
+20|20|100|Bergemann, Susann|Neustadt|30 Minuten|Frauen|4920|2000|
+21|21|115|Kayn, Anna|Arnsdorf|30 Minuten|Frauen|4600|2000|
+22|22|106|Nitsche, Ines|Neukirch|30 Minuten|Frauen|4400|1966|
+23|23|110|Zumpe, Ursel|TV 1848 Bischofswerda|30 Minuten|Frauen|4400|1960|
+24|24|3|Helm, Hella|KSV Königswartha|30 Minuten|Frauen|4310|1946|
+25|25|30|Wessela, Sylvia|Radebor|30 Minuten|Frauen|4270|1981|
+26|26|23|Gähler, Katrin|St. Petri Bautzen|30 Minuten|Frauen|4260|1969|
+27|27|7|Kliche, Daniela|TV 1848 Bischofswerda|30 Minuten|Frauen|4000|1978|
+28|28|113|Kayn, Anja|Arnsdorf|30 Minuten|Frauen|3720|1968|
