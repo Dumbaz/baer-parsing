@@ -99,19 +99,17 @@ def parsing(url):
 # Rewrites the url to hopefully change page=i to page=i+1
 def search_pages(leading_url):
     print leading_url
-    #get last character
-    trailingchar = leading_url[-1:]
-    #turn into int
-    trailingnumber = int(trailingchar)
+    #get the page number modificator
+    pageNum = int(leading_url.split("page=")[len(leading_url.split("page="))-1])
 
     #line wihtout last char
-    input_line = leading_url[:-1]
+    input_line = leading_url.split("page=")[0]
 
     #increment trailingchar
-    trailingnumber = trailingnumber + 1
+    pageNum = pageNum + 1
 
     #append to input_line
-    new_url = input_line + str(trailingnumber)
+    new_url = input_line + "page=" + str(pageNum)
     print new_url
     return new_url
 
