@@ -8,8 +8,9 @@ import csv, codecs, cStringIO
 # URL for the first page http://www.baer-service.de/ergebnisliste.php?lid=GAU&ak=&strecke=13,0%20km&sort=`geschlecht`,`platzTotal`&suche=&jahr=2015&style=&page=0
 bearurl = "http://www.baer-service.de/ergebnisliste.php?lid=HZS&jahr=2015&sort=`strecke`,`geschlecht`,`platzTotal`,`bruttozeit`&geschlecht=" + "&page=0"
 
-future_file_name = raw_input("Enter the name of the race \n").replace(' ', '_').replace('.', '')
-print "File Name will be " + future_file_name + ".csv"
+future_file_name = raw_input("Enter the name of the race \n").replace(' ',
+'_').replace('.', '') + ".csv"
+print "File Name will be " + future_file_name
 input_url = raw_input("Enter an URL \n")
 print "Doing work...."
 
@@ -113,7 +114,20 @@ def parsing(url):
 
 parsing(bearurl)
 
-with open(future_file_name, 'wb') as f:
+file_name = contest_name.replace(' ', '_').replace('.', '').replace('/','-') + ".csv"
+
+metadata = []
+metadata.append("## Baer")
+metadata.append("## " + full_url)
+metadata.append("## Event: " + contest_name)
+metadata.append("## Contest: " + "") ##TODO append actual contest name
+metadata.append("## Year: " + "2014")
+metadata.append("## Crawled: " + str(datetime.now()))
+metadata.append("#### " + "END METADATA")
+
+with open(file_name, 'wb') as f:
     writer = csv.writer(f, delimiter='|')
+    writer.writerows(metadata)
     writer.writerows(headers)
     writer.writerows(records)
+

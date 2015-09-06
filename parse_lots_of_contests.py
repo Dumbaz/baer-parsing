@@ -1,15 +1,18 @@
 from bs4 import BeautifulSoup
 from datetime import date
+from datetime import datetime
 import urllib2, random, csv
 
 url_no_year = "http://www.baer-service.de/history.php?jahr="
 
 # year for the first page
-first_page_url = 2012
+first_page_url = 2014
 
 #first entries are from 1978
 #get current year so we know where to end the loop
 current_year = date.today().year
+
+current_year = 2014 # TODO remove temporary hack
 
 start = url_no_year + str(first_page_url)
 end = url_no_year + str(current_year)
@@ -127,8 +130,20 @@ for url in overview_url_list:
 			headers = []
 			records = []
 			parsing(full_url)
-			with open(contest_name.replace(' ', '_').replace('.', '').replace('/', '-'), 'wb') as f:
+			file_name = contest_name.replace(' ', '_').replace('.', '').replace('/','-') + ".csv"
+
+			metadata = []
+			metadata.append("## Baer")
+			metadata.append("## " + full_url)
+			metadata.append("## Event: " + contest_name)
+			metadata.append("## Contest: " + "") ##TODO append actual contest name
+			metadata.append("## Year: " + "2014")
+			metadata.append("## Crawled: " + str(datetime.now()))
+			metadata.append("#### " + "END METADATA")
+
+			with open(file_name, 'wb') as f:
 				writer = csv.writer(f, delimiter='|')
+				writer.writerows(metadata)
 				writer.writerows(headers)
 				writer.writerows(records)
 
